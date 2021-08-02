@@ -11,4 +11,5 @@
 * **Claudia Luz Rojas Soto** - [Claudiars20](https://github.com/Claudiars20)
 * **Melanie Indira Sullca Peralta** - [Melanie279](https://github.com/Melanie279)
 * **Cesar Rodrigo Ttito Quilca** 
+---
 ⌨️ con ❤️ por [Claudiars20](https://github.com/Claudiars20) 😊
