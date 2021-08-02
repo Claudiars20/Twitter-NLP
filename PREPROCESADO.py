@@ -93,7 +93,7 @@ def Preprocessing(texto):
                 if ("//" not in word_tokens[i]):
                     # REALIZAMOS LA LEMATIZACION
                     word_tokens[i] = Lemmatization(word_tokens[i])
-                    if (word_tokens[i] not in stop_words):
+                    if (word_tokens[i] not in stop_words and len(word_tokens[i])>2):
                         filtered.append(word_tokens[i])
 
         if (bandera == True and word_tokens[i] != "@"): bandera = False
