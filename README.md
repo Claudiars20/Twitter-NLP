@@ -28,10 +28,11 @@
 
 
 ## Autores ✒️
-* **Fiorella Silvia Choque Bueno**
-* **Melissa Espejo Franco**
+* **Fiorella Silvia Choque Bueno** - [FioChoque](https://github.com/FioChoque)
+* **Melissa Espejo Franco** - [melissaespejo](https://github.com/melissaespejo)
 * **Alexander Junior Monzon Montalvo** - [alexojo](https://github.com/alexojo)
 * **Claudia Luz Rojas Soto** - [Claudiars20](https://github.com/Claudiars20)
 * **Melanie Indira Sullca Peralta** - [Melanie279](https://github.com/Melanie279)
-* **Cesar Rodrigo Ttito Quilca** 
+* **Cesar Rodrigo Ttito Quilca** - [cesarodrigo21](https://github.com/cesarodrigo21)
+---
 ⌨️ con ❤️ por [Claudiars20](https://github.com/Claudiars20) 😊
