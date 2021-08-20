@@ -38,4 +38,4 @@
 * **Melanie Indira Sullca Peralta** - [Melanie279](https://github.com/Melanie279)
 * **Cesar Rodrigo Ttito Quilca** - [cesarodrigo21](https://github.com/cesarodrigo21)
 ---
-⌨️ con ❤️ por [Claudiars20](https://github.com/Claudiars20) 😊
+⌨️ con ❤️ por [alexojo](https://github.com/alexojo) y [Claudiars20](https://github.com/Claudiars20) 😊
