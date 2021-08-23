@@ -15,8 +15,8 @@
 
 ## Proceso de Ejecución 
 
-1. Crear carpetas 📁: `CORPUS`, `CORPUS-PREPROCESADO`,`EXCEL`,`EXCEL-TF`,`NUBE DE PALABRAS`,`TRENDS`,`TRENDS-CSV`
-2. Ejecutar: `TRENDS.py` ➡️ `CORPUS CREATOR.py` ➡️ `TRENDS-CSV.py` ➡️ `BOW-WORDCLOUD.py` (Seguir orden)
+1. Crear carpetas 📁: `CORPUS`
+2. Ejecutar: `CORPUS CREATOR.py` ➡️ `PREPROCESADO.py` ➡️ `BOW-WORDCLOUD.py` ➡️ `FIND TITULAR.py` (Seguir orden)
 
 ## Construcción del Periodico 
 * Construcción de modelo de periódico en ReactJS - [GitHub](https://github.com/Claudiars20/news-paper-react)
