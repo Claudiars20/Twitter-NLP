@@ -1,0 +1,23 @@
+
+Text file name: D:\Desktop\Universidad\21-1\Lenguaje\GrafosConceptuales\Data_05_09\DataPolitica\POLITICA.txt
+
+Configuration:
+Drop list file name: D:\Desktop\Universidad\21-1\Lenguaje\GrafosConceptuales\Data_05_09\DataPolitica\StopWordsTW.txt
+Include list file name: none
+Character filter file name: none
+Select list file name: none
+Drop words less frequent than: 3
+Drop word pairs less frequent than: 3
+Preserve wordpair order: yes
+Include numbers as words: no
+Link until sentence end: yes
+Link steps: 3
+Linkage Strength Method: CONSTANT
+Remove punctuation inside words: yes
+Compound words: combine
+Using Porter stemming algorithm: no
+Using Chinese filter: no
+Replace English contracted forms: no
+Replace 's ending by is word: no
+
+The program processed the file in 0.00186305 minutes.

@@ -1,0 +1,180 @@
+﻿*Vertices 120
+1	"josé"
+2	"luis"
+3	"latorre"
+4	"jefe"
+5	"nacional"
+6	"dini"
+7	"gobierno"
+8	"pedro"
+9	"castillo"
+10	"caso"
+11	"cuarto"
+12	"mujer"
+13	"madre"
+14	"medida"
+15	"cáncer"
+16	"palacios"
+17	"brasil"
+18	"argentina"
+19	"policía"
+20	"autoridad"
+21	"rafael"
+22	"premier"
+23	"bermejo"
+24	"maría"
+25	"carmen"
+26	"alva"
+27	"bellido"
+28	"sector"
+29	"minsa"
+30	"domingo"
+31	"persona"
+32	"año"
+33	"alianza"
+34	"lima"
+35	"perú"
+36	"venezuela"
+37	"guillermo"
+38	"méxico"
+39	"sanción"
+40	"sjl"
+41	"setiembre"
+42	"director"
+43	"congresista"
+44	"acción"
+45	"popular"
+46	"comisión"
+47	"Ética"
+48	"movadef"
+49	"presidencia"
+50	"iber"
+51	"maraví"
+52	"lea"
+53	"columna"
+54	"jorge"
+55	"vacancia"
+56	"talibán"
+57	"presidente"
+58	"proceso"
+59	"vida"
+60	"población"
+61	"violencia"
+62	"ministerio"
+63	"centro"
+64	"vacunación"
+65	"golpe"
+66	"vacunatorio"
+67	"callao"
+68	"salud"
+69	"llegada"
+70	"ciudadanía"
+71	"vacunatón"
+72	"ica"
+73	"agua"
+74	"distrito"
+75	"dólares"
+76	"mes"
+77	"educación"
+78	"dosis"
+79	"semana"
+80	"metropolitana"
+81	"región"
+82	"millón"
+83	"país"
+84	"grupo"
+85	"institución"
+86	"inmunización"
+87	"septiembre"
+88	"afluencia"
+89	"estudiante"
+90	"libre"
+91	"fecha"
+92	"programa"
+93	"día"
+94	"pueblo"
+95	"cambio"
+96	"afganistán"
+97	"líder"
+98	"unmsm"
+99	"postulant"
+100	"examen"
+101	"admisión"
+102	"san"
+103	"marcos"
+104	"ee"
+105	"uu"
+106	"lee"
+107	"número"
+108	"signo"
+109	"informe"
+110	"ministro"
+111	"congreso"
+112	"república"
+113	"titular"
+114	"martes"
+115	"audiencia"
+116	"parlamentario"
+117	"candidato"
+118	"información"
+119	"concurso"
+120	"clase"
+*Arcs
+1	2	4
+1	3	3
+2	3	3
+8	9	8
+9	52	3
+17	18	4
+24	25	4
+24	26	4
+25	26	4
+26	55	3
+29	31	3
+29	32	6
+29	78	3
+30	31	4
+30	32	5
+30	87	6
+31	32	9
+32	34	5
+32	67	4
+32	78	3
+32	80	3
+32	86	3
+34	67	7
+34	72	5
+34	80	5
+34	81	3
+35	90	5
+37	23	3
+44	45	4
+46	47	5
+50	51	6
+52	53	19
+53	2	3
+57	8	3
+57	9	5
+62	68	8
+63	64	4
+63	78	3
+64	32	3
+64	78	3
+67	72	4
+67	81	3
+71	30	3
+71	87	3
+80	67	4
+80	72	4
+87	31	3
+87	32	3
+92	94	4
+94	12	3
+100	101	6
+100	102	3
+100	103	3
+101	102	3
+101	103	3
+102	103	3
+104	105	3
+106	53	8

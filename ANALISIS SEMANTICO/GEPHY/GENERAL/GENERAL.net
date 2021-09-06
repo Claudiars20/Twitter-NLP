@@ -1,0 +1,2389 @@
+﻿*Vertices 1106
+1	"dama"
+2	"lilia"
+3	"paredes"
+4	"población"
+5	"vacunatón"
+6	"vacuna"
+7	"josé"
+8	"colegio"
+9	"profesional"
+10	"perú"
+11	"periodo"
+12	"españa"
+13	"georgia"
+14	"clasificatoria"
+15	"mundial"
+16	"catar"
+17	"italia"
+18	"empate"
+19	"récord"
+20	"partido"
+21	"clasificatorias"
+22	"día"
+23	"internacional"
+24	"mujer"
+25	"indígena"
+26	"rumbo"
+27	"república"
+28	"alemania"
+29	"público"
+30	"liderazgo"
+31	"grupo"
+32	"j"
+33	"miembro"
+34	"personal"
+35	"seguridad"
+36	"interior"
+37	"estadio"
+38	"nacional"
+39	"exportación"
+40	"julio"
+41	"frente"
+42	"mes"
+43	"mayores"
+44	"precio"
+45	"resultado"
+46	"noticia"
+47	"madre"
+48	"dios"
+49	"conmebol"
+50	"suspensión"
+51	"autoridad"
+52	"encuentro"
+53	"brasil"
+54	"argentina"
+55	"eliminatorias"
+56	"jugador"
+57	"premier"
+58	"league"
+59	"información"
+60	"ingreso"
+61	"país"
+62	"atención"
+63	"consulta"
+64	"examen"
+65	"admisión"
+66	"universidad"
+67	"san"
+68	"marcos"
+69	"qatar"
+70	"galería"
+71	"foto"
+72	"efe"
+73	"brasilargentina"
+74	"tuit"
+75	"albiceleste"
+76	"región"
+77	"cusco"
+78	"caso"
+79	"variante"
+80	"delta"
+81	"distrito"
+82	"sebastián"
+83	"gobernador"
+84	"jean"
+85	"paul"
+86	"presidente"
+87	"carlos"
+88	"comisión"
+89	"proceso"
+90	"carrera"
+91	"concurso"
+92	"beca"
+93	"institución"
+94	"regulador"
+95	"selección"
+96	"gol"
+97	"clásico"
+98	"américa"
+99	"arena"
+100	"sao"
+101	"paulo"
+102	"israel"
+103	"puerta"
+104	"turista"
+105	"ola"
+106	"juan"
+107	"lurigancho"
+108	"rodríguez"
+109	"niño"
+110	"programa"
+111	"museo"
+112	"hora"
+113	"gratis"
+114	"maría"
+115	"garcía"
+116	"vida"
+117	"empresa"
+118	"méxico"
+119	"paso"
+120	"caravana"
+121	"migrant"
+122	"us"
+123	"millón"
+124	"monto"
+125	"inglaterra"
+126	"andorra"
+127	"retorno"
+128	"aula"
+129	"setiembre"
+130	"judicial"
+131	"audiencia"
+132	"esterilización"
+133	"condición"
+134	"clase"
+135	"medida"
+136	"forma"
+137	"vuelta"
+138	"lingard"
+139	"gobierno"
+140	"deportación"
+141	"futbolista"
+142	"peru"
+143	"of"
+144	"peruana"
+145	"venezuela"
+146	"lima"
+147	"callao"
+148	"huancavelica"
+149	"planta"
+150	"oxígeno"
+151	"juegos"
+152	"paralímpicos"
+153	"tokio"
+154	"clave"
+155	"autogestión"
+156	"rol"
+157	"familia"
+158	"comunidad"
+159	"libre"
+160	"Ética"
+161	"presidencia"
+162	"congresista"
+163	"cruz"
+164	"guinea"
+165	"cajamarca"
+166	"centro"
+167	"Ángeles"
+168	"proyecto"
+169	"provincia"
+170	"miguel"
+171	"cuestión"
+172	"omar"
+173	"ley"
+174	"evento"
+175	"arequipa"
+176	"piura"
+177	"vacunación"
+178	"año"
+179	"metropolitana"
+180	"ica"
+181	"acceso"
+182	"internet"
+183	"app"
+184	"acción"
+185	"popular"
+186	"viento"
+187	"vivienda"
+188	"ayuda"
+189	"nota"
+190	"jefa"
+191	"ceremonia"
+192	"clausura"
+193	"mecanismo"
+194	"elección"
+195	"magistrado"
+196	"tc"
+197	"parís"
+198	"relevo"
+199	"ejecución"
+200	"aeropuerto"
+201	"chinchero"
+202	"herido"
+203	"incapacidad"
+204	"destino"
+205	"sudamérica"
+206	"Óscar"
+207	"turismo"
+208	"sector"
+209	"cultura"
+210	"protección"
+211	"sinopharm"
+212	"inflación"
+213	"latinoamérica"
+214	"ministro"
+215	"inicio"
+216	"pueblo"
+217	"ciro"
+218	"gálvez"
+219	"participación"
+220	"medalla"
+221	"oro"
+222	"vídeo"
+223	"jornada"
+224	"director"
+225	"función"
+226	"lengua"
+227	"signo"
+228	"bosque"
+229	"piedra"
+230	"uruguay"
+231	"triunfo"
+232	"bolivia"
+233	"movistar"
+234	"deportes"
+235	"canal"
+236	"paraguay"
+237	"colombia"
+238	"posibilidad"
+239	"ecuador"
+240	"chile"
+241	"lunes"
+242	"organización"
+243	"coronavirus"
+244	"eliminatoria"
+245	"peruano"
+246	"latina"
+247	"fútbol"
+248	"horas"
+249	"alianza"
+250	"título"
+251	"copa"
+252	"femenina"
+253	"final"
+254	"eeuu"
+255	"pandemia"
+256	"viaje"
+257	"contagio"
+258	"fecha"
+259	"persona"
+260	"alejandra"
+261	"dato"
+262	"dosis"
+263	"europa"
+264	"urgencia"
+265	"reto"
+266	"joven"
+267	"estrategia"
+268	"talento"
+269	"adolescente"
+270	"comorbilidad"
+271	"cambio"
+272	"valle"
+273	"colca"
+274	"agenda"
+275	"actividad"
+276	"congreso"
+277	"cuba"
+278	"sistema"
+279	"alerta"
+280	"objetivo"
+281	"costa"
+282	"mensaje"
+283	"vania"
+284	"bludau"
+285	"reinas"
+286	"show"
+287	"directora"
+288	"inmunización"
+289	"minsa"
+290	"mañana"
+291	"equipo"
+292	"gian"
+293	"piero"
+294	"díaz"
+295	"detalle"
+296	"chico"
+297	"eeg"
+298	"debut"
+299	"reality"
+300	"televisa"
+301	"estrella"
+302	"torres"
+303	"tommy"
+304	"portugal"
+305	"red"
+306	"melissa"
+307	"baile"
+308	"robo"
+309	"hampón"
+310	"vehículo"
+311	"domingo"
+312	"vacante"
+313	"jefe"
+314	"delincuente"
+315	"titular"
+316	"declaración"
+317	"ojo"
+318	"tormenta"
+319	"talibán"
+320	"avión"
+321	"cuerpo"
+322	"sur"
+323	"coronel"
+324	"acto"
+325	"papa"
+326	"francisco"
+327	"refugiado"
+328	"plan"
+329	"inversión"
+330	"unidos"
+331	"economía"
+332	"residencia"
+333	"covid"
+334	"situación"
+335	"mundo"
+336	"puesto"
+337	"medallero"
+338	"lucha"
+339	"aporte"
+340	"ataque"
+341	"york"
+342	"periodista"
+343	"guerra"
+344	"cuarentena"
+345	"hombre"
+346	"música"
+347	"voz"
+348	"ciencia"
+349	"reacción"
+350	"actitud"
+351	"político"
+352	"libro"
+353	"historia"
+354	"muerte"
+355	"investigación"
+356	"cantidad"
+357	"alter"
+358	"ego"
+359	"holmes"
+360	"prueba"
+361	"compañía"
+362	"enfermedad"
+363	"cáncer"
+364	"cara"
+365	"amor"
+366	"tráfico"
+367	"problema"
+368	"crimen"
+369	"lara"
+370	"crónica"
+371	"caída"
+372	"paz"
+373	"afganistán"
+374	"ciencias"
+375	"ejercicio"
+376	"honor"
+377	"hija"
+378	"tony"
+379	"muestra"
+380	"dolor"
+381	"revista"
+382	"escritor"
+383	"español"
+384	"empleado"
+385	"boxeador"
+386	"experto"
+387	"artes"
+388	"ciudad"
+389	"caracas"
+390	"qaeda"
+391	"islámico"
+392	"aspiración"
+393	"china"
+394	"oeste"
+395	"mexicano"
+396	"anne"
+397	"democracia"
+398	"premio"
+399	"pulitzer"
+400	"torre"
+401	"atentado"
+402	"septiembre"
+403	"curso"
+404	"semana"
+405	"infección"
+406	"poeta"
+407	"ensayo"
+408	"mito"
+409	"imagen"
+410	"muro"
+411	"participante"
+412	"the"
+413	"paciente"
+414	"cuidado"
+415	"report"
+416	"niña"
+417	"alternativa"
+418	"hogar"
+419	"padre"
+420	"sequía"
+421	"teresa"
+422	"elizabeth"
+423	"gareca"
+424	"cariño"
+425	"tabla"
+426	"posición"
+427	"capitán"
+428	"crítica"
+429	"padrón"
+430	"pedro"
+431	"castillo"
+432	"incremento"
+433	"relación"
+434	"convoca"
+435	"agua"
+436	"ambiente"
+437	"escolar"
+438	"daniel"
+439	"uci"
+440	"riesgo"
+441	"edad"
+442	"modalidad"
+443	"estafa"
+444	"compra"
+445	"venta"
+446	"dinero"
+447	"busca"
+448	"impunidad"
+449	"entrevista"
+450	"pérez"
+451	"justicia"
+452	"fiscal"
+453	"nación"
+454	"competencia"
+455	"administración"
+456	"colaboración"
+457	"luis"
+458	"latorre"
+459	"dirección"
+460	"inteligencia"
+461	"dini"
+462	"cuarto"
+463	"belleza"
+464	"denuncia"
+465	"escuela"
+466	"escándalo"
+467	"obra"
+468	"avance"
+469	"parque"
+470	"funcionario"
+471	"peligro"
+472	"papelón"
+473	"fifa"
+474	"dybala"
+475	"lionel"
+476	"messi"
+477	"tapia"
+478	"vs"
+479	"visitante"
+480	"banderazo"
+481	"corinthians"
+482	"scaloni"
+483	"anvisa"
+484	"mem"
+485	"fotos"
+486	"papel"
+487	"interrupción"
+488	"campeón"
+489	"liga"
+490	"universitario"
+491	"consecuencia"
+492	"local"
+493	"duelo"
+494	"llegada"
+495	"pelea"
+496	"cholito"
+497	"lapadula"
+498	"cueva"
+499	"hincha"
+500	"ricardo"
+501	"cabeza"
+502	"mercado"
+503	"luz"
+504	"fc"
+505	"barcelona"
+506	"koeman"
+507	"cosa"
+508	"discusión"
+509	"kane"
+510	"compañero"
+511	"united"
+512	"serie"
+513	"punto"
+514	"bale"
+515	"victoria"
+516	"gales"
+517	"visita"
+518	"bielorrusia"
+519	"gareth"
+520	"hattrick"
+521	"sueño"
+522	"espinoza"
+523	"rodrigo"
+524	"guillén"
+525	"efraín"
+526	"sotacuro"
+527	"camiseta"
+528	"cristiano"
+529	"ronaldo"
+530	"motivo"
+531	"locura"
+532	"neymar"
+533	"psg"
+534	"euros"
+535	"link"
+536	"horario"
+537	"vía"
+538	"play"
+539	"burofax"
+540	"laporta"
+541	"canadá"
+542	"pública"
+543	"minuto"
+544	"quito"
+545	"espn"
+546	"europeas"
+547	"mercedes"
+548	"sports"
+549	"defensores"
+550	"chaco"
+551	"river"
+552	"plate"
+553	"independiente"
+554	"boca"
+555	"central"
+556	"culpa"
+557	"alineación"
+558	"chorri"
+559	"enemigo"
+560	"vestimenta"
+561	"medio"
+562	"cancha"
+563	"essalud"
+564	"instituto"
+565	"sedapal"
+566	"abastecimiento"
+567	"emergencia"
+568	"pese"
+569	"pedido"
+570	"ugaz"
+571	"norma"
+572	"viajero"
+573	"reino"
+574	"unido"
+575	"agencia"
+576	"sanitaria"
+577	"vladimir"
+578	"cerrón"
+579	"alva"
+580	"vacancia"
+581	"falta"
+582	"respeto"
+583	"renato"
+584	"comentario"
+585	"viernes"
+586	"maduro"
+587	"covax"
+588	"aída"
+589	"domicilio"
+590	"semipresencialidad"
+591	"transporte"
+592	"olivos"
+593	"pnp"
+594	"casa"
+595	"apuesta"
+596	"víctima"
+597	"camioneta"
+598	"rosangella"
+599	"bellido"
+600	"manotazo"
+601	"gianluca"
+602	"christian"
+603	"carmen"
+604	"presidenta"
+605	"calle"
+606	"aprobación"
+607	"joe"
+608	"biden"
+609	"manejo"
+610	"retiro"
+611	"tropa"
+612	"guatemala"
+613	"ciudadano"
+614	"estudiante"
+615	"martes"
+616	"arabia"
+617	"saudita"
+618	"misil"
+619	"drón"
+620	"yemen"
+621	"secretario"
+622	"esposo"
+623	"gemelo"
+624	"palabra"
+625	"polémica"
+626	"zona"
+627	"corte"
+628	"servicio"
+629	"sjl"
+630	"aniego"
+631	"tarde"
+632	"sábado"
+633	"postulante"
+634	"tacna"
+635	"unmsm"
+636	"policía"
+637	"presencia"
+638	"vista"
+639	"ministerio"
+640	"opinión"
+641	"Ángel"
+642	"importancia"
+643	"césar"
+644	"isabel"
+645	"león"
+646	"editorial"
+647	"contraloría"
+648	"auto"
+649	"dólares"
+650	"terrorismo"
+651	"maraví"
+652	"rivera"
+653	"mu"
+654	"frontera"
+655	"guido"
+656	"fernández"
+657	"horóscopo"
+658	"predicción"
+659	"briceño"
+660	"portada"
+661	"rojas"
+662	"fiesta"
+663	"diálogo"
+664	"sanidad"
+665	"vergüenza"
+666	"salida"
+667	"tumbes"
+668	"puente"
+669	"osinergmin"
+670	"cobertura"
+671	"vale"
+672	"sétima"
+673	"manchester"
+674	"costo"
+675	"bono"
+676	"sol"
+677	"subsidio"
+678	"beneficiario"
+679	"palacios"
+680	"gallese"
+681	"ramos"
+682	"brecha"
+683	"autor"
+684	"feria"
+685	"lee"
+686	"exposición"
+687	"banco"
+688	"retraso"
+689	"funcionamiento"
+690	"etapa"
+691	"línea"
+692	"ii"
+693	"edición"
+694	"trabajador"
+695	"reunión"
+696	"alcalde"
+697	"amazonas"
+698	"loreto"
+699	"postulant"
+700	"incendio"
+701	"banda"
+702	"derecho"
+703	"política"
+704	"conductor"
+705	"siglo"
+706	"permiso"
+707	"aforo"
+708	"nivel"
+709	"oficial"
+710	"senior"
+711	"roberto"
+712	"hotel"
+713	"rafael"
+714	"lópez"
+715	"aliaga"
+716	"emisario"
+717	"bermejo"
+718	"gabinete"
+719	"francia"
+720	"santiago"
+721	"guillermo"
+722	"dávila"
+723	"necesidad"
+724	"dina"
+725	"boluarte"
+726	"activo"
+727	"sanción"
+728	"materia"
+729	"negocio"
+730	"expresidente"
+731	"wilson"
+732	"soto"
+733	"bancada"
+734	"movadef"
+735	"iber"
+736	"jorge"
+737	"quechua"
+738	"linares"
+739	"camino"
+740	"violencia"
+741	"expectativa"
+742	"mal"
+743	"magaly"
+744	"medina"
+745	"abuela"
+746	"daño"
+747	"gabriela"
+748	"jiménez"
+749	"vacunatorio"
+750	"vaca"
+751	"apoyo"
+752	"sociedad"
+753	"laura"
+754	"ladrón"
+755	"toque"
+756	"impacto"
+757	"world"
+758	"trade"
+759	"center"
+760	"gianella"
+761	"infarto"
+762	"operación"
+763	"causa"
+764	"danna"
+765	"paola"
+766	"pijama"
+767	"alcohol"
+768	"gisela"
+769	"valcárcel"
+770	"ethel"
+771	"pozo"
+772	"expareja"
+773	"paolo"
+774	"guerrero"
+775	"lotería"
+776	"dueño"
+777	"boleto"
+778	"técnico"
+779	"herrera"
+780	"diana"
+781	"sánchez"
+782	"baigorria"
+783	"pamela"
+784	"brenda"
+785	"carvalho"
+786	"gala"
+787	"mario"
+788	"nicola"
+789	"porcella"
+790	"cantante"
+791	"emilia"
+792	"drago"
+793	"rosángela"
+794	"patricio"
+795	"parodi"
+796	"ins"
+797	"milagro"
+798	"migraciones"
+799	"paloma"
+800	"fiuza"
+801	"herida"
+802	"guerreros"
+803	"eva"
+804	"ayllón"
+805	"daniela"
+806	"darcourt"
+807	"gana"
+808	"condena"
+809	"fraude"
+810	"descompensación"
+811	"nervio"
+812	"enfrentamiento"
+813	"acevedo"
+814	"suárez"
+815	"barrio"
+816	"actor"
+817	"cachín"
+818	"película"
+819	"asu"
+820	"mare"
+821	"carne"
+822	"reina"
+823	"razón"
+824	"chyno"
+825	"miranda"
+826	"natasha"
+827	"araos"
+828	"angie"
+829	"jibaja"
+830	"hijo"
+831	"arma"
+832	"fuego"
+833	"tilsa"
+834	"versu"
+835	"bachata"
+836	"martínez"
+837	"muerto"
+838	"tiroteo"
+839	"flow"
+840	"escena"
+841	"malanga"
+842	"lady"
+843	"emoción"
+844	"nombre"
+845	"machista"
+846	"cargo"
+847	"integrante"
+848	"gabriel"
+849	"pastor"
+850	"temporada"
+851	"giselo"
+852	"rumor"
+853	"ampay"
+854	"am"
+855	"andrés"
+856	"web"
+857	"decisión"
+858	"mano"
+859	"árbitro"
+860	"online"
+861	"reloj"
+862	"sheyla"
+863	"frase"
+864	"olivo"
+865	"gasto"
+866	"educación"
+867	"ritmo"
+868	"campo"
+869	"marte"
+870	"directo"
+871	"tierra"
+872	"capítulo"
+873	"golpe"
+874	"combate"
+875	"cadena"
+876	"bus"
+877	"terror"
+878	"saldaña"
+879	"josimar"
+880	"silencio"
+881	"señal"
+882	"auge"
+883	"kandahar"
+884	"cuna"
+885	"sam"
+886	"heughan"
+887	"sophie"
+888	"skelton"
+889	"versión"
+890	"salud"
+891	"noche"
+892	"promoción"
+893	"trome"
+894	"leslie"
+895	"moscoso"
+896	"bambas"
+897	"informe"
+898	"david"
+899	"cielo"
+900	"permanencia"
+901	"oposición"
+902	"negociación"
+903	"dz"
+904	"acuerdo"
+905	"condé"
+906	"fuerza"
+907	"alpha"
+908	"capital"
+909	"disparo"
+910	"conjunto"
+911	"general"
+912	"animal"
+913	"rival"
+914	"marcha"
+915	"familiar"
+916	"libertad"
+917	"ee"
+918	"uu"
+919	"bukele"
+920	"fallo"
+921	"supremo"
+922	"reelección"
+923	"líder"
+924	"protesta"
+925	"contenido"
+926	"suscriptor"
+927	"comercio"
+928	"suscríbete"
+929	"militantes"
+930	"talibanes"
+931	"florida"
+932	"bebé"
+933	"tolerancia"
+934	"procurador"
+935	"bicolor"
+936	"huracán"
+937	"ida"
+938	"murdaugh"
+939	"abogado"
+940	"zelanda"
+941	"crisis"
+942	"recomendación"
+943	"espacio"
+944	"sabía"
+945	"millonario"
+946	"washington"
+947	"salvador"
+948	"irlanda"
+949	"tipo"
+950	"encuesta"
+951	"tribuna"
+952	"enlace"
+953	"presión"
+954	"militar"
+955	"teniente"
+956	"mamady"
+957	"doumbouya"
+958	"fuerzas"
+959	"aire"
+960	"miedo"
+961	"tribunal"
+962	"desarrollo"
+963	"marco"
+964	"poesía"
+965	"territorio"
+966	"época"
+967	"defensa"
+968	"vargas"
+969	"sarah"
+970	"harding"
+971	"girls"
+972	"aloud"
+973	"grace"
+974	"veracruz"
+975	"habitante"
+976	"municipio"
+977	"deporte"
+978	"quetta"
+979	"economista"
+980	"esperanza"
+981	"texas"
+982	"embarazo"
+983	"aborto"
+984	"representante"
+985	"nayib"
+986	"producto"
+987	"solicitud"
+988	"defensor"
+989	"humanos"
+990	"whatsapp"
+991	"facebook"
+992	"entrada"
+993	"estreno"
+994	"plaza"
+995	"norte"
+996	"cevallos"
+997	"presentación"
+998	"experiencia"
+999	"militares"
+1000	"lozano"
+1001	"jurado"
+1002	"balón"
+1003	"gas"
+1004	"deuda"
+1005	"sala"
+1006	"agente"
+1007	"miércoles"
+1008	"prisión"
+1009	"tema"
+1010	"alberto"
+1011	"fujimori"
+1012	"conducción"
+1013	"hospital"
+1014	"rostro"
+1015	"solidaridad"
+1016	"exitosa"
+1017	"tejada"
+1018	"diris"
+1019	"anuncio"
+1020	"rango"
+1021	"afluencia"
+1022	"cooperativa"
+1023	"médico"
+1024	"favor"
+1025	"pobreza"
+1026	"hambre"
+1027	"vicepresidenta"
+1028	"iniciativa"
+1029	"amazonía"
+1030	"radio"
+1031	"delgado"
+1032	"sudamericanas"
+1033	"cotejo"
+1034	"juego"
+1035	"vestuario"
+1036	"marcador"
+1037	"partidazo"
+1038	"número"
+1039	"incidente"
+1040	"lideresa"
+1041	"ciudadanía"
+1042	"alejandro"
+1043	"giammattei"
+1044	"mandatario"
+1045	"p"
+1046	"miraflores"
+1047	"restaurante"
+1048	"acoso"
+1049	"fondo"
+1050	"suprema"
+1051	"encargada"
+1052	"ocasión"
+1053	"getty"
+1054	"images"
+1055	"gracia"
+1056	"cierre"
+1057	"estudio"
+1058	"cifra"
+1059	"carretera"
+1060	"inmigración"
+1061	"kabul"
+1062	"colectivo"
+1063	"capacidad"
+1064	"estabilidad"
+1065	"agosto"
+1066	"distribución"
+1067	"podcast"
+1068	"tnt"
+1069	"cumbia"
+1070	"sentencia"
+1071	"ayacucho"
+1072	"vinchos"
+1073	"anderson"
+1074	"cao"
+1075	"perla"
+1076	"pergamino"
+1077	"círculo"
+1078	"cortita"
+1079	"movimiento"
+1080	"democrática"
+1081	"gobernabilidad"
+1082	"patricia"
+1083	"escalada"
+1084	"misógina"
+1085	"lupa"
+1086	"ministra"
+1087	"yolanda"
+1088	"parlamentario"
+1089	"producción"
+1090	"martín"
+1091	"chepén"
+1092	"twitter"
+1093	"candidato"
+1094	"constitucional"
+1095	"canciller"
+1096	"legitimidad"
+1097	"sub"
+1098	"masculino"
+1099	"sudamericano"
+1100	"nicanor"
+1101	"parra"
+1102	"logro"
+1103	"latina→"
+1104	"anticovid"
+1105	"dc"
+1106	"televisión"
+*Arcs
+2	3	3
+3	285	11
+3	286	9
+3	307	4
+3	810	5
+5	42	3
+5	146	4
+5	147	4
+5	178	7
+5	259	6
+5	311	3
+5	402	3
+6	211	5
+6	288	3
+6	587	5
+6	1104	3
+7	457	7
+7	458	6
+7	570	6
+7	656	4
+7	934	5
+10	20	3
+10	37	3
+10	38	3
+10	55	5
+10	88	4
+10	112	3
+10	133	3
+10	145	40
+10	159	13
+10	178	3
+10	478	11
+10	492	3
+10	497	3
+10	594	4
+12	13	5
+13	55	3
+15	16	4
+15	69	5
+20	10	10
+20	22	3
+20	26	4
+20	53	13
+20	54	8
+20	55	18
+20	69	13
+20	95	4
+20	112	5
+20	145	5
+20	154	3
+20	223	4
+20	233	8
+20	234	4
+20	239	3
+20	240	3
+20	258	3
+20	478	3
+20	544	4
+20	881	3
+21	16	4
+21	69	3
+22	20	3
+22	23	8
+22	24	6
+22	25	5
+22	178	5
+22	280	4
+22	305	3
+22	642	4
+22	660	9
+22	1016	3
+23	24	3
+23	25	3
+23	77	3
+23	201	3
+23	280	4
+23	338	4
+23	642	4
+24	25	5
+24	98	4
+24	338	3
+24	1048	3
+24	1103	4
+26	16	3
+26	69	4
+31	86	4
+31	104	3
+31	178	3
+31	907	3
+31	958	3
+37	38	8
+37	55	4
+37	258	5
+37	372	4
+37	481	4
+37	523	4
+37	1031	4
+39	40	3
+39	78	4
+39	750	3
+39	821	3
+41	334	3
+43	178	4
+47	48	5
+49	20	3
+49	50	7
+49	53	6
+49	492	3
+49	859	3
+50	20	6
+50	53	15
+50	54	14
+50	55	4
+50	123	3
+50	262	3
+50	478	3
+50	1066	3
+51	53	3
+51	56	3
+51	75	3
+52	53	4
+52	55	3
+53	20	11
+53	21	3
+53	37	3
+53	49	6
+53	50	3
+53	51	3
+53	54	67
+53	55	12
+53	56	11
+53	75	4
+53	140	4
+53	141	4
+53	258	6
+53	433	4
+53	478	20
+53	492	4
+53	494	4
+53	543	6
+53	562	4
+53	571	4
+54	16	3
+54	20	13
+54	21	4
+54	37	3
+54	49	5
+54	50	5
+54	51	3
+54	53	37
+54	55	13
+54	56	9
+54	69	4
+54	75	3
+54	79	3
+54	99	3
+54	140	3
+54	258	7
+54	433	3
+54	473	4
+54	481	4
+54	483	3
+54	485	3
+54	493	3
+54	494	4
+54	543	6
+54	562	3
+54	571	4
+54	572	4
+54	575	4
+54	576	4
+54	653	3
+54	1032	4
+55	20	11
+55	37	3
+55	38	3
+55	69	24
+55	546	8
+55	1032	25
+56	20	8
+56	57	5
+56	58	5
+57	58	9
+57	599	4
+57	1085	3
+61	118	4
+62	178	3
+64	65	27
+64	67	5
+64	68	5
+64	255	6
+64	312	3
+64	561	4
+65	67	7
+65	68	5
+65	255	6
+65	312	3
+65	485	3
+65	561	4
+66	38	3
+67	64	5
+67	68	12
+67	78	4
+67	106	6
+67	107	6
+67	614	4
+67	1090	3
+68	64	5
+68	65	5
+68	614	4
+69	20	4
+69	543	3
+70	71	4
+70	72	3
+71	72	3
+76	61	3
+76	177	7
+76	178	4
+76	180	3
+76	259	3
+76	289	7
+76	682	5
+78	79	7
+78	80	3
+78	132	3
+78	567	4
+78	615	3
+78	653	4
+78	750	4
+79	80	5
+79	176	3
+79	177	3
+79	653	9
+80	176	3
+81	626	6
+84	85	4
+86	7	5
+86	61	3
+86	430	6
+86	431	8
+86	563	4
+86	570	4
+86	578	5
+86	613	5
+86	905	6
+86	907	5
+87	139	3
+87	1073	3
+87	1074	3
+88	160	10
+88	241	3
+88	276	4
+95	20	6
+95	52	3
+95	53	4
+95	54	6
+95	55	4
+95	144	7
+95	145	10
+98	1103	4
+99	481	4
+100	101	3
+103	31	3
+103	104	3
+104	105	3
+106	78	4
+106	107	6
+106	567	4
+107	78	4
+107	567	4
+109	20	3
+109	333	3
+110	216	4
+111	38	3
+112	20	3
+112	233	4
+112	235	5
+114	579	13
+114	603	10
+116	22	5
+116	178	3
+116	406	4
+116	1101	4
+118	71	3
+118	121	3
+119	121	3
+120	121	4
+121	118	3
+122	123	3
+123	6	8
+123	144	3
+123	157	4
+123	211	4
+123	216	3
+123	243	6
+123	245	6
+123	259	5
+123	262	4
+123	534	3
+123	649	4
+123	1104	3
+125	126	4
+127	128	3
+127	134	3
+129	146	6
+129	147	6
+129	881	3
+129	1016	3
+129	1030	3
+130	78	3
+130	131	4
+131	78	5
+131	132	3
+131	615	3
+133	492	3
+133	578	3
+134	8	3
+134	437	3
+137	815	3
+139	118	3
+139	216	4
+139	373	3
+139	431	3
+139	638	3
+141	75	3
+144	145	4
+144	216	4
+145	20	11
+145	37	4
+145	38	4
+145	55	16
+145	69	7
+145	112	4
+145	118	3
+145	258	7
+145	264	3
+145	497	3
+145	594	4
+145	595	6
+145	774	4
+145	1032	6
+146	76	18
+146	147	39
+146	179	12
+146	180	20
+146	259	5
+146	289	7
+146	322	3
+146	490	4
+147	76	14
+147	146	10
+147	178	4
+147	180	9
+147	259	5
+147	289	5
+149	150	9
+149	322	5
+150	322	5
+151	152	10
+151	153	5
+152	153	4
+157	20	3
+159	88	4
+159	133	3
+159	160	3
+159	492	3
+159	578	4
+161	88	3
+162	10	3
+164	86	3
+164	139	3
+166	177	8
+166	262	3
+168	173	3
+173	981	3
+173	983	3
+175	178	6
+175	262	7
+175	311	7
+177	146	6
+177	178	18
+177	259	7
+177	262	3
+177	536	6
+177	654	3
+178	5	4
+178	6	4
+178	22	6
+178	42	4
+178	81	5
+178	116	6
+178	146	25
+178	147	16
+178	166	4
+178	177	3
+178	179	5
+178	180	8
+178	243	3
+178	259	5
+178	262	19
+178	269	4
+178	270	5
+178	288	4
+178	311	7
+178	340	3
+178	363	4
+178	402	3
+178	404	6
+178	406	4
+178	469	3
+178	536	7
+178	749	7
+178	881	3
+178	1101	4
+179	146	6
+179	147	11
+179	180	6
+180	76	9
+180	146	9
+180	147	8
+180	166	3
+184	88	4
+184	185	9
+185	88	4
+185	160	4
+191	151	3
+191	152	3
+191	192	6
+192	151	3
+192	152	3
+199	23	3
+199	200	3
+200	23	3
+200	77	3
+200	201	3
+201	77	3
+214	88	3
+214	215	3
+214	276	3
+214	651	4
+215	139	3
+215	216	3
+216	24	8
+216	265	4
+216	1102	4
+217	139	3
+217	218	5
+218	139	3
+223	31	3
+223	55	6
+223	64	4
+223	65	4
+223	69	4
+224	36	4
+224	146	3
+224	322	3
+224	461	4
+224	639	4
+224	890	3
+224	1018	3
+227	311	3
+227	402	3
+230	69	3
+230	232	6
+232	230	3
+232	258	3
+233	234	8
+233	235	6
+233	538	4
+234	235	4
+235	20	5
+235	233	4
+236	233	3
+236	237	9
+236	258	3
+237	233	3
+237	258	3
+239	20	7
+239	37	3
+239	55	6
+239	112	3
+239	240	14
+239	544	5
+240	20	5
+240	37	3
+240	55	4
+240	112	3
+240	239	9
+240	363	4
+240	523	4
+240	544	3
+241	129	7
+241	146	6
+241	585	6
+243	6	4
+243	54	3
+243	178	3
+243	259	4
+245	243	5
+245	809	3
+249	146	8
+249	490	4
+249	1080	3
+249	1081	3
+255	71	3
+255	335	3
+255	485	3
+258	20	9
+258	21	6
+258	55	33
+258	69	6
+258	233	4
+258	1032	23
+259	22	3
+259	146	10
+259	178	40
+259	180	7
+259	262	10
+259	269	3
+259	404	3
+259	536	6
+259	749	4
+259	838	4
+259	908	3
+259	946	3
+260	782	9
+260	799	4
+260	800	3
+262	6	7
+262	81	6
+262	178	3
+262	259	3
+262	626	6
+262	1104	3
+265	24	4
+265	98	4
+265	1102	4
+266	178	5
+269	178	3
+269	270	4
+271	129	3
+271	311	3
+272	273	3
+276	27	4
+276	88	3
+276	580	3
+278	798	3
+280	216	5
+280	338	5
+280	642	5
+282	498	3
+283	284	22
+283	285	9
+283	286	8
+283	644	8
+283	813	3
+284	285	12
+284	286	9
+284	644	8
+284	813	8
+284	822	3
+285	3	3
+285	110	3
+285	286	71
+285	306	3
+285	411	3
+285	842	3
+286	3	4
+286	110	3
+286	299	4
+286	306	8
+286	307	4
+286	411	9
+286	524	3
+286	747	4
+286	768	7
+286	779	4
+286	810	6
+286	842	5
+286	850	3
+287	288	5
+287	289	3
+287	290	3
+288	289	5
+288	290	3
+289	76	4
+289	112	3
+289	177	5
+289	178	9
+289	259	4
+289	262	5
+289	290	4
+291	21	3
+292	293	4
+292	294	3
+293	294	3
+296	297	3
+297	118	6
+297	802	4
+298	285	3
+298	286	3
+301	302	4
+301	303	4
+301	304	4
+302	303	4
+302	304	4
+303	304	4
+305	554	3
+305	558	3
+306	3	24
+306	285	9
+306	286	4
+306	307	4
+306	810	5
+307	285	4
+307	286	3
+308	754	3
+311	81	6
+311	129	12
+311	178	5
+311	259	4
+311	262	7
+311	402	12
+311	450	3
+311	603	3
+311	626	6
+311	658	3
+311	1016	3
+311	1030	3
+313	330	4
+313	459	3
+313	460	5
+313	461	8
+313	998	3
+314	341	3
+314	597	7
+319	139	4
+319	373	7
+325	326	3
+325	327	3
+326	327	3
+330	343	3
+330	373	4
+338	216	5
+338	265	4
+338	1102	4
+341	314	4
+341	596	3
+343	373	6
+347	710	6
+347	807	3
+354	243	3
+357	358	3
+365	227	3
+369	22	3
+369	305	3
+371	278	3
+371	798	3
+372	55	3
+372	258	3
+372	1031	4
+373	139	4
+388	1012	10
+390	319	3
+395	118	4
+398	399	4
+398	775	3
+398	776	3
+401	837	3
+401	978	3
+402	178	3
+402	259	3
+402	603	4
+402	658	5
+402	659	3
+404	42	3
+404	139	4
+404	178	3
+404	638	4
+405	243	7
+406	22	4
+406	178	8
+406	1100	4
+406	1101	4
+411	299	5
+413	404	3
+425	55	3
+425	426	4
+426	55	3
+430	431	21
+430	713	3
+430	714	3
+431	713	4
+431	714	3
+431	715	3
+433	572	4
+433	573	4
+433	574	4
+435	629	3
+435	630	4
+437	440	3
+437	590	3
+437	591	3
+440	116	3
+440	591	3
+445	831	3
+445	883	3
+451	245	3
+451	809	3
+457	313	3
+457	458	5
+457	656	3
+458	313	4
+458	461	4
+460	86	3
+460	1076	3
+460	1077	3
+461	460	3
+461	998	3
+461	1070	3
+461	1076	3
+466	53	3
+466	54	4
+469	686	3
+472	54	3
+473	50	3
+474	476	4
+475	50	3
+475	54	5
+475	476	16
+475	482	4
+476	53	4
+476	54	5
+476	501	3
+476	562	3
+477	305	3
+477	558	6
+477	680	5
+477	681	3
+478	20	3
+478	54	20
+478	55	3
+478	56	3
+478	145	11
+478	494	3
+478	575	3
+478	594	4
+478	595	4
+481	258	4
+482	50	3
+484	54	3
+487	982	3
+489	9	3
+489	252	3
+492	578	3
+493	53	6
+493	54	3
+493	55	5
+493	258	3
+497	10	4
+497	145	4
+497	496	3
+497	498	5
+497	602	3
+497	774	5
+498	10	5
+498	145	4
+498	496	3
+499	55	3
+499	258	3
+499	423	3
+499	500	3
+500	423	5
+503	539	3
+504	505	3
+507	944	3
+513	67	4
+513	106	4
+513	566	5
+514	231	3
+514	516	4
+516	55	3
+516	518	3
+519	514	5
+523	258	3
+523	372	4
+523	1031	4
+524	285	3
+524	286	3
+528	529	3
+532	533	3
+536	262	5
+536	404	3
+543	20	3
+543	53	4
+543	54	3
+543	55	5
+544	239	7
+544	240	7
+549	550	4
+551	552	3
+551	553	3
+552	553	3
+558	477	4
+558	554	3
+558	679	4
+558	681	3
+561	53	3
+561	54	3
+561	255	6
+563	149	4
+563	150	4
+564	38	3
+565	67	4
+565	435	5
+565	513	4
+565	566	4
+566	67	4
+566	106	4
+566	107	4
+570	934	5
+571	433	4
+571	572	5
+571	573	4
+572	573	5
+572	574	5
+573	574	5
+575	576	5
+577	578	6
+578	7	5
+578	570	5
+578	934	4
+579	397	3
+579	580	6
+579	605	4
+583	305	3
+583	477	8
+585	129	6
+585	146	6
+585	147	6
+587	145	3
+590	440	3
+590	591	3
+592	597	6
+593	64	3
+594	20	4
+594	26	4
+594	486	4
+594	595	7
+595	20	4
+595	26	4
+595	69	4
+596	314	6
+596	597	6
+596	797	3
+597	341	4
+598	41	3
+598	599	3
+598	600	3
+599	41	3
+599	334	3
+599	600	3
+599	1085	3
+600	41	3
+600	334	3
+601	497	6
+601	498	3
+601	602	3
+602	10	3
+602	496	3
+602	498	6
+603	227	3
+603	579	10
+603	580	4
+603	659	3
+604	276	4
+605	580	4
+606	607	3
+606	608	3
+606	609	3
+607	608	5
+607	609	4
+607	610	3
+608	609	4
+608	610	3
+608	611	3
+609	373	3
+609	610	3
+609	611	3
+610	373	3
+610	611	3
+611	373	4
+612	86	3
+612	613	5
+612	1043	3
+614	64	6
+614	65	6
+614	561	4
+615	88	3
+615	129	4
+616	617	4
+616	618	4
+617	618	4
+617	619	4
+618	619	4
+618	620	4
+619	620	4
+627	947	4
+627	1050	5
+628	435	3
+629	630	5
+629	632	3
+630	632	3
+633	64	5
+633	65	4
+634	149	5
+634	563	4
+635	64	5
+635	633	3
+635	636	3
+636	64	3
+636	65	3
+636	340	3
+636	633	3
+639	36	5
+639	890	10
+642	216	6
+642	265	4
+642	338	5
+644	283	6
+644	284	6
+644	285	7
+644	286	7
+644	813	18
+653	177	3
+653	654	3
+655	599	7
+656	458	4
+657	227	3
+657	311	4
+657	365	3
+657	402	4
+657	658	5
+658	227	6
+658	603	3
+658	659	3
+659	227	3
+660	311	3
+660	1016	3
+663	139	3
+663	901	3
+667	668	3
+669	123	3
+669	670	3
+669	671	3
+670	123	3
+670	157	3
+670	671	3
+671	123	3
+671	157	3
+672	5	6
+672	178	3
+675	63	3
+675	259	4
+675	676	4
+676	63	3
+677	675	3
+680	681	3
+682	177	6
+685	189	4
+687	453	3
+700	1072	3
+711	679	3
+713	714	6
+713	715	6
+713	716	6
+714	10	3
+714	214	3
+714	498	4
+714	602	3
+714	715	6
+714	716	6
+715	214	3
+715	430	3
+715	716	6
+716	57	3
+716	214	3
+716	430	3
+716	431	3
+717	1007	3
+718	599	3
+720	814	4
+721	717	5
+721	722	3
+724	725	5
+724	726	4
+725	726	4
+729	857	3
+729	1005	3
+729	1094	3
+731	732	3
+735	651	8
+743	744	7
+744	285	3
+744	745	3
+744	867	3
+744	1069	3
+747	748	3
+747	779	9
+747	780	5
+747	781	4
+747	841	3
+749	146	4
+749	147	4
+756	757	3
+756	758	3
+756	759	3
+757	758	3
+757	759	3
+758	759	3
+764	765	3
+768	306	4
+768	769	8
+768	810	3
+770	771	4
+773	774	7
+774	10	4
+774	145	3
+774	497	6
+774	601	3
+775	776	3
+775	777	3
+776	777	3
+779	780	5
+779	781	5
+779	841	3
+780	781	5
+781	254	3
+782	799	4
+782	800	3
+782	801	4
+782	802	3
+783	498	4
+783	602	3
+783	714	4
+784	785	5
+786	285	5
+786	286	5
+788	789	4
+791	285	3
+791	792	3
+792	285	3
+792	286	3
+793	522	3
+794	795	3
+796	79	4
+797	314	3
+797	597	3
+799	800	4
+799	801	4
+799	802	3
+800	801	3
+801	118	3
+801	802	3
+802	118	9
+803	804	5
+803	805	4
+803	806	3
+804	347	4
+804	805	3
+804	806	3
+805	347	3
+805	806	3
+806	347	3
+806	807	3
+810	3	5
+810	306	5
+810	811	3
+813	283	6
+813	284	6
+813	285	13
+813	286	7
+813	834	3
+815	816	3
+819	820	4
+821	78	3
+821	750	3
+822	286	16
+822	299	3
+822	411	4
+822	768	3
+822	810	4
+822	839	3
+822	840	3
+823	824	3
+823	825	3
+823	826	3
+824	825	4
+824	826	4
+824	827	4
+825	826	5
+825	827	4
+826	827	6
+828	829	3
+830	85	3
+831	832	4
+831	883	3
+831	884	3
+833	1000	3
+834	835	3
+837	202	3
+838	908	3
+838	946	4
+838	1105	3
+839	440	3
+839	840	3
+840	440	3
+842	285	3
+842	286	3
+842	524	8
+844	729	3
+844	857	3
+844	1051	3
+857	922	3
+857	1005	3
+857	1094	3
+862	661	3
+864	597	4
+867	285	4
+867	286	3
+867	1069	3
+868	1034	3
+873	164	3
+881	233	3
+881	234	3
+882	883	3
+883	319	3
+883	373	3
+883	884	3
+884	319	3
+884	373	3
+885	886	3
+885	887	3
+885	888	3
+886	887	3
+886	888	3
+887	888	3
+890	76	3
+890	262	3
+890	289	4
+890	365	3
+891	145	5
+891	258	3
+894	895	3
+901	118	3
+906	185	3
+907	905	5
+908	946	3
+908	1105	3
+917	918	11
+920	922	3
+922	86	3
+922	919	3
+922	947	3
+923	31	4
+923	86	3
+923	139	3
+923	319	3
+923	958	3
+925	926	6
+925	927	6
+925	928	6
+926	897	6
+926	927	6
+926	928	6
+927	897	6
+927	928	6
+928	897	6
+929	10	3
+929	133	3
+929	159	3
+933	7	4
+933	86	5
+933	578	5
+936	937	3
+946	1105	3
+949	271	3
+949	311	3
+955	956	3
+955	957	3
+956	31	3
+956	923	3
+956	957	4
+957	31	3
+957	923	3
+957	958	4
+958	86	3
+958	905	3
+958	907	3
+964	1091	4
+969	970	3
+969	971	3
+970	971	3
+970	972	3
+971	178	4
+971	972	3
+972	178	4
+975	976	3
+985	919	3
+998	460	3
+998	1076	3
+998	1077	3
+1001	285	3
+1001	286	3
+1005	86	3
+1005	922	3
+1005	1094	3
+1010	224	3
+1010	1017	3
+1010	1018	3
+1016	129	3
+1016	311	3
+1016	881	3
+1017	146	3
+1017	224	3
+1017	1018	3
+1018	146	3
+1018	322	3
+1020	441	3
+1030	881	3
+1030	1016	3
+1031	55	3
+1031	258	3
+1031	1032	3
+1032	20	8
+1032	37	3
+1032	38	3
+1043	613	3
+1050	947	4
+1051	729	4
+1051	857	3
+1051	1005	3
+1053	1054	6
+1066	6	3
+1066	123	3
+1066	262	3
+1071	700	3
+1073	139	3
+1073	1074	3
+1074	139	3
+1075	313	4
+1075	461	4
+1075	998	3
+1076	86	3
+1076	1077	3
+1077	86	3
+1079	249	3
+1079	1080	3
+1079	1081	3
+1080	1081	3
+1083	57	3
+1083	599	3
+1083	1084	3
+1084	57	3
+1084	599	3
+1084	1085	3
+1087	744	5
+1087	867	3
+1087	1069	3
+1094	86	3
+1094	922	3
+1100	116	4
+1100	178	4
+1100	1101	4
+1101	22	4
+1101	116	4
+1101	178	8
+1101	406	4
+1102	24	4
+1102	98	4
+1102	1103	4
