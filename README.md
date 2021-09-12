@@ -1,7 +1,7 @@
 # Proyecto - Noticias Twitter
 - **Universidad Nacional de San Antonio Abad del Cusco**
 - **Escuela Profesional de Ingenieria Informatica y de Sistemas**
-- **Procesamiento de Lenguaje Natural - Grupo 5**
+- **Procesamiento de Lenguaje Natural - Grupo 1**
 #### Docente:
 - **Roxana Lisette Quintanilla Portugal** - [Concytec](http://dina.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do;jsessionid=f564431f36070c2b4a0e4a590b74?id_investigador=40930).
 
@@ -31,11 +31,13 @@
 
 
 ## Autores ✒️
-* **Fiorella Silvia Choque Bueno** - [FioChoque](https://github.com/FioChoque)
-* **Melissa Espejo Franco** - [melissaespejo](https://github.com/melissaespejo)
 * **Alexander Junior Monzon Montalvo** - [alexojo](https://github.com/alexojo)
 * **Claudia Luz Rojas Soto** - [Claudiars20](https://github.com/Claudiars20)
-* **Melanie Indira Sullca Peralta** - [Melanie279](https://github.com/Melanie279)
-* **Cesar Rodrigo Ttito Quilca** - [cesarodrigo21](https://github.com/cesarodrigo21)
+* **Luis Enrique Flores Aquino** - [EnriqueFloresAq](https://github.com/EnriqueFloresAq)
+* **Jorge Andre Salcedo Hurtado** - [SHJAndre](https://github.com/SHJAndre)
+* **Mileydy Ninantay Diaz** - [mile1107](https://github.com/mile1107)
+* **Manuel Humberto Velarde Flores** - [ManuelVelarde2212](https://github.com/ManuelVelarde2212)
+* **Gonzalo Gutierrez Daza** - [gonzalo95050](https://github.com/gonzalo95050)
+* **Luis Augusto Araujo Lechuga** - [Cucho145U](https://github.com/Cucho145U)
 ---
 ⌨️ con ❤️ por [alexojo](https://github.com/alexojo) y [Claudiars20](https://github.com/Claudiars20) 😊
