@@ -6,17 +6,7 @@ import pandas as pd
 # LIBRERIA PARA STOPWORDS Y TOKENIZER
 import re
 import nltk
-'''nltk.download('punkt')
-nltk.download('stopwords')
-from nltk.corpus import stopwords
-from nltk.tokenize import word_tokenize
 
-# LIBRERIA PARA ANALISIS LE LENGUAJE NATURAL DESARROLLADA CON REDES NEURONALES
-import stanza
-
-# INSTALANDO DEPENDENCIAS PARA PODER OPERAR CON EL LENGUAJE ESPAÑOL
-stanza.download('es', package='ancora', processors='tokenize,mwt,pos,lemma', verbose=True)
-stNLP = stanza.Pipeline(processors='tokenize,mwt,pos,lemma', lang='es', use_gpu=True)'''
 
 # ERN
 import spacy
@@ -46,8 +36,29 @@ def cutEmojis(tweet):
                                u"\u231a"
                                u"\ufe0f"  # dingbats
                                u"\u3030"
+                               "\u2033"
+                               "\u23f0"
+                               '\u20e3'
+                               '\u0107'
+                               '\u23f1'
                                "]+", flags=re.UNICODE)
     return regrex_pattern.sub(r'', tweet)
+
+# PREPROCESADO DE ELIMINACION DE SIGNOS DE PUNTUACION
+def DeletePunctuation(tweet):
+    punctuation = ['?', "¿", "¡", "!", "’", "[", "]", "′", "|", ",", ".", ";", ":"]
+    for aux in punctuation:
+        tweet = tweet.replace(aux, "")
+
+    return tweet
+
+# PREPROCESADO DE ELIMINACION DE STOPWORDS EN TWEET
+def DeleteStopWords(tweet):
+    punctuation = ["EN VIVO","LoÚltimo","EnPortada","Opinión", "VIDEO","URGENTE"]
+    for aux in punctuation:
+        tweet = tweet.replace(aux, "")
+
+    return tweet
 
 # PREPROCESADO DE UN TWEET
 def Preprocessing(texto):
@@ -58,18 +69,28 @@ def Preprocessing(texto):
     # ELIMINAR ARROBAS (ETIQUETAS DE TWITTER) - HASHTAGS - HIPERVINCULOS
     texto = re.sub('([@#]|htt).*?(?=[\s|$])', '', texto)
 
-    preprocesado = re.sub(r'\w+:\/{2}[\d\w-]+(\.[\d\w-]+)*(?:(?:\/[^\s/]*))*', '', texto)
+    texto = re.sub(r'\w+:\/{2}[\d\w-]+(\.[\d\w-]+)*(?:(?:\/[^\s/]*))*', '', texto)
+
+    # ELIMINAR INFORMACION ANTES DEL SIGNO "|"
+    inicio = texto.find("|")
+    texto = str(texto[inicio + 1:]).strip()
+
+
+    # ELIMINAR SIGNOS DE PUNTUACION
+    preprocesado = DeletePunctuation(texto)
 
     return preprocesado
+
+
 
 # POST TAGGING DE TERMINOS DEL TWEET
 def Tagging(preprocesado, doc):
 
     tags = []
-    # RECUPERAR TOKENS DE TAG = PROPN, NOUN
+    # RECUPERAR TOKENS DE TAG = PROPN, NOUN SIN ESPACIOS
     for token in doc:
         if token.pos_ == "PROPN" or token.pos_ == "NOUN":
-            tags.append(str(token.lemma_))
+            tags.append(str(token.lemma_).strip())
 
     return tags
 
@@ -77,9 +98,9 @@ def Tagging(preprocesado, doc):
 def NER(doc):
 
     entidades = []
-    # RECUPERAR ENTIDADES
+    # RECUPERAR ENTIDADES SIN ESPACIOS
     for word in doc.ents:
-        entidades.append(str(word))
+        entidades.append(str(word).strip())
 
     return entidades
 
@@ -97,6 +118,8 @@ def Tags_NER(tags, entidades):
             keywords.append(word)
 
     return keywords
+
+
 
 def CleanNoise(texto):
 

@@ -3,8 +3,8 @@ import json
 import os
 import openpyxl
 import pandas as pd
-# LIBRERIA PARA REALIZAR LA MATRIZ DE BAG OF WORDS
-from keras.preprocessing.text import Tokenizer
+
+from sklearn.feature_extraction.text import TfidfVectorizer
 
 # LIBRERIA PARA REALIZAR NUBES DE PALABRAS
 import stylecloud as sc
@@ -22,7 +22,7 @@ def CleanCarpet(folder):
             print(e)
 
 # MATRIZ DE TF_NORMALIZADO, GUARDA EN UN EXCEL  return matriz_tf, tamanio, keys
-def TF_Normalizado(i,nombre):
+'''def TF_Normalizado(i,nombre):
     array_words = []
 
     # RECUPERAMOS LA URL DEL JSON
@@ -84,7 +84,7 @@ def TF_Normalizado(i,nombre):
 
     url_save = './MATRICES/TF-NORMALIZADO/' + str(nombre).replace(".json", "") + ".xlsx"
     wb.save(url_save)
-    return matriz_tf, tamanio, keys
+    return matriz_tf, tamanio, keys'''
 
 # MATRIZ DE TF_IDF, GUARDA EN UN EXCEL  return matriz_tf
 def TF_IDF(i,nombre):
@@ -99,16 +99,17 @@ def TF_IDF(i,nombre):
     tamanio = len(data)
 
     # RECORREMOS EL JSON Y RECUPERAMOS EL ARREGLO DE WORDS Y EL IDENTIFICADOR DE LA LEY
-    for aux in data: array_words.append(aux['tweet_p'])
+    for aux in data:
+        array_words.append(aux['tweet_p'])
 
     # REALIZAMOS EL FIT DE LAS PALABRAS DEL ARREGLO PREPROCESADO
-    model = Tokenizer()
-    model.fit_on_texts(array_words)
+    vectorizer = TfidfVectorizer(preprocessor=lambda x: x, tokenizer=lambda x: x)
+    X = vectorizer.fit_transform(array_words)
 
-    keys = list(model.word_index.keys())
+    keys = list(vectorizer.get_feature_names())
 
-    # REALIZAMOS LA MATRIZ DE TF
-    rep = model.texts_to_matrix(array_words, mode='tfidf')
+    # REALIZAMOS LA MATRIZ DE TF-IDF
+    rep = X.toarray()
 
     ############################################################################
 
@@ -123,8 +124,6 @@ def TF_IDF(i,nombre):
     filas = []
     for i in range(tamanio):
         aux = list(rep[i])
-        del aux[0]
-
         # AGREGAR A LA MATRIZ TF-IDF
 
         matriz_tf.append(aux)

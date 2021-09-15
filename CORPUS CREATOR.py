@@ -2,25 +2,37 @@ import twint
 import json
 import shutil, os
 import pandas as pd
+import re
 
-#
-def TrendCorpusCreator(trend):
+from datetime import datetime
+import pytz
 
-    url = "./CORPUS/" + trend.upper() + ".json"
+################################################### SCRAPING TWITTER ###################################################
 
+def Fecha():
+    zona = 'America/Lima'
+    timeZ_zona = pytz.timezone(zona)
+    dt_zona = datetime.now(timeZ_zona)
+    fecha_actual=dt_zona.strftime('%Y-%m-%d')
+    return fecha_actual
+
+
+def TrendCorpusCreator(name, account):
+
+    url = "./CORPUS/" + name + ".json"
     c = twint.Config()
-    c.Limit = 10
-    c.Lang = "es"
-    c.Search = trend
-    c.Near = "Perú"
-    c.Since = "2021-08-01"
+    c.Since = Fecha()
+
+    c.Username = account
     c.Store_json = True
     c.Output = url
-    c.Popular_tweets = True
     twint.run.Search(c)
 
-def CleanCarpet():
-    folder = 'CORPUS'
+#################################################### ALMACENAMIENTO #####################################################
+
+
+
+def CleanCarpet(folder):
     for the_file in os.listdir(folder):
         file_path = os.path.join(folder, the_file)
         try:
@@ -29,18 +41,30 @@ def CleanCarpet():
         except Exception as e:
             print(e)
 
+def Account_Dicctionary():
+    df = pd.read_csv("CUENTAS DE TWITTER/CUENTAS.csv")
+    dicc = {}
+    for i in range(df.shape[0]):
+        a = [df.iloc[i, 1], df.iloc[i, 2]]
+        dicc[df.iloc[i, 0]] = a
+    return dicc
+
 # LIMPIAR CARPETA
-CleanCarpet()
+CleanCarpet("CORPUS")
 
-# RECUPERAMOS TRENS
-v = pd.read_csv("TRENDS/TRENDS.csv")
-trends = []
-for i in range (v.shape[0]):
-    trends.append(v.iloc[i,1])
 
-# CREAMOS EL CORPUS DE CADA TREND
-for i in trends:
-    TrendCorpusCreator(str(i))
+# RECUPERAMOS CUENTAS DE TWITTER EN UN DICCIONARIO
+dicc = Account_Dicctionary()
+
+# CREAMOS EL CORPUS DE CADA CUENTA
+for key, value in dicc.items():
+
+    account = re.sub(r'@', '', value[0])
+    TrendCorpusCreator(key, account)
+
+    print("\n================================" + key + "================================\n")
+
+
 
 
 
