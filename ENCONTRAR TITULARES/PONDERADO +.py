@@ -50,7 +50,7 @@ def Ponderado(topic):
     dfFinal['Similares'] = dfFinal['Word'].apply(addParecidos)
     dfFinal = dfFinal.sort_values(by=['PonderadoApilado'],ascending=False,ignore_index=True)
 
-    datosInvalidos = [len(x)==2 for x in dfFinal['Similares']]
+    datosInvalidos = [len(x)==0 for x in dfFinal['Similares']]
     dfFinal = dfFinal.drop(dfFinal[datosInvalidos].index)
 
     url_creado = "PONDERADO/" + topic + ".csv"
