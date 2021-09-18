@@ -50,22 +50,25 @@ def Ponderado(topic):
     dfFinal['Similares'] = dfFinal['Word'].apply(addParecidos)
     dfFinal = dfFinal.sort_values(by=['PonderadoApilado'],ascending=False,ignore_index=True)
 
+    datosInvalidos = [len(x)==2 for x in dfFinal['Similares']]
+    dfFinal = dfFinal.drop(dfFinal[datosInvalidos].index)
+
     url_creado = "PONDERADO/" + topic + ".csv"
     dfFinal.to_csv(url_creado, index=False)
 
     print("\n================================" + topic + "================================\n")
 
 # PREPROCESADO GENERAL
-#Ponderado("GENERAL")
+Ponderado("GENERAL")
 
 # PREPROCESADO DEPORTE
-#Ponderado("DEPORTE")
+Ponderado("DEPORTE")
 
 # PREPROCESADO POLITICA
-#Ponderado("POLITICA")
+Ponderado("POLITICA")
 
 # PREPROCESADO FARANDULA
 Ponderado("FARANDULA")
 
 # PREPROCESADO FARANDULA
-#Ponderado("MUNDIAL")
+Ponderado("MUNDIAL")
