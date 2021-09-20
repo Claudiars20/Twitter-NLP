@@ -1,0 +1,221 @@
+,Word,Ponderado
+0,policía,1.71
+1,persona,1.63
+2,país,1.59
+3,migrant,1.57
+4,año,1.52
+5,eeuu,1.34
+6,esposa,1.34
+7,capitolio,1.25
+8,espacio,1.24
+9,detalle,1.15
+10,tripulante,1.06
+11,sábado,1.05
+12,concentración,1.03
+13,defensa,1.03
+14,covid-19,1.02
+15,brian laundrie,1.01
+16,familia,1.0
+17,frontera,0.98
+18,vacuna,0.95
+19,fuego,0.87
+20,bebé,0.86
+21,la abogada,0.85
+22,los ángeles,0.84
+23,orden,0.84
+24,escuela,0.83
+25,nave,0.81
+26,gabby petito,0.79
+27,prometido,0.79
+28,texas,0.79
+29,decena,0.78
+30,deportación,0.78
+31,condición,0.77
+32,niña,0.76
+33,día,0.75
+34,la tierra,0.75
+35,ciudad,0.74
+36,fda,0.72
+37,haitiano,0.72
+38,dosis,0.69
+39,zoológico,0.69
+40,autoridad,0.67
+41,población,0.65
+42,california,0.63
+43,enero,0.62
+44,éxito,0.62
+45,proceso,0.61
+46,residente,0.61
+47,incendio,0.6
+48,paradero,0.6
+49,viaje,0.6
+50,abogada,0.58
+51,aplicación,0.58
+52,daca,0.58
+53,desaparición,0.57
+54,diario,0.57
+55,joven,0.57
+56,pareja,0.57
+57,travesía,0.57
+58,mujer,0.55
+59,altercado,0.53
+60,historia,0.53
+61,padre,0.53
+62,agente,0.5
+63,biden,0.5
+64,ceremonia,0.5
+65,día de la ciudadanía,0.5
+66,emisión,0.5
+67,gas,0.5
+68,inmigrante,0.5
+69,líder,0.5
+70,activista,0.47
+71,anciano,0.47
+72,centroamérica,0.47
+73,dolores huerta,0.47
+74,el salvador,0.47
+75,estatus,0.47
+76,forma,0.47
+77,independencia,0.47
+78,nombre,0.47
+79,salida,0.47
+80,advertencia,0.46
+81,brote,0.46
+82,caso,0.46
+83,ejecución,0.46
+84,libertad,0.46
+85,maestra,0.46
+86,motivo,0.46
+87,recluso,0.46
+88,regreso,0.46
+89,vacunación,0.46
+90,experiencia,0.44
+91,inspiration 4,0.44
+92,vuelo,0.44
+93,cargo,0.43
+94,cuarentena,0.43
+95,la pequeña,0.43
+96,león,0.43
+97,mamá,0.43
+98,peatón,0.43
+99,tigre,0.43
+100,washington dc,0.43
+101,comité,0.42
+102,mes,0.42
+103,por qué para los más vulnerables,0.42
+104,río grande,0.42
+105,viernes,0.42
+106,bailarín,0.41
+107,danza de los concheros,0.41
+108,fe,0.41
+109,gracias,0.41
+110,herencia,0.41
+111,mezcla,0.41
+112,ciudad acuña,0.4
+113,comida,0.4
+114,crisis,0.4
+115,del río,0.4
+116,desesperación,0.4
+117,domingo,0.4
+118,falta,0.4
+119,paso,0.4
+120,trabajo,0.4
+121,2010,0.38
+122,alimento,0.38
+123,arma,0.38
+124,carne,0.38
+125,detenido,0.38
+126,economía,0.38
+127,experto,0.38
+128,huevos,0.38
+129,inflación,0.38
+130,pfizer,0.38
+131,pollo,0.38
+132,puñal,0.38
+133,razón,0.38
+134,refuerzo,0.38
+135,solo,0.38
+136,acceso,0.37
+137,alcance,0.37
+138,astronauta,0.37
+139,censo,0.37
+140,daño,0.37
+141,el inexperto crew,0.37
+142,enfrentamiento,0.37
+143,fenómeno,0.37
+144,frente,0.37
+145,gigante,0.37
+146,grupo,0.37
+147,insurrección,0.37
+148,latino,0.37
+149,secuoya,0.37
+150,seguro,0.37
+151,ábol,0.37
+152,decisión,0.36
+153,desconcierto,0.36
+154,freno,0.36
+155,haití,0.36
+156,lado,0.36
+157,llegada,0.36
+158,límite,0.36
+159,medida,0.36
+160,médico,0.36
+161,abogado,0.35
+162,adicción,0.35
+163,alex murdaugh,0.35
+164,caída,0.35
+165,desgracia,0.35
+166,droga,0.35
+167,epidemia,0.35
+168,opioides,0.35
+169,animal,0.34
+170,apetito,0.34
+171,atlanta,0.34
+172,camioneta,0.34
+173,casa,0.34
+174,congestión,0.34
+175,gorila,0.34
+176,misterio,0.34
+177,pérdida,0.34
+178,síntoma,0.34
+179,agresor,0.33
+180,campamento,0.33
+181,cocina,0.33
+182,cuenta,0.33
+183,despliegue,0.33
+184,el chaparral,0.33
+185,golpiza,0.33
+186,heroína,0.33
+187,hijo,0.33
+188,justicia,0.33
+189,muerte,0.33
+190,protesta,0.33
+191,recinto,0.33
+192,recompensa,0.33
+193,seguridad,0.33
+194,tijuana,0.33
+195,video,0.33
+196,violencia,0.33
+197,visa,0.33
+198,costa,0.32
+199,cápsula,0.32
+200,dragon,0.32
+201,florida,0.32
+202,miembro,0.32
+203,misión,0.32
+204,océano atlántico,0.32
+205,tripulación,0.32
+206,agosto,0.29
+207,base,0.29
+208,bombero,0.29
+209,calor,0.29
+210,envoltura,0.29
+211,final,0.29
+212,manta,0.29
+213,mundo,0.29
+214,oeste,0.29
+215,período,0.29
+216,semana,0.29
+217,sierra nevada,0.29
+218,árbol,0.29
+219,⁠,0.29

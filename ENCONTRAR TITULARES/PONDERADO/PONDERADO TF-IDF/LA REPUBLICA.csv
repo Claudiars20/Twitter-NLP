@@ -1,0 +1,528 @@
+,Word,Ponderado
+0,columna,2.53
+1,lee,2.53
+2,año,1.96
+3,covid-19,1.83
+4,persona,1.8
+5,país,1.63
+6,joven,1.61
+7,celac,1.52
+8,vacuna,1.46
+9,hora,1.39
+10,ee uu,1.26
+11,setiembre,1.26
+12,vacunación,1.23
+13,chile,1.18
+14,dosis,1.16
+15,perú,1.1
+16,jornada,1.09
+17,vacunafest,1.09
+18,cumbre,1.04
+19,estado,1.04
+20,nicolás maduro,1.04
+21,president,1.01
+22,sábado,1.01
+23,mes,0.98
+24,inmunización,0.91
+25,minsa,0.89
+26,millón,0.88
+27,pago,0.87
+28,lugar,0.84
+29,semana,0.84
+30,maduro,0.83
+31,ataque,0.81
+32,cusco,0.81
+33,autor,0.8
+34,establecimiento,0.8
+35,méxico,0.8
+36,presidente,0.8
+37,salud,0.8
+38,medida,0.79
+39,uruguay,0.79
+40,pandemia,0.78
+41,lima,0.77
+42,video,0.77
+43,oechsle,0.76
+44,seguridad,0.76
+45,servicio,0.76
+46,zona,0.76
+47,buenos días,0.71
+48,nuestra portada de hoy,0.71
+49,terrorismo,0.71
+50,unidos,0.71
+51,"paula távara ""cascarones",0.68
+52,españa,0.67
+53,criptomoneda,0.66
+54,independencia,0.64
+55,parte,0.64
+56,septiembre,0.64
+57,ciudadano,0.63
+58,sinopharm,0.63
+59,venezuela,0.63
+60,vía,0.63
+61,detalle,0.62
+62,mundo,0.62
+63,evelin meza,0.61
+64,paraguay,0.6
+65,tasa,0.6
+66,víctima,0.6
+67,distrito,0.59
+68,medio,0.59
+69,nación,0.59
+70,oportunidad,0.59
+71,pueblo,0.59
+72,aire,0.58
+73,estados unidos,0.58
+74,estrategia,0.58
+75,gobierno,0.58
+76,historia,0.58
+77,kabul,0.58
+78,libro,0.58
+79,mercado,0.58
+80,2020,0.57
+81,calle,0.57
+82,domingo,0.57
+83,sjl,0.57
+84,turismo,0.57
+85,afganistán,0.56
+86,apoyo,0.56
+87,brigada,0.56
+88,cámara,0.56
+89,hombre,0.56
+90,honor,0.56
+91,mensaje,0.56
+92,misión,0.56
+93,notero,0.56
+94,onda,0.56
+95,participación,0.56
+96,periodismo,0.56
+97,recinto,0.56
+98,reunión,0.56
+99,salida,0.56
+100,spacex,0.56
+101,éxito,0.56
+102,discurso,0.55
+103,empresa,0.55
+104,marcha,0.55
+105,mujer,0.55
+106,pese,0.55
+107,pnp,0.55
+108,robo,0.55
+109,alerta,0.54
+110,fiscalía,0.54
+111,funcionario,0.54
+112,género,0.54
+113,homicidio,0.54
+114,modalidad,0.54
+115,presencia,0.54
+116,prisión,0.54
+117,agente,0.53
+118,contra,0.53
+119,explosión,0.53
+120,fin,0.53
+121,mandatario,0.53
+122,realidad,0.53
+123,sentido,0.53
+124,este,0.52
+125,horario,0.52
+126,intervención,0.51
+127,febrero,0.43
+128,festejo,0.43
+129,independencia de chile,0.43
+130,comerciante,0.4
+131,departamento del tesoro,0.4
+132,intercambio,0.4
+133,prensa,0.4
+134,cevallos gobierno,0.39
+135,ciudadanía,0.39
+136,el ministro de salud,0.39
+137,incentivo,0.39
+138,noticia,0.39
+139,restricción,0.39
+140,vacunado,0.39
+141,aelucoop,0.38
+142,ahorrista,0.38
+143,liquidación,0.38
+144,listado,0.38
+145,monto,0.38
+146,sbs,0.38
+147,socio,0.38
+148,discapacidad,0.37
+149,feria del libro  personas,0.37
+150,parque de la exposición,0.37
+151,pista,0.37
+152,protocolo,0.37
+153,celac  tensión,0.36
+154,chilenos,0.36
+155,constitución,0.36
+156,el perú,0.36
+157,equilibrio,0.36
+158,gesta,0.36
+159,hernado cevallos,0.36
+160,inoculación,0.36
+161,legitimidad,0.36
+162,moto,0.36
+163,necesidad,0.36
+164,octubre,0.36
+165,tecnología,0.36
+166,the speeder,0.36
+167,transporte,0.36
+168,viaje,0.36
+169,abogado,0.35
+170,acceso,0.35
+171,acuerdo,0.35
+172,aplicación,0.35
+173,cartilla,0.35
+174,cepal  principal,0.35
+175,defensa,0.35
+176,familia,0.35
+177,fines,0.35
+178,investigación,0.35
+179,meta,0.35
+180,ministerio de salud,0.35
+181,ministro,0.35
+182,muchacho,0.35
+183,novio,0.35
+184,objetivo,0.35
+185,países,0.35
+186,plan de autosuficiencia sanitaria,0.35
+187,policía,0.35
+188,abandono,0.34
+189,andrés barbé gonzález,0.34
+190,animal,0.34
+191,cañete,0.34
+192,completo,0.34
+193,condición,0.34
+194,coyuntura,0.34
+195,el anciano de 85 años,0.34
+196,embajador,0.34
+197,grupo,0.34
+198,la provincia de lima,0.34
+199,ministro de salud,0.34
+200,región,0.34
+201,rifa,0.34
+202,rima,0.34
+203,vecinos de san martín de porres,0.34
+204,alemania,0.33
+205,amor,0.33
+206,atentado de ee uu,0.33
+207,bala,0.33
+208,balacera,0.33
+209,bebida,0.33
+210,bicicleta,0.33
+211,bioseguridad,0.33
+212,candelaria  medida,0.33
+213,causa,0.33
+214,cieneguilla,0.33
+215,civil,0.33
+216,conjunto,0.33
+217,consulta,0.33
+218,costumbre,0.33
+219,cuadra,0.33
+220,cuerpo,0.33
+221,disculpa,0.33
+222,dolor,0.33
+223,efecto,0.33
+224,emergencia,0.33
+225,estudio,0.33
+226,familiar,0.33
+227,fiebre,0.33
+228,fiesta,0.33
+229,frente,0.33
+230,gabriel cid,0.33
+231,gobernante,0.33
+232,hecho,0.33
+233,hogar,0.33
+234,horóscopo,0.33
+235,iglesia,0.33
+236,institución,0.33
+237,inyección,0.33
+238,la ley,0.33
+239,macrobotellón,0.33
+240,madrid,0.33
+241,marzo,0.33
+242,matrimonio,0.33
+243,método,0.33
+244,nueva constitución,0.33
+245,opositor,0.33
+246,pariente,0.33
+247,parlamento,0.33
+248,persecusión,0.33
+249,piñera,0.33
+250,población,0.33
+251,predicción,0.33
+252,proyecto,0.33
+253,puno,0.33
+254,punto,0.33
+255,pésame,0.33
+256,quiebre,0.33
+257,recurso,0.33
+258,resto,0.33
+259,río seco,0.33
+260,san martín de porres,0.33
+261,signo,0.33
+262,sippenhaft,0.33
+263,trabajo,0.33
+264,traidor,0.33
+265,vivienda,0.33
+266,zodiaco,0.33
+267,“,0.33
+268,abdala,0.32
+269,aforo,0.32
+270,aglomeración,0.32
+271,agustino,0.32
+272,alex gensollen,0.32
+273,amlo,0.32
+274,américa latina,0.32
+275,billetera,0.32
+276,bitcóin,0.32
+277,canadá,0.32
+278,castillo,0.32
+279,cola,0.32
+280,comisión,0.32
+281,comunidad,0.32
+282,continente,0.32
+283,creación,0.32
+284,el gobierno,0.32
+285,email,0.32
+286,exterior,0.32
+287,feria,0.32
+288,integración,0.32
+289,madrugada,0.32
+290,mascarilla,0.32
+291,mayores,0.32
+292,municipalidad,0.32
+293,municipio,0.32
+294,origen,0.32
+295,planeta,0.32
+296,pollería,0.32
+297,presidentes,0.32
+298,real plaza  registro,0.32
+299,rebrote,0.32
+300,recorrido,0.32
+301,remesa,0.32
+302,salvadoreño,0.32
+303,san borja,0.32
+304,serpost,0.32
+305,través,0.32
+306,unidad,0.32
+307,unión europea,0.32
+308,us$,0.32
+309,uso,0.32
+310,usuario,0.32
+311,vi cumbre de la celac,0.32
+312,vietnam,0.32
+313,whatsapp  facinerosos,0.32
+314,2001,0.31
+315,albedrío,0.31
+316,alfabetización,0.31
+317,américa,0.31
+318,asunción,0.31
+319,autorización,0.31
+320,avance,0.31
+321,bruno cueva v,0.31
+322,captura,0.31
+323,cargo,0.31
+324,casa,0.31
+325,celular,0.31
+326,ciencia,0.31
+327,colusión,0.31
+328,comisaría,0.31
+329,consejo consultivo de indecopi,0.31
+330,coronavirus,0.31
+331,crew dragon,0.31
+332,crítica,0.31
+333,debate,0.31
+334,democracia,0.31
+335,economía,0.31
+336,el minsa,0.31
+337,escolarización,0.31
+338,escuela,0.31
+339,essalud,0.31
+340,experimento,0.31
+341,fecha,0.31
+342,ficción,0.31
+343,fricciones,0.31
+344,futuro,0.31
+345,huacho,0.31
+346,hurto,0.31
+347,identidad,0.31
+348,inspiration4,0.31
+349,interior,0.31
+350,josé távara,0.31
+351,julián palacín  efecto,0.31
+352,mario carhuapoma,0.31
+353,mañana,0.31
+354,miembro,0.31
+355,nave,0.31
+356,niña,0.31
+357,ponga,0.31
+358,propuesta,0.31
+359,recompensa,0.31
+360,rutina,0.31
+361,régimen,0.31
+362,sociedad,0.31
+363,solo,0.31
+364,talibán,0.31
+365,también,0.31
+366,tanto,0.31
+367,temor,0.31
+368,transferencia,0.31
+369,tripulante,0.31
+370,vamos a tu encuentro,0.31
+371,vez,0.31
+372,vida,0.31
+373,viernes,0.31
+374,ángelo guevara,0.31
+375,aquí,0.3
+376,astronauta,0.3
+377,atentado,0.3
+378,barrio,0.3
+379,biografía,0.3
+380,bomba,0.3
+381,bordo,0.3
+382,callao,0.3
+383,campo,0.3
+384,capital,0.3
+385,celebración,0.3
+386,conoce,0.3
+387,derechos,0.3
+388,diversidad,0.3
+389,día,0.3
+390,edad,0.3
+391,el amerizaje,0.3
+392,el mandatario paraguayo,0.3
+393,entidad,0.3
+394,equipo,0.3
+395,escritor,0.3
+396,espacio,0.3
+397,gobierno de nicolás maduro,0.3
+398,grecia,0.3
+399,guerra,0.3
+400,humanos,0.3
+401,jalalabad,0.3
+402,jefe,0.3
+403,la llama inmortal,0.3
+404,la tierra,0.3
+405,local,0.3
+406,manifestante,0.3
+407,migrant,0.3
+408,muerto,0.3
+409,odio,0.3
+410,ong,0.3
+411,pasajero,0.3
+412,paul auster,0.3
+413,periodista,0.3
+414,poeta,0.3
+415,prestación,0.3
+416,rechazo,0.3
+417,reconocimiento,0.3
+418,regreso,0.3
+419,remuneración,0.3
+420,stephen crane,0.3
+421,tabla,0.3
+422,tuberculosis,0.3
+423,usuarios,0.3
+424,alcalde,0.29
+425,arequipa,0.29
+426,atraco,0.29
+427,auto,0.29
+428,barranco,0.29
+429,bus unidos chama,0.29
+430,canciller,0.29
+431,cartel,0.29
+432,ceniza,0.29
+433,cielo,0.29
+434,colocación,0.29
+435,conductor,0.29
+436,continuación,0.29
+437,costa verde,0.29
+438,delincuente,0.29
+439,delito,0.29
+440,deslizamiento,0.29
+441,equidad,0.29
+442,erika mouynes,0.29
+443,ernesto contreras letona,0.29
+444,forma,0.29
+445,geomalla,0.29
+446,jorge muñoz,0.29
+447,juan ccama,0.29
+448,juez,0.29
+449,la reunión cumbre de la región,0.29
+450,mesa,0.29
+451,muerte,0.29
+452,norte,0.29
+453,ola,0.29
+454,padre,0.29
+455,panamá,0.29
+456,papá,0.29
+457,piero lázaro motta,0.29
+458,política,0.29
+459,reclamo,0.29
+460,reporte,0.29
+461,revisarán,0.29
+462,scooter,0.29
+463,sospecha,0.29
+464,sujeto,0.29
+465,sur,0.29
+466,ti,0.29
+467,tramo,0.29
+468,tu,0.29
+469,viejito,0.29
+470,vigilante,0.29
+471,2019,0.28
+472,alex vera tudela,0.28
+473,cierre,0.28
+474,defensoría,0.28
+475,deficiencia,0.28
+476,director,0.28
+477,envasadora,0.28
+478,exceso,0.28
+479,fuerza,0.28
+480,glp,0.28
+481,incumplimiento,0.28
+482,iseg,0.28
+483,liderman,0.28
+484,manera,0.28
+485,osinergmin,0.28
+486,planta,0.28
+487,subsanación,0.28
+488,agua,0.27
+489,al interior de su vivienda,0.27
+490,almacenamiento,0.27
+491,arma,0.27
+492,autoridad,0.27
+493,bellavista,0.27
+494,canción,0.27
+495,capitolio,0.27
+496,concentración,0.27
+497,congreso,0.27
+498,corte,0.27
+499,cuba,0.27
+500,cupo,0.27
+501,cómplice,0.27
+502,desconocimiento,0.27
+503,disparo,0.27
+504,donald trump,0.27
+505,droga,0.27
+506,díaz canel,0.27
+507,el hombre,0.27
+508,explosivo,0.27
+509,extranjero,0.27
+510,favor,0.27
+511,fragmento,0.27
+512,himno,0.27
+513,invasor,0.27
+514,limpieza,0.27
+515,manifestación,0.27
+516,mejoramiento,0.27
+517,momento,0.27
+518,patria y vida,0.27
+519,protesta,0.27
+520,sedapal,0.27
+521,sede,0.27
+522,simpatizante,0.27
+523,sistema,0.27
+524,suspensión,0.27
+525,tiktoker,0.27
+526,tumbes,0.27

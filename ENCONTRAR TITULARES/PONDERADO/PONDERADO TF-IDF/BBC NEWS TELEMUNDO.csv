@@ -1,0 +1,334 @@
+,Word,Ponderado
+0,país,4.56
+1,año,4.11
+2,persona,2.76
+3,fuerza,2.28
+4,linfoma,2.23
+5,sudamérica,2.05
+6,niña,1.99
+7,vida,1.85
+8,familia,1.83
+9,ejercicio,1.77
+10,gobierno,1.72
+11,idea,1.72
+12,mujer,1.72
+13,contagio,1.68
+14,infraestructura,1.57
+15,crisis,1.52
+16,mundo,1.5
+17,república federal de centroamérica,1.46
+18,territorio,1.45
+19,futuro,1.43
+20,china,1.42
+21,caída,1.4
+22,propulsión,1.39
+23,submarino,1.39
+24,centroamérica,1.37
+25,momento,1.37
+26,nación,1.37
+27,cambio,1.34
+28,sangre,1.3
+29,mes,1.25
+30,escuela,1.24
+31,precio,1.23
+32,región,1.23
+33,acuerdo,1.16
+34,autor,1.15
+35,enfermedad,1.11
+36,coronavirus,1.06
+37,diferencia,1.06
+38,domingo,1.06
+39,robert durst,1.06
+40,abuso,1.05
+41,agosto,1.04
+42,"gabrielle ""gabby"" petito",1.04
+43,alianza,1.03
+44,contrario,1.03
+45,flota,1.03
+46,miedo,1.03
+47,philipp blom,1.03
+48,bbc extra,1.0
+49,elizabeth holmes,1.0
+50,error,1.0
+51,silicon valley,1.0
+52,siglo,0.99
+53,naturaleza,0.98
+54,realidad,0.96
+55,cargo,0.95
+56,adulto,0.94
+57,esmirna,0.94
+58,hombre,0.94
+59,calendario,0.93
+60,hazaña,0.93
+61,heroína,0.93
+62,héroe,0.93
+63,la de la monja catalina de erauso,0.93
+64,abogado,0.92
+65,asesinato,0.92
+66,hijo,0.92
+67,millón,0.92
+68,seguro,0.92
+69,delfín,0.91
+70,argentina,0.89
+71,biles,0.88
+72,caso,0.88
+73,australia,0.87
+74,cáncer,0.87
+75,diciembre,0.87
+76,emperador,0.87
+77,grupo,0.87
+78,majestad,0.87
+79,puyi,0.87
+80,impacto,0.86
+81,islas feroe,0.86
+82,menudo,0.84
+83,dean buonomano,0.83
+84,máquina,0.83
+85,tiempo,0.83
+86,tu cerebro,0.83
+87,factor,0.81
+88,flet,0.81
+89,incremento,0.81
+90,multiplicidad,0.81
+91,dinastía,0.8
+92,medida,0.8
+93,manada,0.79
+94,equipo,0.78
+95,manos,0.78
+96,médico,0.78
+97,simone biles,0.78
+98,contenedor,0.76
+99,decisión,0.76
+100,presidente,0.76
+101,vicepresidenta,0.76
+102,lugar,0.73
+103,panamá,0.73
+104,aumento,0.71
+105,forma,0.71
+106,gimnasta,0.71
+107,pandemia,0.7
+108,turco,0.7
+109,cifra,0.68
+110,desaparición,0.68
+111,junio,0.68
+112,nivel,0.67
+113,aukus,0.66
+114,mayoría,0.66
+115,qanon me arrebató,0.66
+116,sueño,0.66
+117,manifestación,0.63
+118,origen,0.62
+119,amistad,0.61
+120,ministro,0.61
+121,teoría,0.61
+122,total,0.61
+123,la nueva españa,0.6
+124,quema,0.6
+125,época,0.6
+126,atleta,0.59
+127,fiscal,0.59
+128,psicópata,0.59
+129,serie,0.59
+130,smith,0.59
+131,testimonio,0.59
+132,aliado,0.58
+133,comportamiento,0.58
+134,francia,0.58
+135,independencia,0.57
+136,miércoles,0.57
+137,amiga,0.56
+138,millonario,0.56
+139,habitante,0.55
+140,la tierra,0.55
+141,enfado,0.54
+142,importación,0.54
+143,producto,0.54
+144,ruptura,0.54
+145,afganistán,0.53
+146,caza,0.53
+147,fractura,0.53
+148,lenguaje,0.53
+149,matrimonio,0.53
+150,secta,0.53
+151,semana,0.53
+152,talibán,0.53
+153,área,0.53
+154,américa latina,0.52
+155,caribe,0.52
+156,economía,0.52
+157,independentista,0.52
+158,jugada,0.52
+159,virreinato,0.52
+160,cosa,0.51
+161,estado,0.51
+162,etiopía,0.51
+163,meta,0.51
+164,neurona,0.51
+165,partir,0.51
+166,patrimonio,0.51
+167,reloj,0.51
+168,salud,0.51
+169,2014,0.5
+170,ahora,0.5
+171,ajedrez,0.5
+172,carolina del sur,0.5
+173,carta,0.5
+174,comienzo,0.5
+175,crimen,0.5
+176,descendiente,0.5
+177,documental,0.5
+178,fernández de kirchner,0.5
+179,homicidio,0.5
+180,leyenda,0.5
+181,migración,0.5
+182,murdaugh,0.5
+183,netflix,0.5
+184,nona gaprindashvili,0.5
+185,quiebra,0.5
+186,red,0.5
+187,tecnología,0.5
+188,mieloma,0.49
+189,autoridad,0.48
+190,operativo,0.48
+191,embargo,0.47
+192,interacción,0.47
+193,universo,0.47
+194,científico,0.46
+195,control,0.46
+196,electromagnetismo,0.46
+197,gravedad,0.46
+198,imperio,0.46
+199,matanza,0.46
+200,milenio,0.46
+201,posesión,0.46
+202,pregunta,0.46
+203,tamaño,0.46
+204,todos,0.46
+205,ambientalista,0.45
+206,clase,0.45
+207,diversidad,0.45
+208,dólares,0.45
+209,empresa,0.45
+210,implicación,0.45
+211,inversión,0.45
+212,ley,0.45
+213,pacífico sur,0.45
+214,preocupación,0.45
+215,pueblo,0.45
+216,pulso,0.45
+217,religión,0.45
+218,start-up,0.45
+219,texas,0.45
+220,theranos,0.45
+221,alberto fernández,0.44
+222,bosque,0.44
+223,california,0.44
+224,ciudad,0.44
+225,colapso,0.44
+226,cristina kirchner,0.44
+227,destrucción,0.44
+228,fraude,0.44
+229,istmo,0.44
+230,manglar,0.44
+231,marido,0.44
+232,presencia,0.44
+233,senado de eeuu,0.44
+234,theranos holmes,0.44
+235,través,0.44
+236,carrera,0.43
+237,estabilidad,0.43
+238,humanidad,0.43
+239,indo-pacífica,0.43
+240,libro,0.43
+241,paz,0.43
+242,philipp bloom,0.43
+243,posibilidad,0.43
+244,experiencia,0.42
+245,explotador,0.42
+246,fin,0.42
+247,heredera,0.42
+248,mitad,0.42
+249,muriel gardiner,0.42
+250,nazismo,0.42
+251,odio,0.42
+252,oscar,0.42
+253,parásito,0.42
+254,película,0.42
+255,poder,0.42
+256,qing,0.42
+257,acrónimo,0.41
+258,américa,0.41
+259,australia reino unido,0.41
+260,catalina de erauso,0.41
+261,convento,0.41
+262,estados unidos,0.41
+263,hermano,0.41
+264,inglés,0.41
+265,novicia,0.41
+266,pacto,0.41
+267,senado de estados unidos,0.41
+268,soldado,0.41
+269,cacería,0.4
+270,cetáceo,0.4
+271,consecuencia,0.4
+272,mensaje,0.4
+273,quiebre,0.4
+274,resultado,0.4
+275,actualidad,0.39
+276,clave,0.39
+277,disminución,0.39
+278,casa,0.38
+279,cápita,0.38
+280,día,0.38
+281,laundrie,0.38
+282,muerte,0.38
+283,padre,0.38
+284,petito,0.38
+285,septiembre,0.38
+286,tasa,0.38
+287,vez,0.38
+288,culpo,0.37
+289,finales,0.37
+290,historia,0.37
+291,juegos olímpicos,0.37
+292,larry nassar,0.37
+293,sistema,0.37
+294,zona,0.37
+295,busca,0.36
+296,camioneta,0.36
+297,joven,0.36
+298,misterio,0.36
+299,pareja,0.36
+300,pista,0.36
+301,policía,0.36
+302,base,0.35
+303,comercio,0.35
+304,españa,0.35
+305,importancia,0.35
+306,resto,0.35
+307,completo,0.33
+308,constantinopla,0.33
+309,cristiana,0.33
+310,cristianismo,0.33
+311,frente,0.33
+312,golpe,0.33
+313,griego,0.33
+314,imperio otomano,0.33
+315,minoría,0.33
+316,población,0.33
+317,tercio,0.33
+318,urbe,0.33
+319,vasilios meichanetsidis,0.33
+320,agricultor,0.32
+321,agua,0.32
+322,campo,0.32
+323,isla,0.32
+324,mar,0.32
+325,penetración,0.32
+326,trabajo,0.32
+327,estrategia,0.31
+328,experto,0.31
+329,funcionario,0.31
+330,objetivo,0.31
+331,pese,0.31
+332,política,0.31

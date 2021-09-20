@@ -1,0 +1,884 @@
+,Word,Ponderado
+0,fecha,10.94
+1,fase 2,10.46
+2,video,9.6
+3,estadio,8.17
+4,partido,6.95
+5,monumental,5.45
+6,minuto,5.41
+7,equipo,5.3
+8,gol,5.0
+9,jornada,5.0
+10,perú,4.38
+11,encuentro,3.84
+12,triunfo,3.58
+13,cotejo,3.55
+14,pm,3.38
+15,final,3.37
+16,iván elías moreno,3.36
+17,punto,3.28
+18,vivo,3.14
+19,estadio monumental,3.05
+20,duelo,2.99
+21,vs,2.81
+22,tanto,2.64
+23,momento,2.62
+24,delantero,2.59
+25,mls,2.58
+26,ecuador,2.56
+27,fotos,2.48
+28,septiembre,2.42
+29,golazo,2.41
+30,año,2.35
+31,volante,2.25
+32,semana,2.19
+33,frente,2.16
+34,real madrid,2.16
+35,edison flores,2.14
+36,covid-19,2.09
+37,marcos lópez,2.01
+38,chile,1.99
+39,empate,1.94
+40,tiempo,1.92
+41,domingo,1.91
+42,fichaje,1.91
+43,jugador,1.9
+44,joao villamarín,1.88
+45,bombazo,1.87
+46,ligue 1,1.84
+47,selección,1.84
+48,universitario,1.83
+49,premier league,1.81
+50,boca juniors,1.79
+51,choque,1.79
+52,defensor,1.78
+53,resultado,1.78
+54,cuadro,1.75
+55,liga 1,1.75
+56,horario,1.74
+57,puesto,1.7
+58,igualdad,1.69
+59,mario palomino,1.69
+60,martes,1.66
+61,objetivo,1.66
+62,cara,1.65
+63,breve,1.64
+64,psg,1.62
+65,día,1.61
+66,sábado,1.61
+67,renzo garcés,1.58
+68,canal,1.56
+69,hd,1.54
+70,titular,1.54
+71,laliga,1.53
+72,partido por la fecha 11 de la,1.53
+73,gl de,1.52
+74,espn,1.49
+75,vía,1.49
+76,luis advíncula,1.48
+77,juego,1.42
+78,victoria,1.42
+79,vamo,1.4
+80,vamos,1.4
+81,peruano,1.39
+82,am,1.38
+83,fc barcelona,1.38
+84,concentración,1.37
+85,posibilidad,1.37
+86,comentario,1.35
+87,las voces,1.35
+88,movistar,1.35
+89,narración,1.35
+90,voz,1.35
+91,benevento,1.33
+92,serie b,1.33
+93,sport boys,1.33
+94,partidazo,1.32
+95,serie,1.32
+96,partido ya,1.31
+97,orlando núñez,1.3
+98,“,1.29
+99,torneo,1.27
+100,barcelona,1.25
+101,city,1.23
+102,felipe rodríguez,1.23
+103,falta,1.22
+104,crystal palace,1.21
+105,liverpool,1.21
+106,southampton,1.21
+107,regularidad,1.2
+108,acción,1.19
+109,hernán barcos,1.19
+110,arranca la segunda parte,1.17
+111,coloso de ate,1.17
+112,copa davis,1.17
+113,rostro,1.17
+114,dc united,1.16
+115,campana,1.14
+116,campo,1.14
+117,hombre,1.14
+118,golperu,1.12
+119,radamel falcao,1.11
+120,rayo vallecano,1.11
+121,rodrigo vilca,1.11
+122,tv,1.11
+123,bus,1.1
+124,boca,1.08
+125,forma,1.08
+126,marcador,1.06
+127,oncena,1.06
+128,primer tiempo,1.06
+129,lesión,1.05
+130,transmisión,1.05
+131,mantenimiento,1.04
+132,mbappé,1.04
+133,binacional video,1.01
+134,parte,1.0
+135,síguelo,1.0
+136,clase,0.99
+137,morecambe,0.98
+138,yoshimar yotún,0.98
+139,el salvador,0.97
+140,iván elías moreno de villa,0.97
+141,lópez,0.97
+142,millón,0.97
+143,bayern munich,0.95
+144,tarjeta,0.95
+145,cancha,0.94
+146,salida,0.93
+147,gianluca lapadula,0.92
+148,cierre,0.91
+149,hincha,0.91
+150,seguir,0.91
+151,carlos bustos,0.9
+152,carlos neumann,0.9
+153,entrenador,0.9
+154,vacunafest,0.9
+155,verano,0.9
+156,pelota,0.89
+157,penal,0.89
+158,trabajo,0.89
+159,vuelta,0.89
+160,brazo,0.88
+161,doncaster,0.88
+162,rafael lutiger,0.88
+163,tucumán video,0.88
+164,valencia,0.88
+165,actitud,0.87
+166,aldo corzo,0.87
+167,concurso,0.87
+168,fútbol,0.87
+169,renato espinosa,0.87
+170,lima,0.86
+171,advíncula,0.85
+172,defensa,0.85
+173,patada,0.85
+174,binacional,0.84
+175,manchester city,0.84
+176,situación,0.84
+177,bale,0.83
+178,enfrentamiento,0.83
+179,mercado,0.83
+180,messi,0.83
+181,paridad,0.83
+182,remate,0.83
+183,selección peruana  femenina,0.83
+184,vacunación,0.83
+185,fase,0.82
+186,juan pablo varillas,0.81
+187,mes,0.81
+188,pep guardiola,0.81
+189,sadio mané,0.81
+190,gracias,0.8
+191,hora,0.8
+192,nosotros,0.8
+193,oslimg mora,0.8
+194,plantel,0.8
+195,próximo,0.8
+196,esfuerzo,0.79
+197,lucas campana,0.79
+198,selección peruana femenina,0.79
+199,boys,0.78
+200,foto,0.78
+201,sport,0.78
+202,tucumán,0.78
+203,arsenal,0.77
+204,bordeaux,0.77
+205,cambio,0.77
+206,juventus,0.77
+207,liga profesional,0.77
+208,miguel trauco,0.77
+209,river plate,0.77
+210,participación,0.76
+211,red,0.76
+212,medio,0.75
+213,nerman fatic,0.75
+214,atlanta united,0.74
+215,goleada,0.74
+216,solo,0.74
+217,balón,0.73
+218,liga mx,0.73
+219,orejas,0.72
+220,chica,0.71
+221,ga na,0.71
+222,moooooos vamos perú,0.71
+223,parcial,0.71
+224,carlos fernandez,0.7
+225,clave,0.7
+226,tigre,0.7
+227,chorri palacios,0.69
+228,liga,0.69
+229,lugar,0.69
+230,inicia el partido ya,0.68
+231,bochum,0.67
+232,bundesliga,0.67
+233,ediles,0.67
+234,ganamos,0.67
+235,primera ronda,0.67
+236,atlético tucumán,0.66
+237,carlos zambrano,0.66
+238,centro,0.66
+239,doncaster rovers,0.66
+240,líder,0.66
+241,serie a,0.66
+242,barrancabermeja,0.65
+243,lisandro martínez,0.65
+244,varillas,0.65
+245,dupla,0.64
+246,tomislav brkic,0.64
+247,vacunatorio de plaza norte,0.64
+248,ascoli,0.63
+249,global tv,0.63
+250,unidad,0.63
+251,cabeza,0.62
+252,condición,0.62
+253,directiva,0.62
+254,iphone,0.62
+255,juegos,0.62
+256,universitario vs municipal,0.62
+257,certamen,0.61
+258,inderbarranca,0.61
+259,josé carvallo,0.61
+260,la relación de radamel falcao,0.61
+261,modalidad,0.61
+262,team perú,0.61
+263,tw/,0.61
+264,cerrarán el día,0.6
+265,directv sports,0.6
+266,empezó,0.6
+267,jonathan dos santos,0.6
+268,universitario de deportes,0.6
+269,alineaciones,0.59
+270,chat,0.59
+271,crítica,0.59
+272,hernán barcos foto,0.59
+273,américa,0.58
+274,atenas,0.58
+275,chico,0.58
+276,cieneguilla,0.58
+277,cirugía,0.58
+278,contrato,0.58
+279,desmán,0.58
+280,diego forlán,0.58
+281,feria metropolitana del libro lima lee,0.58
+282,herido,0.58
+283,lionel messi,0.58
+284,modelo,0.58
+285,ninel conde,0.58
+286,parís saint-germain,0.58
+287,pasajero,0.58
+288,pedro aquino,0.58
+289,resto,0.58
+290,toluca,0.58
+291,vez,0.58
+292,videoconferencia,0.58
+293,zona,0.58
+294,tabla,0.57
+295,últimos 45 minutos,0.57
+296,candela,0.56
+297,carlos desio dt,0.56
+298,coronavirus,0.56
+299,deportivo municipal,0.56
+300,final de la primera,0.56
+301,la mejor manera de defendernos,0.56
+302,mitad,0.56
+303,primera,0.56
+304,puma” carranza,0.56
+305,sobresaliente mario palomino,0.56
+306,cañete,0.55
+307,copa perú 2021,0.55
+308,deportivo municipal cuándo,0.55
+309,distrito,0.55
+310,listos,0.55
+311,premios emmy 2021 online en vivo,0.55
+312,purga,0.55
+313,regreso,0.55
+314,representante de dos santos,0.55
+315,tnt,0.55
+316,vista,0.55
+317,cero,0.54
+318,decir,0.54
+319,expulsado lucas rodríguez,0.54
+320,frank kessié ac milan,0.54
+321,gooollll,0.54
+322,lapadula,0.54
+323,marcos,0.54
+324,ricardo gareca,0.54
+325,ya se juega,0.54
+326,cachito villamarín,0.53
+327,estadio banco guayaquil de quito,0.53
+328,estadio miguel grau,0.53
+329,goleador,0.53
+330,lima metropolitana,0.53
+331,retorno,0.53
+332,manera,0.52
+333,marca perú golazo de,0.52
+334,momentos,0.52
+335,san josé earthquakes,0.52
+336,sterling,0.52
+337,trauco,0.52
+338,abren,0.51
+339,academia cantolao 0 d millán,0.51
+340,aficionado,0.51
+341,arco,0.51
+342,complemento ya,0.51
+343,césar vallejo,0.51
+344,empatamos,0.51
+345,estadio monumental gol,0.51
+346,inicia una nueva edición de,0.51
+347,josé carlos fernández,0.51
+348,la jornada de fútbol,0.51
+349,largo,0.51
+350,ligue 1 video,0.51
+351,listas,0.51
+352,oncenas,0.51
+353,rendimiento,0.51
+354,sintoniza,0.51
+355,valoración,0.51
+356,alex gensollen,0.5
+357,camiseta,0.5
+358,debut,0.5
+359,detalles,0.5
+360,directv real madrid,0.5
+361,dt,0.5
+362,elaboración,0.5
+363,getty images,0.5
+364,gustavo dulanto,0.5
+365,historial,0.5
+366,imagen,0.5
+367,insólito el curioso sorteo,0.5
+368,inter de milán,0.5
+369,keita,0.5
+370,krylia,0.5
+371,media vuelta,0.5
+372,muerte,0.5
+373,municipal,0.5
+374,olympique lyon,0.5
+375,opinión,0.5
+376,ovación,0.5
+377,parejo,0.5
+378,preferido,0.5
+379,premier league de rusia,0.5
+380,prensa,0.5
+381,puntaje,0.5
+382,rostov video,0.5
+383,saint-étienne,0.5
+384,salah,0.5
+385,trabajando,0.5
+386,100 pm,0.49
+387,alianza lima,0.49
+388,atraco,0.49
+389,callao,0.49
+390,cifra,0.49
+391,decisión,0.49
+392,euros,0.49
+393,francés,0.49
+394,interés,0.49
+395,justo,0.49
+396,ladrón,0.49
+397,número,0.49
+398,por lo menos no se perdió,0.49
+399,precio,0.49
+400,registro,0.49
+401,rodillo,0.49
+402,segundo,0.49
+403,sporting cristal,0.49
+404,utc,0.49
+405,viral ladrones reciben terrible golpiza,0.49
+406,amarilla,0.48
+407,aquí,0.48
+408,arquímedes figuera,0.48
+409,capilla,0.48
+410,carlos a mannucci de,0.48
+411,championship video,0.48
+412,comentarista,0.48
+413,detalle,0.48
+414,esperanza,0.48
+415,estadio monumental grítalo 'felucho,0.48
+416,fc,0.48
+417,ganarlo,0.48
+418,hernán barcos edgar benítez oslimg mora aldair rodríguez jefferson portales,0.48
+419,hija,0.48
+420,josepmir ballón,0.48
+421,llegó el primero,0.48
+422,luton,0.48
+423,nasa,0.48
+424,pelé,0.48
+425,plaza norte,0.48
+426,pudieron,0.48
+427,setiembre,0.48
+428,sonriente,0.48
+429,ytalo manzo dt,0.48
+430,blanquiazul,0.47
+431,copa davis el encuentro,0.47
+432,damir dzumhur,0.47
+433,descanso,0.47
+434,escenario,0.47
+435,establecimiento,0.47
+436,fin,0.47
+437,invierno,0.47
+438,koeman,0.47
+439,profesor,0.47
+440,racha,0.47
+441,refuerzo,0.47
+442,salud,0.47
+443,toca,0.47
+444,aldo corzo foto,0.46
+445,atalanta vs salernitana,0.46
+446,centímetro,0.46
+447,clara orlando núñez,0.46
+448,convocatoria,0.46
+449,declan rice,0.46
+450,derby de manchester,0.46
+451,duván zapata,0.46
+452,gl de alianza,0.46
+453,ocasión,0.46
+454,respuesta,0.46
+455,serie a video,0.46
+456,united,0.46
+457,universidad,0.46
+458,última hora,0.46
+459,abimael guzmán,0.45
+460,acreedor,0.45
+461,bala,0.45
+462,banda,0.45
+463,borussia dortmund,0.45
+464,bosnia,0.45
+465,brigada,0.45
+466,cabezazo,0.45
+467,carvallo,0.45
+468,club,0.45
+469,conferencia este,0.45
+470,coordinación,0.45
+471,corzo,0.45
+472,cuerpo,0.45
+473,dan,0.45
+474,delincuente,0.45
+475,derby county,0.45
+476,deudos,0.45
+477,entrega,0.45
+478,familia demostrando,0.45
+479,funcionamiento,0.45
+480,gabriel leyes,0.45
+481,haaland,0.45
+482,hermanito,0.45
+483,huancavelica,0.45
+484,ley,0.45
+485,muni,0.45
+486,nico álvarez,0.45
+487,opción,0.45
+488,oxígeno,0.45
+489,pago,0.45
+490,papá,0.45
+491,persona,0.45
+492,planta,0.45
+493,previa,0.45
+494,respaldo,0.45
+495,san martín,0.45
+496,smp,0.45
+497,sport huancayo,0.45
+498,terrorismo,0.45
+499,viral niño,0.45
+500,wayne rooney,0.45
+501,ánimo,0.45
+502,agónico,0.44
+503,apoyo,0.44
+504,atlético,0.44
+505,cambio lamentable,0.44
+506,carlos cabello,0.44
+507,cerrando,0.44
+508,contraataque letal,0.44
+509,fifa a,0.44
+510,josé ramírez,0.44
+511,laliga santander,0.44
+512,montes,0.44
+513,orgullos,0.44
+514,pasar,0.44
+515,página,0.44
+516,quito,0.44
+517,reemplazo,0.44
+518,rosado,0.44
+519,sigamos,0.44
+520,sudamericano hoy,0.44
+521,triste,0.44
+522,vamos chicas,0.44
+523,aglomeración,0.43
+524,anderson santamaría,0.43
+525,aproximación,0.43
+526,atlas,0.43
+527,autora,0.43
+528,cevallos,0.43
+529,champions,0.43
+530,checho ibarra,0.43
+531,confianza,0.43
+532,disfraz,0.43
+533,dt rosado ytalo manzo,0.43
+534,estoy contento de volver,0.43
+535,favorito,0.43
+536,flor salvador quién,0.43
+537,incursión,0.43
+538,inmunización,0.43
+539,le cag**** el cacharro mira,0.43
+540,lucha,0.43
+541,manchester united,0.43
+542,matthaus,0.43
+543,monumental el,0.43
+544,monumental mira,0.43
+545,necaxa,0.43
+546,necesidad,0.43
+547,país,0.43
+548,peligro,0.43
+549,postal,0.43
+550,precisión,0.43
+551,respuesta marlon de jesús,0.43
+552,revuelo,0.43
+553,rival,0.43
+554,sensación,0.43
+555,tasa,0.43
+556,terreno,0.43
+557,torneo apertura,0.43
+558,ventaja tricolor,0.43
+559,west ham,0.43
+560,área,0.43
+561,autogol,0.42
+562,banco guayaquil,0.42
+563,blanquirroja el partido,0.42
+564,chullo,0.42
+565,clasificación,0.42
+566,conozca,0.42
+567,cupo,0.42
+568,de ligt,0.42
+569,dinamita,0.42
+570,entrada,0.42
+571,estamos,0.42
+572,festejo,0.42
+573,fpf,0.42
+574,fútbol femenino,0.42
+575,habilidad,0.42
+576,héroe,0.42
+577,isla,0.42
+578,j villamarín,0.42
+579,jornada 12 de la,0.42
+580,l campana,0.42
+581,lisandro lópez,0.42
+582,manzo dt,0.42
+583,mino raiola,0.42
+584,nicoles charcopa,0.42
+585,palomino,0.42
+586,partido amistoso  alineación,0.42
+587,planchazo,0.42
+588,presidente,0.42
+589,puno,0.42
+590,reto,0.42
+591,revendedor,0.42
+592,unidos,0.42
+593,ytalo,0.42
+594,álvaro barco,0.42
+595,25-2025-1625-21,0.41
+596,45,0.41
+597,alentemos,0.41
+598,alianza universidad,0.41
+599,banco guayaquil nicoles charcopa,0.41
+600,boxeo,0.41
+601,campeonato panamericano u19 vamos,0.41
+602,campeonato sudamericano de voleibol 2021,0.41
+603,campeonato sudamericano de voleibol 2021 nuestras chicas,0.41
+604,carlos a mannucci,0.41
+605,carlos a mannucci  c neumann,0.41
+606,carlos a mannucci 1 f rodríguez,0.41
+607,coloso de villa,0.41
+608,enlace,0.41
+609,expulsión donald millán,0.41
+610,forcejeo,0.41
+611,francia,0.41
+612,golazo lucas,0.41
+613,inicia el complemento,0.41
+614,jeffry quintero,0.41
+615,jesús barco,0.41
+616,jonathan maicelo,0.41
+617,jostin alarcón,0.41
+618,liga 1- fase 2 jornada 11 alianza universidad 1,0.41
+619,luis ramírez,0.41
+620,lyon,0.41
+621,magaly medina,0.41
+622,mano,0.41
+623,melissa klug video,0.41
+624,p,0.41
+625,patricio arce,0.41
+626,pedida,0.41
+627,pelea,0.41
+628,punta hermosa,0.41
+629,salvador,0.41
+630,selección perú,0.41
+631,semifinal,0.41
+632,suma,0.41
+633,ventaja,0.41
+634,79,0.4
+635,ac milan,0.4
+636,ancelotti,0.4
+637,buena victoria,0.4
+638,calendario,0.4
+639,enfermería,0.4
+640,english league one,0.4
+641,guía,0.4
+642,hazard,0.4
+643,jornada 4,0.4
+644,molestia,0.4
+645,/difusión,0.39
+646,athletic club,0.39
+647,atlético de madrid,0.39
+648,bosnio,0.39
+649,calidad,0.39
+650,carlos desio  dt,0.39
+651,chofer,0.39
+652,cláusula,0.39
+653,confidencialidad,0.39
+654,credencial,0.39
+655,cuando,0.39
+656,diego simeone,0.39
+657,duro momento,0.39
+658,dzumhur,0.39
+659,el tenista peruano,0.39
+660,english league one rodrigo vilca,0.39
+661,explicación,0.39
+662,fondo,0.39
+663,hacemos,0.39
+664,insulto,0.39
+665,joven,0.39
+666,la mejor manera de defender,0.39
+667,leonardo,0.39
+668,miraflores,0.39
+669,no,0.39
+670,obstante,0.39
+671,prisión,0.39
+672,puntos,0.39
+673,racing,0.39
+674,salario,0.39
+675,scooter,0.39
+676,set,0.39
+677,vitales  fase 2,0.39
+678,xl,0.39
+679,árbitro,0.39
+680,⏲ 1000,0.39
+681,cada vez falta menos,0.38
+682,firme,0.38
+683,mohamed salah,0.38
+684,naby keita,0.38
+685,noticiero,0.38
+686,ya sabes no te pierdas,0.38
+687,0nerman fatic,0.37
+688,alineación,0.37
+689,arquero,0.37
+690,asistencia,0.37
+691,atajada,0.37
+692,atención,0.37
+693,athletic,0.37
+694,athletic club de bilbao,0.37
+695,athletic club getafe athletic club rayo vallecano afp,0.37
+696,athletic club joão félix,0.37
+697,bosnia &amp herzegovina,0.37
+698,bávaro,0.37
+699,bávaros,0.37
+700,cerramos,0.37
+701,champions league,0.37
+702,club9,0.37
+703,compañero,0.37
+704,copa davis  2nicolás álvarez,0.37
+705,daam foulon,0.37
+706,el extremo alemán,0.37
+707,este,0.37
+708,fifa,0.37
+709,figura,0.37
+710,grupo mundial i,0.37
+711,instantánea,0.37
+712,jeremi escate,0.37
+713,laliga  fecha 5 atlético de madrid 0,0.37
+714,leroy sané,0.37
+715,liga argentina,0.37
+716,listos atlético de,0.37
+717,madrid,0.37
+718,madridmomentáneamente,0.37
+719,manuel heredia,0.37
+720,paliza,0.37
+721,quito nuestra,0.37
+722,tremenda,0.37
+723,volveremos,0.37
+724,⏲ 300 pm,0.37
+725,0damir,0.36
+726,barranco,0.36
+727,costa verde,0.36
+728,geomalla,0.36
+729,instante,0.36
+730,juárez,0.36
+731,león,0.36
+732,nicolas,0.36
+733,norte,0.36
+734,pablo varillas 6/6,0.36
+735,perú22 vamos perú,0.36
+736,santiago ormeño,0.36
+737,sentido,0.36
+738,sur,0.36
+739,tramo,0.36
+740,amistoso internacional - fútbol femenino,0.35
+741,amistoso perú,0.35
+742,ataque,0.35
+743,autor,0.35
+744,bayern múnich,0.35
+745,bosnia y herzegovina,0.35
+746,camino,0.35
+747,campeonato sudamericano de voleibol,0.35
+748,copa davis perú,0.35
+749,crack felipe rodríguez,0.35
+750,deporte,0.35
+751,derecha,0.35
+752,directv,0.35
+753,equipazo,0.35
+754,estadio monumental el,0.35
+755,estrella,0.35
+756,fpf play,0.35
+757,global,0.35
+758,grupo mundial,0.35
+759,jorge panta,0.35
+760,mirza basic,0.35
+761,nicolás álvarez,0.35
+762,panamericano,0.35
+763,presencia,0.35
+764,rabona,0.35
+765,recurso,0.35
+766,representante,0.35
+767,selección peruana de tenis,0.35
+768,sergio galdos,0.35
+769,sports,0.35
+770,sudamericano perú,0.35
+771,tenis,0.35
+772,uruguayo,0.35
+773,va por buen,0.35
+774,0sergio galdos,0.34
+775,71,0.34
+776,baja,0.34
+777,banca,0.34
+778,claras,0.34
+779,conferencia oeste,0.34
+780,cosas,0.34
+781,dirección,0.34
+782,gareth bale,0.34
+783,honor,0.34
+784,insigne,0.34
+785,isquiotibial,0.34
+786,jorge panta 5/2 2mirza basic,0.34
+787,liga profesional de argentina,0.34
+788,los goles,0.34
+789,luis gonzáles,0.34
+790,m sau,0.34
+791,memphis,0.34
+792,mira,0.34
+793,otra vez,0.34
+794,peruanos,0.34
+795,pierna,0.34
+796,real madrid  el galés,0.34
+797,real salt lake,0.34
+798,seattle sounders,0.34
+799,suplente,0.34
+800,toda la confianza raúl ruidíaz,0.34
+801,tremendo,0.34
+802,tropiezo,0.34
+803,visitante,0.34
+804,*,0.33
+805,67,0.33
+806,alma,0.33
+807,andrés iniesta,0.33
+808,antesala,0.33
+809,buenos días hoy,0.33
+810,casa,0.33
+811,celébralo,0.33
+812,competencia,0.33
+813,consideración,0.33
+814,copa sudamericana,0.33
+815,cuenta,0.33
+816,dobles,0.33
+817,el,0.33
+818,escríbeno,0.33
+819,inicio,0.33
+820,laliga fantasy,0.33
+821,leyenda,0.33
+822,link,0.33
+823,local,0.33
+824,lucas,0.33
+825,minutos,0.33
+826,misilera,0.33
+827,renato tapia,0.33
+828,resaltante,0.33
+829,saint étienne,0.33
+830,tuvo,0.33
+831,vamos perú,0.33
+832,alegría,0.32
+833,austin fc,0.32
+834,cantó clarito,0.32
+835,contundente,0.32
+836,cuello,0.32
+837,europa,0.32
+838,exequipo,0.32
+839,exjugador,0.32
+840,fanático,0.32
+841,fila,0.32
+842,ganado,0.32
+843,getafe,0.32
+844,giro,0.32
+845,gustavo dulanto sergio ibarra,0.32
+846,hinchada,0.32
+847,josé luis carranza,0.32
+848,las palabras de,0.32
+849,lateral,0.32
+850,liga mx  las 'águilas,0.32
+851,mensaje,0.32
+852,moldavia,0.32
+853,pedido,0.32
+854,pirata,0.32
+855,san jose earthquakes,0.32
+856,tan,0.32
+857,tema,0.32
+858,visita,0.32
+859,a ganar,0.31
+860,granada,0.31
+861,lucho,0.31
+862,luis abram,0.31
+863,lunes,0.31
+864,bolonia,0.3
+865,cantidad,0.3
+866,compatriota,0.3
+867,derrota,0.3
+868,diferencia,0.3
+869,doblete,0.3
+870,edin dzeko,0.3
+871,inter,0.3
+872,lautaro martínez,0.3
+873,liga mx nuestro,0.3
+874,matías vecino,0.3
+875,milan skriniar,0.3
+876,milán,0.3
+877,nicolo barella,0.3
+878,sd/,0.29
+879,señal,0.29
+880,sigamos alentando,0.29
+881,sudamericano femenino,0.29
+882,través,0.29

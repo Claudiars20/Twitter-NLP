@@ -1,0 +1,4545 @@
+,Word,Ponderado
+0,video,95.53
+1,presidente,44.46
+2,país,31.62
+3,año,28.81
+4,perú,26.7
+5,covid-19,24.02
+6,pedro castillo,20.98
+7,persona,19.91
+8,celac,18.98
+9,gobierno,17.96
+10,fecha,16.49
+11,méxico,16.3
+12,vacunación,16.04
+13,estado,16.03
+14,sábado,15.66
+15,vacuna,15.29
+16,vivo,15.02
+17,fotos,14.81
+18,setiembre,14.81
+19,día,12.77
+20,foto,12.7
+21,fase 2,12.69
+22,partido,12.19
+23,millón,11.84
+24,semana,11.81
+25,resto,11.8
+26,pueblo,11.49
+27,mundo,11.44
+28,hora,11.39
+29,cumbre,11.21
+30,caso,11.15
+31,jefe,11.14
+32,mes,11.02
+33,equipo,10.81
+34,intervención,10.77
+35,cambio,10.7
+36,relación,10.64
+37,abimael guzmán,10.43
+38,joven,10.42
+39,jornada,10.41
+40,eeuu,10.38
+41,pandemia,10.13
+42,vacunafest,10.11
+43,estadio,10.03
+44,lima,9.98
+45,gobierno de la celac,9.7
+46,vi cumbre de jefas,9.64
+47,crisis,9.51
+48,prisión,9.5
+49,fin,9.4
+50,región,9.39
+51,minuto,9.19
+52,salud,9.14
+53,dosis,9.11
+54,ministro,8.95
+55,mujer,8.88
+56,chile,8.86
+57,trabajo,8.86
+58,domingo,8.73
+59,serie,8.66
+60,ley,8.36
+61,entrevista,8.33
+62,vida,8.28
+63,“,8.25
+64,muerte,7.75
+65,medida,7.74
+66,momento,7.58
+67,encuentro,7.46
+68,acuerdo,7.43
+69,mandatario,7.4
+70,→,7.3
+71,centro,7.26
+72,mensaje,7.18
+73,coronavirus,7.17
+74,horario,7.17
+75,tema,7.08
+76,representante,7.02
+77,hombre,6.97
+78,migrant,6.95
+79,zona,6.92
+80,inmunización,6.79
+81,nación,6.77
+82,parte,6.77
+83,bolivia,6.74
+84,peruano,6.72
+85,grupo,6.71
+86,población,6.71
+87,integración,6.65
+88,septiembre,6.62
+89,proyecto,6.5
+90,comentario,6.46
+91,vi cumbre de la celac,6.44
+92,economía,6.37
+93,cuerpo,6.36
+94,gol,6.33
+95,américa latina,6.31
+96,república,6.29
+97,terrorismo,6.26
+98,punto,6.22
+99,vez,6.21
+100,detalle,6.15
+101,columna,6.13
+102,hijo,6.11
+103,chofer,6.08
+104,programa,6.08
+105,democracia,6.06
+106,monumental,6.0
+107,vía,5.97
+108,niño,5.96
+109,policía,5.96
+110,scooter,5.95
+111,maduro,5.93
+112,familia,5.91
+113,discriminación,5.79
+114,vs,5.79
+115,president,5.74
+116,clase,5.71
+117,igualdad,5.71
+118,participación,5.67
+119,sur,5.67
+120,frente,5.66
+121,paraguay,5.62
+122,tasa,5.6
+123,brigada,5.59
+124,minsa,5.59
+125,tiempo,5.59
+126,mercado,5.52
+127,seguridad,5.5
+128,ecuador,5.46
+129,empresa,5.45
+130,objetivo,5.36
+131,padre,5.3
+132,precio,5.28
+133,prueba,5.27
+134,estudio,5.21
+135,onu,5.18
+136,pago,5.13
+137,nicolás maduro,5.12
+138,aldo corzo,5.08
+139,niña,5.01
+140,atención,4.99
+141,llegada,4.99
+142,escuela,4.96
+143,necesidad,4.94
+144,vi cumbre de la comunidad de estados latinoamericanos y caribeños,4.94
+145,psg,4.93
+146,red,4.92
+147,show,4.9
+148,luciana fuster,4.89
+149,contrato,4.86
+150,callao,4.84
+151,decisión,4.84
+152,lugar,4.83
+153,contagio,4.78
+154,cuba,4.78
+155,el perú,4.78
+156,espacio,4.78
+157,perú libre,4.76
+158,manera,4.75
+159,desarrollo,4.74
+160,gira,4.74
+161,víctima,4.74
+162,afganistán,4.73
+163,salida,4.73
+164,cieneguilla,4.72
+165,opinión,4.7
+166,organismo,4.7
+167,distrito,4.67
+168,ataque,4.66
+169,estados unidos,4.66
+170,pm,4.66
+171,agente,4.64
+172,problema,4.64
+173,proceso,4.64
+174,copa davis,4.61
+175,propuesta,4.6
+176,selección,4.6
+177,género,4.55
+178,frontera,4.53
+179,denuncia,4.51
+180,poder,4.51
+181,costa verde,4.48
+182,establecimiento,4.46
+183,medio,4.41
+184,voz,4.41
+185,congresista,4.38
+186,apoyo,4.37
+187,lunes,4.37
+188,política,4.37
+189,mantenimiento,4.36
+190,norma,4.35
+191,retorno,4.33
+192,resultado,4.32
+193,triunfo,4.28
+194,terrorista,4.27
+195,canciller,4.26
+196,cumbre de la celac,4.26
+197,patricio parodi,4.26
+198,unidad,4.25
+199,restricción,4.24
+200,banda,4.22
+201,condición,4.16
+202,guido bellido,4.16
+203,venezuela,4.16
+204,premier league,4.13
+205,titular,4.13
+206,historia,4.12
+207,concurso,4.1
+208,concentración,4.09
+209,defensa,4.09
+210,casa,4.08
+211,crítica,4.07
+212,derecho,4.07
+213,dalia durán,4.06
+214,situación,4.06
+215,derechos,4.02
+216,humanos,4.02
+217,final,4.0
+218,imagen,3.99
+219,futuro,3.98
+220,2022,3.97
+221,recurso,3.97
+222,josé távara,3.92
+223,oea,3.92
+224,agresión,3.9
+225,posibilidad,3.9
+226,constitución,3.89
+227,la tierra,3.88
+228,amor,3.86
+229,cifra,3.86
+230,debate,3.86
+231,gabinete,3.86
+232,cañete,3.84
+233,cotejo,3.84
+234,enfrentamiento,3.84
+235,nasa,3.84
+236,victoria,3.84
+237,china,3.83
+238,paso,3.82
+239,uruguay,3.81
+240,autoridad,3.8
+241,duelo,3.79
+242,líder,3.79
+243,avance,3.78
+244,forma,3.78
+245,real madrid,3.78
+246,spacex,3.78
+247,plan,3.76
+248,campaña,3.75
+249,jugador,3.73
+250,canal,3.72
+251,barranco,3.71
+252,iván elías moreno,3.7
+253,bus,3.69
+254,miembro,3.69
+255,primer,3.67
+256,reunión,3.67
+257,bala,3.66
+258,bosnia y herzegovina,3.66
+259,comunidad,3.66
+260,sistema,3.66
+261,agenda,3.65
+262,sentido,3.65
+263,confianza,3.63
+264,fuerza,3.63
+265,interés,3.63
+266,sol,3.62
+267,cremación,3.61
+268,protección,3.61
+269,acceso,3.6
+270,ciudadano,3.6
+271,respuesta,3.6
+272,estrategia,3.58
+273,infraestructura,3.56
+274,melissa klug,3.56
+275,hernán barcos,3.54
+276,vuelo,3.54
+277,cargo,3.52
+278,lionel messi,3.52
+279,nivel,3.52
+280,importancia,3.51
+281,cabecilla,3.5
+282,mayoría,3.49
+283,pareja,3.49
+284,portada,3.48
+285,texas,3.48
+286,estadio monumental,3.47
+287,unión,3.46
+288,caída,3.45
+289,hecho,3.44
+290,ee uu,3.43
+291,bloqueo,3.42
+292,cuenta,3.42
+293,fondo,3.41
+294,octubre,3.39
+295,servicio,3.39
+296,francia,3.38
+297,tanto,3.38
+298,edad,3.37
+299,subsidio,3.37
+300,información,3.33
+301,novio,3.33
+302,vicepresidenta,3.33
+303,sector,3.32
+304,pfizer,3.31
+305,acción,3.3
+306,argentina,3.28
+307,enfermedad,3.28
+308,plaza norte,3.28
+309,el salvador,3.27
+310,latinoamérica,3.27
+311,presencia,3.27
+312,designación,3.26
+313,mano,3.26
+314,reforma,3.26
+315,andrés lópez obrador,3.25
+316,bebé,3.24
+317,delincuente,3.24
+318,fuego,3.24
+319,reina,3.24
+320,señal,3.22
+321,vi,3.21
+322,coordinación,3.18
+323,elección,3.17
+324,herido,3.17
+325,delantero,3.16
+326,geomalla,3.14
+327,ciudad,3.12
+328,josé carvallo,3.12
+329,oechsle,3.12
+330,aglomeración,3.1
+331,congreso,3.1
+332,diferencia,3.1
+333,universitario,3.1
+334,campamento,3.09
+335,destitución,3.09
+336,deportación,3.08
+337,homólogo,3.08
+338,cantante,3.07
+339,buenos,3.06
+340,regreso,3.06
+341,temporada,3.06
+342,2020,3.05
+343,libertad,3.05
+344,golazo,3.04
+345,julio velarde,3.04
+346,sofía franco,3.04
+347,creación,3.03
+348,”,3.03
+349,mamá,3.02
+350,solidaridad,3.02
+351,transmisión,3.02
+352,juego,3.01
+353,capital,3.0
+354,martes,2.99
+355,experiencia,2.98
+356,compromiso,2.97
+357,exfiscal,2.97
+358,ingreso,2.96
+359,agosto,2.95
+360,tipo,2.95
+361,vecino,2.94
+362,california,2.93
+363,reportaje,2.93
+364,kabul,2.92
+365,abogado,2.91
+366,falta,2.91
+367,deslizamiento,2.9
+368,premios emmy,2.89
+369,puesto,2.89
+370,autor,2.88
+371,sorpresa,2.88
+372,asesinato,2.87
+373,cara,2.87
+374,cupo,2.87
+375,gabinete binacional,2.86
+376,norte,2.86
+377,producción,2.85
+378,volante,2.85
+379,origen,2.84
+380,sesión,2.84
+381,fútbol,2.83
+382,lea,2.83
+383,lee,2.83
+384,bancada,2.82
+385,smp,2.82
+386,lucha,2.81
+387,américa,2.8
+388,tramo,2.78
+389,empate,2.77
+390,inversión,2.77
+391,mls,2.77
+392,organización,2.77
+393,pnp,2.77
+394,ciudad de méxico,2.76
+395,exitosaperú,2.76
+396,instancia,2.76
+397,netflix,2.76
+398,pelé,2.76
+399,áncash,2.76
+400,tierra,2.74
+401,unión europea,2.74
+402,camino,2.73
+403,error,2.73
+404,manifestación,2.72
+405,peso,2.72
+406,declaración,2.7
+407,emergencia,2.7
+408,ganador,2.69
+409,informe,2.69
+410,razón,2.69
+411,entérate,2.68
+412,escenario,2.68
+413,vivencia,2.68
+414,/cc,2.66
+415,aquí,2.66
+416,ayuda,2.66
+417,contra,2.65
+418,viernes,2.65
+419,beso,2.64
+420,evento,2.64
+421,informándote,2.64
+422,través,2.64
+423,dinero,2.63
+424,esfuerzo,2.63
+425,nieta,2.63
+426,rusia,2.63
+427,lima metropolitana,2.62
+428,cumpleaños,2.61
+429,haití,2.61
+430,ligue 1,2.61
+431,violación,2.61
+432,competencia,2.6
+433,dina boluarte,2.6
+434,sueldo,2.6
+435,américa latina y el caribe,2.59
+436,boca juniors,2.59
+437,laliga,2.59
+438,muerto,2.59
+439,tecnología,2.59
+440,fraude,2.58
+441,bono,2.56
+442,identidad,2.56
+443,atentado,2.55
+444,ejercicio,2.55
+445,el caribe,2.55
+446,juventus,2.55
+447,hija,2.54
+448,ministerio público,2.54
+449,sinopharm,2.54
+450,tv,2.52
+451,submarino,2.51
+452,bono yanapay perú,2.5
+453,marco,2.49
+454,sudamérica,2.49
+455,excontralor,2.48
+456,magaly medina,2.48
+457,ministerio de salud,2.48
+458,nicola porcella,2.48
+459,dolor,2.47
+460,integrante,2.46
+461,vicente fernández,2.46
+462,cáncer,2.45
+463,espn,2.45
+464,isla,2.45
+465,ministra,2.45
+466,obra,2.45
+467,yolanda medina,2.45
+468,dz,2.44
+469,deudos,2.43
+470,esposa,2.43
+471,solo,2.42
+472,unidos,2.42
+473,vuelta,2.42
+474,miraflores,2.41
+475,fiscalía suprema,2.4
+476,actividad,2.39
+477,caribe,2.39
+478,2019,2.38
+479,cadáver,2.38
+480,planta,2.38
+481,realidad,2.37
+482,funcionario,2.36
+483,linfoma,2.36
+484,segundo,2.36
+485,centroamérica,2.35
+486,denis moncada,2.35
+487,feria metropolitana del libro lima lee,2.35
+488,fichaje,2.35
+489,hd,2.35
+490,discurso,2.34
+491,idea,2.34
+492,talibán,2.34
+493,pedida,2.32
+494,turista,2.32
+495,altura,2.31
+496,gracias,2.31
+497,nombre,2.31
+498,protesta,2.31
+499,territorio,2.31
+500,favor,2.3
+501,hospital,2.29
+502,manchester city,2.29
+503,noticia,2.29
+504,vacunatorio,2.29
+505,violencia,2.29
+506,dólar,2.28
+507,independencia,2.28
+508,brecha,2.27
+509,grupo mundial i,2.26
+510,defensor,2.25
+511,misión,2.25
+512,clásico del pacífico,2.24
+513,cultura,2.24
+514,pedido,2.24
+515,choque,2.23
+516,álvaro paz de la barra,2.23
+517,biden,2.22
+518,castillo,2.22
+519,clave,2.22
+520,matrimonio,2.22
+521,servir,2.22
+522,ernesto pimentel,2.21
+523,gael,2.21
+524,liga 1,2.21
+525,diálogo,2.2
+526,avelino guillén,2.19
+527,benevento,2.19
+528,edison flores,2.19
+529,partir,2.19
+530,serie b,2.19
+531,meta,2.18
+532,respeto,2.18
+533,sheyla rojas,2.18
+534,bochum,2.17
+535,directo,2.17
+536,pasajero,2.17
+537,arequipa,2.16
+538,cevallos,2.16
+539,oportunidad,2.16
+540,robo,2.16
+541,alimento,2.15
+542,comercio,2.15
+543,moderna,2.15
+544,sociedad,2.15
+545,vacunatorio de plaza norte,2.15
+546,delito,2.14
+547,expresidente,2.14
+548,sede,2.14
+549,gestión,2.13
+550,secretaria ejecutiva de la cepal alicia bárcena,2.13
+551,sendero luminoso,2.13
+552,disposición,2.12
+553,reto,2.12
+554,campo,2.11
+555,distribución,2.11
+556,agresor,2.1
+557,atlético de madrid,2.1
+558,desafío,2.1
+559,agua,2.09
+560,gente,2.09
+561,magaly,2.09
+562,marcos lópez,2.09
+563,continente,2.08
+564,juan chiquito flores,2.08
+565,corzo,2.07
+566,consulta,2.06
+567,lista,2.06
+568,alerta,2.05
+569,consecuencia,2.05
+570,jonathan dos santos,2.05
+571,control,2.04
+572,cusco,2.04
+573,nota,2.04
+574,daniela darcourt,2.03
+575,capitolio,2.02
+576,exministro,2.02
+577,gasto,2.02
+578,investigación,2.02
+579,lesly reyna,2.02
+580,prevención,2.02
+581,visita,2.02
+582,australia,2.01
+583,cartilla,2.01
+584,carvallo,2.01
+585,liverpool,2.01
+586,torneo,2.01
+587,sueño,2.0
+588,vi cumbre de la,2.0
+589,bombazo,1.99
+590,fiscal,1.99
+591,institución,1.99
+592,joao villamarín,1.99
+593,alianza,1.98
+594,calle,1.98
+595,cooperación,1.98
+596,director,1.98
+597,edgar alarcón,1.98
+598,batalla,1.97
+599,pesar,1.97
+600,playa,1.97
+601,prensa,1.97
+602,beneficio,1.96
+603,educación,1.96
+604,haitiano,1.96
+605,vladimir cerrón,1.96
+606,éxito,1.96
+607,aniversario,1.95
+608,homicidio,1.95
+609,incremento,1.95
+610,salario,1.95
+611,dólares,1.94
+612,este,1.94
+613,hernando cevallos,1.94
+614,jefas,1.94
+615,luis advíncula,1.94
+616,extranjero,1.93
+617,fda,1.93
+618,melissa paredes,1.93
+619,peligro,1.93
+620,gobernante,1.92
+621,huancavelica,1.92
+622,oxígeno,1.92
+623,paz,1.92
+624,reinas,1.92
+625,rodrigo vilca,1.92
+626,incertidumbre,1.91
+627,miércoles,1.91
+628,suspensión,1.91
+629,actor,1.9
+630,celular,1.9
+631,crystal palace,1.9
+632,supremo,1.9
+633,barcelona,1.89
+634,inicio,1.89
+635,tranquilidad,1.89
+636,gabby petito,1.88
+637,plazo,1.88
+638,contencioso administrativo,1.87
+639,hogar,1.87
+640,jesús barco,1.87
+641,siglo,1.87
+642,universitario de deportes,1.87
+643,julián palacín,1.86
+644,s/,1.86
+645,seguro,1.86
+646,concierto,1.85
+647,firma,1.85
+648,viaje,1.85
+649,cuadro,1.84
+650,exigencia,1.84
+651,tony succar,1.84
+652,2021,1.83
+653,autora,1.83
+654,bosnia &amp herzegovina,1.83
+655,embajador,1.83
+656,españa,1.83
+657,la voz de los que no tienen voz,1.83
+658,plataforma,1.83
+659,provincia,1.83
+660,puno,1.83
+661,reality,1.83
+662,bomba,1.82
+663,chavo,1.81
+664,godínez,1.81
+665,jefes de estado,1.81
+666,miedo,1.81
+667,pasión de gavilanes,1.81
+668,régimen,1.81
+669,sport boys,1.81
+670,vamos,1.81
+671,brian laundrie,1.8
+672,cine,1.8
+673,destino,1.8
+674,suscriptor,1.8
+675,versión,1.8
+676,canadá,1.79
+677,juan pablo varillas,1.79
+678,onlyfans,1.79
+679,compra,1.78
+680,cumplimiento,1.78
+681,escándalo,1.78
+682,gianluca lapadula,1.78
+683,keiko fujimori,1.78
+684,pese,1.78
+685,compañía,1.77
+686,mario palomino,1.77
+687,sudamericano de vóley,1.77
+688,héroe,1.76
+689,nueva york,1.76
+690,ortega,1.76
+691,premier,1.76
+692,propulsión,1.76
+693,renuncia,1.76
+694,república federal de centroamérica,1.76
+695,truco,1.76
+696,comisaría,1.75
+697,conductor,1.75
+698,movistar,1.75
+699,diario,1.74
+700,general,1.74
+701,película,1.74
+702,southampton,1.74
+703,cámara,1.73
+704,esperanza,1.73
+705,radamel falcao,1.73
+706,rayo vallecano,1.73
+707,turismo,1.73
+708,abuelo,1.72
+709,atenas,1.72
+710,diego forlán,1.72
+711,etapa,1.72
+712,mar,1.72
+713,parque de la exposición,1.72
+714,referéndum,1.72
+715,fortalecimiento,1.71
+716,vacunan,1.71
+717,capacidad,1.7
+718,skate,1.7
+719,barcos,1.69
+720,clima,1.69
+721,lady guillén,1.69
+722,manos,1.69
+723,miraflores dictan,1.69
+724,responsabilidad,1.69
+725,tratado,1.69
+726,área,1.69
+727,alex gensollen,1.68
+728,decena,1.68
+729,preocupación,1.68
+730,traje,1.68
+731,uso,1.68
+732,experto,1.67
+733,kilómetro,1.67
+734,ministro de agricultura,1.67
+735,peter david,1.67
+736,renzo garcés,1.67
+737,susel paredes,1.67
+738,vicepresidente,1.67
+739,investigador,1.66
+740,tomás gálvez dan,1.66
+741,tripulación,1.66
+742,acto,1.65
+743,aporte,1.65
+744,lesión,1.65
+745,ejemplo,1.64
+746,futbolista,1.64
+747,madre,1.64
+748,presidente castillo,1.64
+749,derrumbe,1.63
+750,directiva,1.63
+751,valencia,1.63
+752,tumbes,1.62
+753,entidad,1.61
+754,partidazo,1.61
+755,panamá,1.6
+756,presidencia,1.6
+757,robert durst,1.6
+758,socio,1.6
+759,vigilante,1.6
+760,alex vera tudela,1.59
+761,paula manzanal,1.59
+762,universidad,1.59
+763,viajero,1.59
+764,vivo online,1.59
+765,colegio,1.58
+766,estela de chavín,1.58
+767,instrumento,1.58
+768,laliga santander,1.58
+769,mincul,1.58
+770,gigante,1.57
+771,jerry rivera,1.57
+772,justicia,1.57
+773,matthijs de ligt,1.57
+774,papel,1.57
+775,salvador,1.57
+776,incidencia,1.56
+777,modalidad,1.56
+778,oposición,1.56
+779,secuoya,1.56
+780,aplicación,1.55
+781,causa,1.55
+782,desmán,1.55
+783,mesa,1.55
+784,ministra de relaciones exteriores de panamá erika mouynes,1.55
+785,página,1.55
+786,vehículo,1.55
+787,bosnia,1.54
+788,comisión de ética,1.54
+789,desastre,1.54
+790,entrega,1.54
+791,expareja,1.54
+792,madrid,1.54
+793,opción,1.54
+794,sujeto,1.54
+795,tripulante,1.54
+796,cierre,1.53
+797,copa davis 2021,1.53
+798,flet,1.53
+799,homenaje,1.53
+800,mira,1.53
+801,nave,1.53
+802,breve,1.52
+803,copa davis perú,1.52
+804,gl de,1.52
+805,número,1.52
+806,plantel,1.52
+807,verdad,1.52
+808,economista,1.51
+809,marines →,1.51
+810,marín,1.51
+811,satanizar,1.51
+812,venganza,1.51
+813,abuso,1.5
+814,educación idel vexler,1.5
+815,exjefe,1.5
+816,mauricio santoyo,1.5
+817,presidencia de,1.5
+818,sometimiento,1.5
+819,washington,1.5
+820,aborto,1.49
+821,combustible,1.49
+822,diego chávarri,1.49
+823,lilia paredes,1.49
+824,rostro,1.49
+825,vamo,1.49
+826,ascoli,1.48
+827,crematorio,1.48
+828,funcionamiento,1.48
+829,límite,1.48
+830,milena zárate,1.48
+831,partido por la fecha 11 de la,1.48
+832,cirugía,1.47
+833,eva,1.47
+834,gloria gómez,1.47
+835,mino raiola,1.47
+836,ninel conde,1.47
+837,operativo,1.47
+838,rechazo,1.47
+839,reinas del show,1.47
+840,vietnam,1.47
+841,chincha,1.46
+842,cristina kirchner,1.46
+843,jamila dahabreh,1.46
+844,luz,1.46
+845,médico,1.46
+846,pobreza,1.46
+847,tarjeta,1.46
+848,corrupción,1.45
+849,ejecución,1.45
+850,fc barcelona,1.45
+851,gensollen,1.45
+852,inmigrante,1.45
+853,la libertad,1.45
+854,yoshimar yotún,1.45
+855,aire,1.44
+856,alberto fernández,1.44
+857,am,1.44
+858,ausencia,1.44
+859,la voz senior,1.44
+860,rango,1.44
+861,respaldo,1.44
+862,secretario,1.44
+863,tenis,1.44
+864,tránsito,1.44
+865,turco,1.44
+866,árbol,1.44
+867,hincha,1.43
+868,jueves,1.43
+869,promoción,1.43
+870,reactivación,1.43
+871,comida,1.42
+872,dra pamela espinosa méndez,1.42
+873,iniciativa,1.42
+874,lado,1.42
+875,pelea,1.42
+876,romance,1.42
+877,secretaria,1.42
+878,ssa,1.42
+879,suicidio,1.42
+880,ubica,1.42
+881,↓↓↓,1.42
+882,alianza lima,1.41
+883,desigualdad,1.41
+884,ingalls,1.41
+885,legislativa,1.41
+886,melissa gilbert,1.41
+887,reducción,1.41
+888,ricardo gareca,1.41
+889,sangre,1.41
+890,comerciante,1.4
+891,corona,1.4
+892,desaparición,1.4
+893,instagram,1.4
+894,oro,1.4
+895,poder judicial,1.4
+896,adolescente,1.39
+897,adulto,1.39
+898,edgar alarcón servir,1.39
+899,las voces,1.39
+900,narración,1.39
+901,roca,1.39
+902,tiktok,1.39
+903,buenos días,1.38
+904,calidad,1.38
+905,conversación,1.38
+906,década,1.38
+907,flor salvador quién,1.38
+908,nicola,1.38
+909,ojo,1.38
+910,pep guardiola,1.38
+911,reconocimiento,1.38
+912,usuarios,1.38
+913,baja,1.37
+914,bordo,1.37
+915,cantidad,1.37
+916,ciudadanos,1.37
+917,construcción,1.37
+918,doncaster,1.37
+919,incursión,1.37
+920,naturaleza,1.37
+921,personaje,1.37
+922,vivienda,1.37
+923,cuidado,1.36
+924,droga,1.36
+925,libro,1.36
+926,palabra,1.36
+927,tonelada,1.36
+928,acoso,1.35
+929,calendario,1.35
+930,cámaras,1.35
+931,riesgo,1.35
+932,bien,1.34
+933,comunicación,1.34
+934,detenido,1.34
+935,gala,1.34
+936,horóscopo,1.34
+937,movadef,1.34
+938,recompensa,1.34
+939,academia,1.33
+940,andrés manuel lópez obrador,1.33
+941,artista,1.33
+942,camión,1.33
+943,comunicado,1.33
+944,orlando núñez,1.33
+945,colaboración,1.32
+946,colectividad,1.32
+947,comportamiento,1.32
+948,cápsula,1.32
+949,familiar,1.32
+950,indecopi,1.32
+951,kilo,1.32
+952,mario abdo benítez,1.32
+953,diciembre,1.31
+954,eeg,1.31
+955,estrella,1.31
+956,guatemala,1.31
+957,refuerzo,1.31
+958,vacunatón,1.31
+959,city,1.3
+960,departamento,1.3
+961,partido morado-somos perú,1.3
+962,patada,1.3
+963,secretaria ejecutiva de la cepal,1.3
+964,tacna,1.3
+965,unesco,1.3
+966,costa,1.29
+967,gobierno de la celac →,1.29
+968,nieves everson hull,1.29
+969,planeta,1.29
+970,san cristóbal,1.29
+971,tabla,1.29
+972,vi cumbre de jefes de estado,1.29
+973,abimael,1.28
+974,anime,1.28
+975,consejo,1.28
+976,cárcel,1.28
+977,dragon ball,1.28
+978,efecto,1.28
+979,hermanos,1.28
+980,menor,1.28
+981,soberanía,1.28
+982,alza,1.27
+983,athletic,1.27
+984,bayern múnich,1.27
+985,binacional,1.27
+986,bono yanapay,1.27
+987,cero,1.27
+988,entrenador,1.27
+989,fiscalía,1.27
+990,heroína,1.27
+991,impacto,1.27
+992,periodista,1.27
+993,reventonazo de la chola,1.27
+994,club,1.26
+995,regularidad,1.26
+996,tengo,1.26
+997,transgresión,1.26
+998,alex gensollen videos,1.25
+999,amenaza,1.25
+1000,brazo,1.25
+1001,derecha,1.25
+1002,fortunata barrios,1.25
+1003,juez,1.25
+1004,presidenta,1.25
+1005,profesor,1.25
+1006,san borja,1.25
+1007,ahora,1.24
+1008,eduin caz,1.24
+1009,ejecutivo,1.24
+1010,enfermero,1.24
+1011,guerra,1.24
+1012,jossmery toledo,1.24
+1013,moda,1.24
+1014,máquina,1.24
+1015,ajedrez,1.23
+1016,aliado,1.23
+1017,amlo,1.23
+1018,ayacucho,1.23
+1019,escritor,1.23
+1020,febrero,1.23
+1021,felipe rodríguez,1.23
+1022,figura,1.23
+1023,gas,1.23
+1024,nangarha jalalabad,1.23
+1025,secretario general de la,1.23
+1026,brasil,1.22
+1027,marcha,1.22
+1028,mohamed irfaan ali,1.22
+1029,pista,1.22
+1030,alcalde,1.21
+1031,baile,1.21
+1032,benedicto jiménez,1.21
+1033,conjunto,1.21
+1034,curso regular de comandos del ejército,1.21
+1035,decir,1.21
+1036,fiesta,1.21
+1037,licencia,1.21
+1038,llanto,1.21
+1039,muestra,1.21
+1040,nacionalidad,1.21
+1041,nicolás álvarez,1.21
+1042,partido ya,1.21
+1043,síntoma,1.21
+1044,terror,1.21
+1045,trámite,1.21
+1046,tucumán,1.21
+1047,andina,1.2
+1048,beneficiario,1.2
+1049,compañero,1.2
+1050,factor,1.2
+1051,injerencia,1.2
+1052,ministro de san vicente y las granadinas ralph gonsalves,1.2
+1053,mitad,1.2
+1054,zoom,1.2
+1055,bellido,1.19
+1056,campana,1.19
+1057,chico,1.19
+1058,disfraz,1.19
+1059,envío,1.19
+1060,industria,1.19
+1061,actriz,1.18
+1062,carla patiño,1.18
+1063,crimen,1.18
+1064,david guetta,1.18
+1065,essalud,1.18
+1066,fines,1.18
+1067,golperu,1.18
+1068,ministro de santa lucía philip joseph pierre,1.18
+1069,rival,1.18
+1070,bundesliga,1.17
+1071,chullo,1.17
+1072,conflicto,1.17
+1073,conozca,1.17
+1074,fenómeno,1.17
+1075,"gabrielle ""gabby"" petito",1.17
+1076,goleada,1.17
+1077,habilidad,1.17
+1078,línea,1.17
+1079,mario carhuapoma,1.17
+1080,nerman fatic,1.17
+1081,raquetero,1.17
+1082,1993,1.16
+1083,cabeza,1.16
+1084,ciclista,1.16
+1085,crematorio piedrangel,1.16
+1086,dc united,1.16
+1087,diversidad,1.16
+1088,probabilidad,1.16
+1089,radio exitosa 955 fm  exitosa,1.16
+1090,terreno,1.16
+1091,agencia,1.15
+1092,balón,1.15
+1093,deceso,1.15
+1094,el poder del amor,1.15
+1095,junio,1.15
+1096,medicamento,1.15
+1097,plan de autosuficiencia sanitaria,1.15
+1098,boca,1.14
+1099,cepal,1.14
+1100,césar hildebrandt,1.14
+1101,desarrollo e inclusión social dina boluarte,1.14
+1102,hallazgo,1.14
+1103,honor,1.14
+1104,incendio,1.14
+1105,inmueble,1.14
+1106,lideresa,1.14
+1107,noviembre,1.14
+1108,próximo,1.14
+1109,cuto guadalupe,1.13
+1110,leyenda,1.13
+1111,nacional,1.13
+1112,pedro castillo esta,1.13
+1113,quién,1.13
+1114,subsecretario de relaciones económicas de,1.13
+1115,triste,1.13
+1116,ciudadanía,1.12
+1117,hollywood,1.12
+1118,la uchulú,1.12
+1119,papá,1.12
+1120,reino unido,1.12
+1121,app,1.11
+1122,arranca la segunda parte,1.11
+1123,colocación,1.11
+1124,coloso de ate,1.11
+1125,costa rica,1.11
+1126,debut,1.11
+1127,disculpa,1.11
+1128,entrada,1.11
+1129,estado peruano,1.11
+1130,exdirector,1.11
+1131,jamaica,1.11
+1132,legitimidad,1.11
+1133,lima callao,1.11
+1134,mbappé,1.11
+1135,rico,1.11
+1136,tigre,1.11
+1137,chimbote,1.1
+1138,exterior,1.1
+1139,limpieza,1.1
+1140,miel,1.1
+1141,migración,1.1
+1142,paridad,1.1
+1143,relaciones,1.1
+1144,semana de representación,1.1
+1145,tula rodríguez,1.1
+1146,visión,1.1
+1147,depósito,1.09
+1148,fisioterapia,1.09
+1149,madrugada,1.09
+1150,capítulo,1.08
+1151,comisión,1.08
+1152,daño,1.08
+1153,elizabeth holmes,1.08
+1154,flota,1.08
+1155,golpe de estado de 2019,1.08
+1156,gs,1.08
+1157,marcador,1.08
+1158,movimiento al socialismo,1.08
+1159,quiebre,1.08
+1160,silicon valley,1.08
+1161,with,1.08
+1162,adquisición,1.07
+1163,conferencia del secretario de relaciones exteriores de méxico,1.07
+1164,cumbre de,1.07
+1165,efe,1.07
+1166,espíritu,1.07
+1167,lv,1.07
+1168,millonario,1.07
+1169,municipio,1.07
+1170,posición,1.07
+1171,resistencia,1.07
+1172,órbita,1.07
+1173,antena 3,1.06
+1174,asistencia,1.06
+1175,atlético tucumán,1.06
+1176,de vuelta al barrio,1.06
+1177,precedente,1.06
+1178,smp joven,1.06
+1179,teatro,1.06
+1180,ahorrista,1.05
+1181,astronauta,1.05
+1182,banco,1.05
+1183,binacional video,1.05
+1184,dama,1.05
+1185,desprestigio,1.05
+1186,esmirna,1.05
+1187,explosivo,1.05
+1188,guía,1.05
+1189,innovación,1.05
+1190,liquidación,1.05
+1191,listado,1.05
+1192,motivo,1.05
+1193,puente,1.05
+1194,serie a,1.05
+1195,circunstancia,1.04
+1196,concepto,1.04
+1197,contrario,1.04
+1198,corte,1.04
+1199,excongresista contreras,1.04
+1200,modelo,1.04
+1201,philipp blom,1.04
+1202,xoana gonzález,1.04
+1203,adriano,1.03
+1204,banco central de reserva,1.03
+1205,consejo directivo,1.03
+1206,costumbre,1.03
+1207,cumbre celac,1.03
+1208,delta,1.03
+1209,favorito,1.03
+1210,olla comunes,1.03
+1211,provecho,1.03
+1212,sensación,1.03
+1213,sjl,1.03
+1214,virus,1.03
+1215,amiga,1.02
+1216,base,1.02
+1217,bebida,1.02
+1218,checho ibarra,1.02
+1219,morecambe,1.02
+1220,oncena,1.02
+1221,patrick dempsey,1.02
+1222,perrito,1.02
+1223,uci,1.02
+1224,voto,1.02
+1225,afp,1.01
+1226,altercado,1.01
+1227,capilla,1.01
+1228,contenido,1.01
+1229,el comercio suscríbete,1.01
+1230,exdirectivo,1.01
+1231,importación,1.01
+1232,metro,1.01
+1233,oligopolio,1.01
+1234,bbc extra,1.0
+1235,cancha,1.0
+1236,cari saldaña,1.0
+1237,carlos cornejo,1.0
+1238,chelero ministro de salud,1.0
+1239,distanciamiento,1.0
+1240,doncaster rovers,1.0
+1241,editorial en la mira de la historia,1.0
+1242,expectativa,1.0
+1243,gabriel bustamante,1.0
+1244,harán humo a abimael,1.0
+1245,jack miranda,1.0
+1246,mascarilla,1.0
+1247,medicina natural,1.0
+1248,menudo,1.0
+1249,nicolás lúcar,1.0
+1250,persecución,1.0
+1251,peru president calls on counterparts to prioritize fight against terrorism covid-19,1.0
+1252,peruvian mexican presidents meet prior to celac summit,1.0
+1253,predicción,1.0
+1254,primer tiempo,1.0
+1255,rosángela espinoza,1.0
+1256,rumbo,1.0
+1257,sacarronchas,1.0
+1258,shantall ordoñez,1.0
+1259,signo,1.0
+1260,síguelo,1.0
+1261,travesía,1.0
+1262,tutorial,1.0
+1263,vacunafest kicks off in peru,1.0
+1264,óscar paz,1.0
+1265,agricultura,0.99
+1266,bayern munich,0.99
+1267,enero,0.99
+1268,la abogada,0.99
+1269,liga,0.99
+1270,orden,0.99
+1271,simpatizante,0.99
+1272,suma,0.99
+1273,aprendizaje,0.98
+1274,bicicleta,0.98
+1275,hazaña,0.98
+1276,la de la monja catalina de erauso,0.98
+1277,lópez,0.98
+1278,opinas,0.98
+1279,personal,0.98
+1280,rol,0.98
+1281,senamhi,0.98
+1282,temperatura,0.98
+1283,toluca,0.98
+1284,época,0.98
+1285,detención,0.97
+1286,instalación,0.97
+1287,jc,0.97
+1288,parque de los príncipes,0.97
+1289,senado de república dominicana,0.97
+1290,televisión,0.97
+1291,tráiler,0.97
+1292,técnica,0.97
+1293,aficionado,0.96
+1294,balenciaga,0.96
+1295,bolsa,0.96
+1296,corte superior de justicia,0.96
+1297,delfín,0.96
+1298,deportivo municipal,0.96
+1299,dinastía,0.96
+1300,edición,0.96
+1301,empatía,0.96
+1302,hermano,0.96
+1303,las bambas,0.96
+1304,ligue 1 video,0.96
+1305,los ángeles,0.96
+1306,mañana,0.96
+1307,preparación,0.96
+1308,recinto,0.96
+1309,administración,0.95
+1310,compañera,0.95
+1311,exjuez,0.95
+1312,fuente,0.95
+1313,gisela valcárcel,0.95
+1314,iván elías moreno de villa,0.95
+1315,ministro de asuntos,0.95
+1316,miseria,0.95
+1317,padrón,0.95
+1318,revuelo,0.95
+1319,verano,0.95
+1320,yahaira plasencia,0.95
+1321,asentamiento,0.94
+1322,avelino guillén policía nacional,0.94
+1323,cancillería,0.94
+1324,carlos bustos,0.94
+1325,claudia la piña peña,0.94
+1326,comité,0.94
+1327,estabilidad,0.94
+1328,estatus,0.94
+1329,lanzamiento,0.94
+1330,milla,0.94
+1331,transformación,0.94
+1332,web,0.94
+1333,alicia bárcena,0.93
+1334,biles,0.93
+1335,caribe→,0.93
+1336,carlos neumann,0.93
+1337,carrera,0.93
+1338,ceremonia,0.93
+1339,conductora,0.93
+1340,dificultad,0.93
+1341,emperador,0.93
+1342,exclusivo,0.93
+1343,facebook,0.93
+1344,fundación,0.93
+1345,lenguaje,0.93
+1346,majestad,0.93
+1347,morgue,0.93
+1348,nguyen xuan phuc,0.93
+1349,olympique lyon,0.93
+1350,puyi,0.93
+1351,varillas,0.93
+1352,yuyos,0.93
+1353,bombero,0.92
+1354,cobertura,0.92
+1355,dirigencia,0.92
+1356,guzmán,0.92
+1357,islas feroe,0.92
+1358,multilaterismo,0.92
+1359,ruptura,0.92
+1360,seguir,0.92
+1361,técnico,0.92
+1362,whatsapp,0.92
+1363,abogada,0.91
+1364,alcance,0.91
+1365,best cable c92,0.91
+1366,c73,0.91
+1367,claro tv c14 sd,0.91
+1368,el agustino,0.91
+1369,habitante,0.91
+1370,impuesto,0.91
+1371,isabel acevedo,0.91
+1372,jorge muñoz,0.91
+1373,labor,0.91
+1374,liga profesional de argentina,0.91
+1375,movistar tv c12 sd,0.91
+1376,piñera,0.91
+1377,rafael lutiger,0.91
+1378,sintonízanos,0.91
+1379,star globalcom c12,0.91
+1380,talento,0.91
+1381,tdt,0.91
+1382,televisión digital terrestre,0.91
+1383,vigencia,0.91
+1384,zapatilla,0.91
+1385,bandera,0.9
+1386,carga,0.9
+1387,cojudigno,0.9
+1388,cosa,0.9
+1389,dean buonomano,0.9
+1390,del río,0.9
+1391,fila,0.9
+1392,guyana,0.9
+1393,luciana,0.9
+1394,ministro de salud,0.9
+1395,pan,0.9
+1396,patricio,0.9
+1397,prefiero,0.9
+1398,reemplazo,0.9
+1399,revista,0.9
+1400,revolución,0.9
+1401,samuel suárez,0.9
+1402,transporte,0.9
+1403,tu cerebro,0.9
+1404,tucumán video,0.9
+1405,xoana,0.9
+1406,actitud,0.89
+1407,advíncula,0.89
+1408,alimentación,0.89
+1409,crecimiento,0.89
+1410,honduras,0.89
+1411,multiplicidad,0.89
+1412,pelota,0.89
+1413,penal,0.89
+1414,renato espinosa,0.89
+1415,sacerdote,0.89
+1416,tarapoto,0.89
+1417,transformers,0.89
+1418,adicción,0.88
+1419,allison pastor,0.88
+1420,ancelotti,0.88
+1421,bale,0.88
+1422,candidata,0.88
+1423,cuello,0.88
+1424,deportista,0.88
+1425,diagnóstico,0.88
+1426,euros,0.88
+1427,hazard,0.88
+1428,imperio,0.88
+1429,institucionalidad,0.88
+1430,intento,0.88
+1431,oslimg mora,0.88
+1432,progreso,0.88
+1433,pulso,0.88
+1434,quiebra,0.88
+1435,anahí de cárdenas,0.87
+1436,biodiversidad,0.87
+1437,carne,0.87
+1438,corto,0.87
+1439,diana sánchez,0.87
+1440,forcejeo,0.87
+1441,messi,0.87
+1442,ministro de salud hernando cevallos,0.87
+1443,prometido,0.87
+1444,purga,0.87
+1445,puñal,0.87
+1446,secretario de relaciones exteriores de méxico,0.87
+1447,shirley arica,0.87
+1448,burbuja,0.86
+1449,físico,0.86
+1450,hoy,0.86
+1451,multilateralismo,0.86
+1452,potencial,0.86
+1453,sadio mané,0.86
+1454,selección peruana  femenina,0.86
+1455,trayectoria,0.86
+1456,tula,0.86
+1457,chiquitas,0.85
+1458,cortita,0.85
+1459,covid-19 vacunatorio de plaza norte,0.85
+1460,infierno,0.85
+1461,pc,0.85
+1462,remate,0.85
+1463,abimael guzmán crematorio piedrangel,0.84
+1464,cajamarca,0.84
+1465,ciclovía,0.84
+1466,colapso,0.84
+1467,césar vallejo,0.84
+1468,decreto de urgencia,0.84
+1469,distinción,0.84
+1470,divisionismo,0.84
+1471,episodio,0.84
+1472,extorsionadora,0.84
+1473,fase,0.84
+1474,fe,0.84
+1475,festejo,0.84
+1476,observación,0.84
+1477,ocasión,0.84
+1478,patente,0.84
+1479,pcm,0.84
+1480,pisco,0.84
+1481,principio,0.84
+1482,simone biles,0.84
+1483,súper,0.84
+1484,2008,0.83
+1485,bcr,0.83
+1486,carácter,0.83
+1487,champions,0.83
+1488,contenedor,0.83
+1489,fuerza popular keiko fujimori,0.83
+1490,hermanos yaipén,0.83
+1491,iglesia,0.83
+1492,lengua,0.83
+1493,nosotros,0.83
+1494,octógono,0.83
+1495,parámetro,0.83
+1496,apple,0.82
+1497,brote,0.82
+1498,camila,0.82
+1499,colon,0.82
+1500,cumbre→,0.82
+1501,dictadura,0.82
+1502,directv,0.82
+1503,división,0.82
+1504,juan antonio biceño,0.82
+1505,manada,0.82
+1506,morgue del callao,0.82
+1507,pamela franco,0.82
+1508,poeta,0.82
+1509,policía nacional,0.82
+1510,popular tiktoker,0.82
+1511,s/30,0.82
+1512,seguidor,0.82
+1513,segunda,0.82
+1514,sospecha,0.82
+1515,árbitro,0.82
+1516,2014,0.81
+1517,ambientalista,0.81
+1518,apurímac,0.81
+1519,arsenal,0.81
+1520,cercado,0.81
+1521,clasificación,0.81
+1522,embargo,0.81
+1523,financiamiento,0.81
+1524,foro,0.81
+1525,genocida,0.81
+1526,liga profesional,0.81
+1527,milenio,0.81
+1528,naciones →,0.81
+1529,river plate,0.81
+1530,tacna menores,0.81
+1531,trump,0.81
+1532,asamblea general de naciones unidas,0.8
+1533,atraco,0.8
+1534,categoría,0.8
+1535,celac castillo,0.8
+1536,chancla,0.8
+1537,chiquita,0.8
+1538,christian bravo,0.8
+1539,congestión,0.8
+1540,díaz-canel,0.8
+1541,elemento,0.8
+1542,emprendimiento,0.8
+1543,estado islámico,0.8
+1544,exgobernador,0.8
+1545,gerente,0.8
+1546,ideal,0.8
+1547,nieve,0.8
+1548,premio,0.8
+1549,sterling,0.8
+1550,vacunado,0.8
+1551,asunto,0.79
+1552,athletic bilbao,0.79
+1553,aumento,0.79
+1554,carlos bruce paso,0.79
+1555,civilización,0.79
+1556,conforme,0.79
+1557,contaminación,0.79
+1558,cumbre de la,0.79
+1559,duda,0.79
+1560,inventario,0.79
+1561,marido,0.79
+1562,mecanismo,0.79
+1563,mohamed salah,0.79
+1564,moscú,0.79
+1565,naby keita,0.79
+1566,observatorio,0.79
+1567,puneña,0.79
+1568,restaurante,0.79
+1569,selección peruana femenina,0.79
+1570,siberia,0.79
+1571,signs,0.79
+1572,temor,0.79
+1573,texto,0.79
+1574,tienda,0.79
+1575,tragedia,0.79
+1576,apelación,0.78
+1577,bordeaux,0.78
+1578,buenos días tromes esta,0.78
+1579,christian bravo entrevista,0.78
+1580,código,0.78
+1581,defecto,0.78
+1582,el ministro de salud,0.78
+1583,estructura,0.78
+1584,huacho,0.78
+1585,humanidad,0.78
+1586,intercambio,0.78
+1587,miguel trauco,0.78
+1588,noche,0.78
+1589,participante,0.78
+1590,rodrigo yáñez benítez,0.78
+1591,rutina,0.78
+1592,tribunal de la autoridad nacional del servicio civil,0.78
+1593,távara,0.78
+1594,boys,0.77
+1595,capacitación,0.77
+1596,coahuila,0.77
+1597,dircote,0.77
+1598,evian,0.77
+1599,gimnasta,0.77
+1600,juegos olímpicos,0.77
+1601,latina,0.77
+1602,león,0.77
+1603,lucas campana,0.77
+1604,marzo,0.77
+1605,obligación,0.77
+1606,parcial,0.77
+1607,período,0.77
+1608,ponga,0.77
+1609,remuneración,0.77
+1610,richard swing,0.77
+1611,sedapal,0.77
+1612,sport,0.77
+1613,sykp,0.77
+1614,tarea,0.77
+1615,tendencia,0.77
+1616,walter yaipén,0.77
+1617,zoológico,0.77
+1618,aukus,0.76
+1619,aula,0.76
+1620,bundesliga bayern múnich golea,0.76
+1621,chorri palacios,0.76
+1622,damir dzumhur,0.76
+1623,ediles,0.76
+1624,liberación,0.76
+1625,luna,0.76
+1626,maestro,0.76
+1627,memoria,0.76
+1628,nayib bukele,0.76
+1629,nicaragua,0.76
+1630,olga zumarán,0.76
+1631,par,0.76
+1632,puerta,0.76
+1633,público,0.76
+1634,alemán,0.75
+1635,camioneta,0.75
+1636,ddhh,0.75
+1637,exposición,0.75
+1638,frase,0.75
+1639,inflación,0.75
+1640,lyon,0.75
+1641,misterio,0.75
+1642,muni,0.75
+1643,promulgación,0.75
+1644,qanon me arrebató,0.75
+1645,total,0.75
+1646,trabajador,0.75
+1647,vi cumbre,0.75
+1648,xoana gonzales “me,0.75
+1649,2010,0.74
+1650,asociación cultural taurina del perú,0.74
+1651,casma,0.74
+1652,chica,0.74
+1653,csj,0.74
+1654,cuestión,0.74
+1655,darwin urquizo la constituyente,0.74
+1656,desnutrición,0.74
+1657,disminución,0.74
+1658,documento,0.74
+1659,equidad,0.74
+1660,europa,0.74
+1661,hans berger,0.74
+1662,ibai llanos,0.74
+1663,lazo,0.74
+1664,liga mx,0.74
+1665,longevidad,0.74
+1666,los ángeles azules,0.74
+1667,luz del sur,0.74
+1668,muchacho,0.74
+1669,odio,0.74
+1670,paciente,0.74
+1671,peaje,0.74
+1672,petición,0.74
+1673,presidente de bolivia,0.74
+1674,responsable,0.74
+1675,ritmo,0.74
+1676,torno,0.74
+1677,us$,0.74
+1678,usuario,0.74
+1679,aforo,0.73
+1680,apuro,0.73
+1681,bel-air,0.73
+1682,bukele,0.73
+1683,carlos fernandez,0.73
+1684,celeridad,0.73
+1685,conoce,0.73
+1686,cumbre de la celac presidente de paraguay,0.73
+1687,derrota,0.73
+1688,editorial por,0.73
+1689,el príncipe del rap,0.73
+1690,evolución,0.73
+1691,exteriores,0.73
+1692,gabriel ortiz de zevallos,0.73
+1693,gamers,0.73
+1694,gigantes,0.73
+1695,gobernador,0.73
+1696,inauguración,0.73
+1697,incentivo,0.73
+1698,interpelación,0.73
+1699,kamina johnson smith,0.73
+1700,korina rivadeneira,0.73
+1701,la lucha,0.73
+1702,manuel romero caro,0.73
+1703,nuestra portada de hoy,0.73
+1704,nuestra portada de hoy 18 de septiembre,0.73
+1705,orejas,0.73
+1706,oscuridad,0.73
+1707,paradero,0.73
+1708,reporte,0.73
+1709,respecto,0.73
+1710,sebastián rullli,0.73
+1711,votación,0.73
+1712,ámbito,0.73
+1713,agravio,0.72
+1714,alternativa,0.72
+1715,atlanta united,0.72
+1716,autonomía,0.72
+1717,cabo,0.72
+1718,captura,0.72
+1719,consejo permanente de la oea,0.72
+1720,criptomoneda,0.72
+1721,donald trump,0.72
+1722,eduardo jaramillo franco,0.72
+1723,ganamos,0.72
+1724,juzgado de investigación preparatoria,0.72
+1725,oficio,0.72
+1726,político,0.72
+1727,primera ronda,0.72
+1728,recorrido,0.72
+1729,sars-cov-2,0.72
+1730,tráfico,0.72
+1731,versus,0.72
+1732,último consejo permanente de la oea,0.72
+1733,1921,0.71
+1734,alberto fujimori,0.71
+1735,allanamiento,0.71
+1736,aniversario de méxico,0.71
+1737,atención primaria,0.71
+1738,busca,0.71
+1739,charles michel,0.71
+1740,cooperativa aelu,0.71
+1741,devolución,0.71
+1742,el ministerio de salud,0.71
+1743,enfermería,0.71
+1744,estadounidense,0.71
+1745,europeo,0.71
+1746,evelin meza,0.71
+1747,expresión,0.71
+1748,ga na,0.71
+1749,goles,0.71
+1750,mario ghibellini,0.71
+1751,moooooos vamos perú,0.71
+1752,partida,0.71
+1753,peru's president participates in vi celac,0.71
+1754,reglamento normativo,0.71
+1755,represión,0.71
+1756,resumen,0.71
+1757,rompan,0.71
+1758,sporting de lisboa,0.71
+1759,summit,0.71
+1760,tribunal constitucional,0.71
+1761,voleibolista,0.71
+1762,barbados,0.7
+1763,chorri' palacios,0.7
+1764,continuidad,0.7
+1765,deporte,0.7
+1766,el gobierno,0.7
+1767,excongresista,0.7
+1768,for,0.7
+1769,golpe,0.7
+1770,inspiration4,0.7
+1771,insulto,0.7
+1772,jerome walcott,0.7
+1773,jesús verde,0.7
+1774,luis arce,0.7
+1775,ministro de relaciones exteriores de,0.7
+1776,monto,0.7
+1777,opositor,0.7
+1778,rikishi,0.7
+1779,solicitud,0.7
+1780,talibanes,0.7
+1781,alemania,0.69
+1782,animal,0.69
+1783,barrancabermeja,0.69
+1784,canción,0.69
+1785,capitán,0.69
+1786,deuda,0.69
+1787,dolartoday venezuela,0.69
+1788,email,0.69
+1789,ensayo,0.69
+1790,junior,0.69
+1791,liam neeson,0.69
+1792,liga betplay,0.69
+1793,parlamento,0.69
+1794,prestación,0.69
+1795,smith,0.69
+1796,solución,0.69
+1797,alegría,0.68
+1798,ancashaldia,0.68
+1799,anillo,0.68
+1800,carlos zambrano,0.68
+1801,customer journey,0.68
+1802,cártel,0.68
+1803,diseño,0.68
+1804,dzumhur,0.68
+1805,estados,0.68
+1806,exitosa 955 fm,0.68
+1807,extirpación,0.68
+1808,fanático,0.68
+1809,florida,0.68
+1810,generación,0.68
+1811,grupo terna,0.68
+1812,hago,0.68
+1813,insurrección,0.68
+1814,josé távara martin,0.68
+1815,juicio,0.68
+1816,mario camus,0.68
+1817,municipalidad de lima,0.68
+1818,pirata,0.68
+1819,reabren,0.68
+1820,recaída,0.68
+1821,sentencia,0.68
+1822,tumor,0.68
+1823,ventilación,0.68
+1824,video alex gensollen,0.68
+1825,bts,0.67
+1826,cadena,0.67
+1827,dupla,0.67
+1828,ernesto contreras letona,0.67
+1829,experimento,0.67
+1830,global tv,0.67
+1831,gratis,0.67
+1832,local,0.67
+1833,lote,0.67
+1834,metropolitana,0.67
+1835,minem,0.67
+1836,narrativa,0.67
+1837,normas internacionales de información financiera,0.67
+1838,riñones cinco,0.67
+1839,riñón,0.67
+1840,tercio,0.67
+1841,tomislav brkic,0.67
+1842,videojuego,0.67
+1843,alejandra baigorria “anímate,0.66
+1844,arma,0.66
+1845,cieneguilla policía nacional,0.66
+1846,completo,0.66
+1847,cómo saber el dni de una persona,0.66
+1848,de tula rodríguez,0.66
+1849,estilo,0.66
+1850,evo morales,0.66
+1851,hermanos yaipén walter yaipén,0.66
+1852,"hernando cevallos ""ingreso al perú",0.66
+1853,jalalabad,0.66
+1854,marxistas,0.66
+1855,morales,0.66
+1856,parís saint-germain,0.66
+1857,pasaporte,0.66
+1858,"paula távara ""cascarones",0.66
+1859,prioridad,0.66
+1860,reniec,0.66
+1861,residente,0.66
+1862,rr,0.66
+1863,tratado de asistencia recíproca,0.66
+1864,ultraderecha,0.66
+1865,agrupación,0.65
+1866,alocución,0.65
+1867,andré carrillo,0.65
+1868,hotel,0.65
+1869,iphone,0.65
+1870,iván clemente,0.65
+1871,juan carrasco,0.65
+1872,juegos,0.65
+1873,juárez,0.65
+1874,la nueva españa,0.65
+1875,laboratorio,0.65
+1876,lapollarecords,0.65
+1877,lópez obrador,0.65
+1878,negocio,0.65
+1879,quema,0.65
+1880,resorts,0.65
+1881,roger chuquín,0.65
+1882,segundo vacunafest,0.65
+1883,alejandra baigorria,0.64
+1884,alineación,0.64
+1885,atlético de bilbao,0.64
+1886,certamen,0.64
+1887,civil,0.64
+1888,comas,0.64
+1889,cremarán,0.64
+1890,crédito,0.64
+1891,distancia,0.64
+1892,espinoza llerena,0.64
+1893,fractura,0.64
+1894,gestant,0.64
+1895,inderbarranca,0.64
+1896,inicia el partido ya,0.64
+1897,izquierda,0.64
+1898,la relación de radamel falcao,0.64
+1899,resaca,0.64
+1900,secreto,0.64
+1901,tw/,0.64
+1902,ángeles azules,0.64
+1903,amistad,0.63
+1904,barrio,0.63
+1905,ciencia,0.63
+1906,cristina luna,0.63
+1907,daniela darcourt jerry rivera,0.63
+1908,directv sports,0.63
+1909,emilia drago,0.63
+1910,federación de fonavistas,0.63
+1911,fuerza popular,0.63
+1912,juan diego tello,0.63
+1913,lisandro martínez,0.63
+1914,ola,0.63
+1915,pan nuestro lea,0.63
+1916,parís,0.63
+1917,psicópata,0.63
+1918,quiénes,0.63
+1919,ruidíaz lea,0.63
+1920,team perú,0.63
+1921,teoría,0.63
+1922,tropa,0.63
+1923,universitario vs municipal,0.63
+1924,alcaldía,0.62
+1925,asalto,0.62
+1926,asamblea constituyente,0.62
+1927,bono techo propio cómo,0.62
+1928,bryan arámbulo,0.62
+1929,cambiazo,0.62
+1930,ex miss perú,0.62
+1931,feminicidio,0.62
+1932,finanzas,0.62
+1933,iztapalapa,0.62
+1934,llama,0.62
+1935,localidad,0.62
+1936,luciana fusterg,0.62
+1937,marisol,0.62
+1938,ministro cevallos vacunación,0.62
+1939,pedro castillo «perú,0.62
+1940,remmy valenzuela,0.62
+1941,renovación popular,0.62
+1942,residuo,0.62
+1943,s/10,0.62
+1944,salva,0.62
+1945,samu' sobre el beso,0.62
+1946,san,0.62
+1947,sentimiento,0.62
+1948,unión europea para américa latina,0.62
+1949,vacante,0.62
+1950,videoconferencia,0.62
+1951,afán,0.61
+1952,alcalde muñoz,0.61
+1953,armas,0.61
+1954,banco central de reserva julio velarde,0.61
+1955,catástrofe,0.61
+1956,claro que me he hecho mis arreglitos,0.61
+1957,claudia la piña peña quién,0.61
+1958,cumbre  →,0.61
+1959,daca,0.61
+1960,enfado,0.61
+1961,explosión,0.61
+1962,fuerza olga  olga zumarán,0.61
+1963,galón,0.61
+1964,huella,0.61
+1965,la verdad yo,0.61
+1966,licor,0.61
+1967,maría del pilar tello,0.61
+1968,mejoramiento,0.61
+1969,minuto a minuto,0.61
+1970,narcojuniors,0.61
+1971,narcos méxico,0.61
+1972,pedro aquino,0.61
+1973,peruanos,0.61
+1974,petroperú,0.61
+1975,repsol,0.61
+1976,récords guinness,0.61
+1977,s/025,0.61
+1978,temática,0.61
+1979,video el traje de castillo no,0.61
+1980,abimael guzmán crematorio,0.6
+1981,austin palao,0.6
+1982,avelino guillén policía,0.6
+1983,beatriz alva hart,0.6
+1984,campeonato sudamericano de vóley,0.6
+1985,castillo perú,0.6
+1986,celebración,0.6
+1987,curso,0.6
+1988,deportivo municipal cuándo,0.6
+1989,disparo,0.6
+1990,dueño,0.6
+1991,elena conterno,0.6
+1992,empresario,0.6
+1993,eres perfecta,0.6
+1994,eugenio d'medina lora,0.6
+1995,gerencia regional de salud lambayeque,0.6
+1996,habemus,0.6
+1997,hildebrandt,0.6
+1998,instagram video,0.6
+1999,malditos del rolex,0.6
+2000,mancha,0.6
+2001,mejora,0.6
+2002,miss,0.6
+2003,no va,0.6
+2004,opinión activando,0.6
+2005,plaza,0.6
+2006,políticas,0.6
+2007,premios emmy 2021 online en vivo,0.6
+2008,reliquia,0.6
+2009,ropa,0.6
+2010,sudamericano,0.6
+2011,sylvester stallone,0.6
+2012,tnt,0.6
+2013,voleibol femenino,0.6
+2014,yanapay perú,0.6
+2015,acusación,0.59
+2016,atleta,0.59
+2017,barranco derrumbe,0.59
+2018,chat,0.59
+2019,clorinda flores,0.59
+2020,comunista,0.59
+2021,detalles,0.59
+2022,gonzalo zegarra,0.59
+2023,hernán barcos foto,0.59
+2024,irregularidad,0.59
+2025,kluiverth aguilar,0.59
+2026,la academia de eeg,0.59
+2027,lourdes sacín,0.59
+2028,melissa flores,0.59
+2029,moralidad,0.59
+2030,nadie te regaló nada,0.59
+2031,novela,0.59
+2032,pablo cermeño,0.59
+2033,pedro ortiz bisso,0.59
+2034,playa los yuyos,0.59
+2035,rusia oposición rusa,0.59
+2036,s/3 mllns,0.59
+2037,telemundo,0.59
+2038,testimonio,0.59
+2039,una casa para azul,0.59
+2040,2165533 9223446 citizens fully vaccinated,0.58
+2041,amigas,0.58
+2042,andrés hurtado,0.58
+2043,caricom →,0.58
+2044,cassandra sánchez,0.58
+2045,centro de salud san genaro de chorrillos,0.58
+2046,copa perú 2021,0.58
+2047,covid-19 abdala,0.58
+2048,cás,0.58
+2049,deudo,0.58
+2050,deyvis orosco,0.58
+2051,disputa,0.58
+2052,embarazo,0.58
+2053,estado de derecho socialista,0.58
+2054,esto,0.58
+2055,eta,0.58
+2056,extra,0.58
+2057,farc,0.58
+2058,future,0.58
+2059,gobierno cubano,0.58
+2060,greys anatomy,0.58
+2061,isla de margarita,0.58
+2062,janet leiva d,0.58
+2063,nuestra tarotista te cuenta lo que te depara el destino,0.58
+2064,patrón,0.58
+2065,peru coronavirus,0.58
+2066,planillones,0.58
+2067,porción,0.58
+2068,premier league dt,0.58
+2069,quechua,0.58
+2070,rapero lil nas x,0.58
+2071,receta,0.58
+2072,representante de dos santos,0.58
+2073,representative,0.58
+2074,samu,0.58
+2075,señorita,0.58
+2076,sobresaliente mario palomino,0.58
+2077,trome kart,0.58
+2078,un presidential visit to ratify confidence in peru's,0.58
+2079,universitario de deportes “le gustaría,0.58
+2080,venezuela carvajal,0.58
+2081,vulnerabilidad,0.58
+2082,víctimas,0.58
+2083,william levy,0.58
+2084,youtube,0.58
+2085,álbum,0.58
+2086,caribeños,0.57
+2087,carlos desio dt,0.57
+2088,carril de la costa verde,0.57
+2089,cima,0.57
+2090,covid-19 minsa,0.57
+2091,desinformación,0.57
+2092,emoción,0.57
+2093,entorno,0.57
+2094,ex,0.57
+2095,gino assereto,0.57
+2096,hijito,0.57
+2097,huánuco,0.57
+2098,janet barboza,0.57
+2099,la mejor manera de defendernos,0.57
+2100,lecciones sobre violencia de género,0.57
+2101,nickelodeon all-star brawl,0.57
+2102,notero,0.57
+2103,pequeños,0.57
+2104,primera,0.57
+2105,producto,0.57
+2106,puma” carranza,0.57
+2107,sexta cumbre de la comunidad de estados latinoamericanos,0.57
+2108,sonia chirinos,0.57
+2109,supervacunatón,0.57
+2110,te equivocaste conmigo,0.57
+2111,trauco,0.57
+2112,vicente fernández camila,0.57
+2113,voz senior,0.57
+2114,índice,0.57
+2115,últimos 45 minutos,0.57
+2116,aleska genesis,0.56
+2117,avelino guillén pnp,0.56
+2118,breña,0.56
+2119,clases,0.56
+2120,césar luna victoria,0.56
+2121,difíciles→,0.56
+2122,el búho,0.56
+2123,emisión,0.56
+2124,emmen,0.56
+2125,escaño,0.56
+2126,exministro idel vexler,0.56
+2127,flor salvador conoce,0.56
+2128,frank kessié ac milan,0.56
+2129,igualdad de género,0.56
+2130,infiel,0.56
+2131,la casa de papel,0.56
+2132,maltrato,0.56
+2133,mariella balbi,0.56
+2134,mi hija,0.56
+2135,miguel araujo,0.56
+2136,milena zárate “yo vengo a bailar,0.56
+2137,neosenderismo,0.56
+2138,nicky jam,0.56
+2139,parque nacional de cutervo,0.56
+2140,partido liberal progresista phillip davis,0.56
+2141,repechaje,0.56
+2142,retirada,0.56
+2143,secta,0.56
+2144,significado,0.56
+2145,sondeo,0.56
+2146,sorry,0.56
+2147,tamizarán,0.56
+2148,tour,0.56
+2149,vista,0.56
+2150,alineaciones,0.55
+2151,audiolibro,0.55
+2152,bad bunny,0.55
+2153,cachito villamarín,0.55
+2154,callao estas,0.55
+2155,catherine civiero,0.55
+2156,caza,0.55
+2157,cerrarán el día,0.55
+2158,chorrillos gringo,0.55
+2159,covid-19 gobierno,0.55
+2160,cumbre de la celac amlo,0.55
+2161,día de la ciudadanía,0.55
+2162,enrique iglesias,0.55
+2163,españa joven,0.55
+2164,estafa,0.55
+2165,flavia,0.55
+2166,fortnite,0.55
+2167,glaciar,0.55
+2168,guerreros méxico,0.55
+2169,gustavo dulanto,0.55
+2170,hugo chávez,0.55
+2171,instarándula,0.55
+2172,laboratorio moderna,0.55
+2173,laos actriz,0.55
+2174,me pone triste,0.55
+2175,nona gaprindashvili,0.55
+2176,objeto,0.55
+2177,onda,0.55
+2178,periodismo,0.55
+2179,plan de la cepal,0.55
+2180,preferido,0.55
+2181,rienda,0.55
+2182,sebastián piñera,0.55
+2183,secretaría general de latinoamérica y el caribe,0.55
+2184,sisfoh,0.55
+2185,transeúnte,0.55
+2186,variante,0.55
+2187,1321,0.54
+2188,anciano,0.54
+2189,andrea san martin,0.54
+2190,biólogo,0.54
+2191,by,0.54
+2192,carrito,0.54
+2193,carta,0.54
+2194,celac →,0.54
+2195,ciberataqu,0.54
+2196,cobro,0.54
+2197,comienzo,0.54
+2198,competidora,0.54
+2199,cronograma,0.54
+2200,daniel arenas,0.54
+2201,daniella álvarez,0.54
+2202,descarga,0.54
+2203,diario oficial el peruano,0.54
+2204,documental,0.54
+2205,domingo garcía belaúnde «norma,0.54
+2206,empezó,0.54
+2207,expulsado lucas rodríguez,0.54
+2208,exreclusos,0.54
+2209,fernández de kirchner,0.54
+2210,gabriela herrera,0.54
+2211,gobiernos→,0.54
+2212,goleador,0.54
+2213,greysi ortega,0.54
+2214,in 2004 scientists discovered that,0.54
+2215,justicia de eeuu,0.54
+2216,la china yogurt,0.54
+2217,lamento,0.54
+2218,lapadula,0.54
+2219,manga,0.54
+2220,michel,0.54
+2221,migraña,0.54
+2222,nathalie salazar,0.54
+2223,nintendo switch,0.54
+2224,obstáculo,0.54
+2225,"of objects in the kuiper belt was making ""strange"" movements could this be due to the existence of an additional planet beyond neptune's",0.54
+2226,oportunismo,0.54
+2227,pokémon unite,0.54
+2228,sebastián lizarzaburu,0.54
+2229,sencilla,0.54
+2230,solucionar→,0.54
+2231,sonriente,0.54
+2232,subsecretario de relaciones económicas internacionales,0.54
+2233,teletrabajo,0.54
+2234,tsukayama,0.54
+2235,tumbes tiktoker,0.54
+2236,ves joven,0.54
+2237,óptica,0.54
+2238,abrahan levy el,0.53
+2239,agradecimiento,0.53
+2240,agujero,0.53
+2241,artesano creativo del bicentenario,0.53
+2242,bagua grande amazonas,0.53
+2243,brunella horna,0.53
+2244,caso odebrecht,0.53
+2245,congreso de la república,0.53
+2246,consejo ejecutivo del poder judicial,0.53
+2247,cuáles,0.53
+2248,dependencia,0.53
+2249,desagüe,0.53
+2250,deseo,0.53
+2251,diego maradona,0.53
+2252,enfermera,0.53
+2253,especial,0.53
+2254,estadio banco guayaquil de quito,0.53
+2255,estás,0.53
+2256,exesposa,0.53
+2257,final de la primera,0.53
+2258,fuera,0.53
+2259,félix moreno fiscalía,0.53
+2260,gooollll,0.53
+2261,hernia,0.53
+2262,huest,0.53
+2263,hulk,0.53
+2264,jaime de althaus,0.53
+2265,javier carmona,0.53
+2266,johanna san miguel,0.53
+2267,luis felipe manrique flores,0.53
+2268,macabro,0.53
+2269,marcos,0.53
+2270,morales el perú,0.53
+2271,neurona,0.53
+2272,nombramiento,0.53
+2273,ozono,0.53
+2274,reclutando,0.53
+2275,reloj,0.53
+2276,richard acuña,0.53
+2277,sector vivienda,0.53
+2278,sobrina,0.53
+2279,tomás gálvez,0.53
+2280,ya se juega,0.53
+2281,avelino guillén aún,0.52
+2282,carolina del sur,0.52
+2283,cebolla,0.52
+2284,chris pérez,0.52
+2285,congreso perú libre,0.52
+2286,demócrata,0.52
+2287,descendiente,0.52
+2288,directv real madrid,0.52
+2289,el alcalde de del río texas roberto de los santos,0.52
+2290,estadio monumental gol,0.52
+2291,etiopía,0.52
+2292,fricción,0.52
+2293,golpistas,0.52
+2294,indepaz,0.52
+2295,independentista,0.52
+2296,infracción,0.52
+2297,instituto de estudios para el desarrollo y la paz,0.52
+2298,"jesús barco ""estoy",0.52
+2299,jugada,0.52
+2300,justo,0.52
+2301,karina valencia,0.52
+2302,keita,0.52
+2303,listos,0.52
+2304,marca perú golazo de,0.52
+2305,melania urbina,0.52
+2306,momentos,0.52
+2307,multa,0.52
+2308,murdaugh,0.52
+2309,neymar lionel messi,0.52
+2310,ovación,0.52
+2311,palacio nacional de méxico,0.52
+2312,panadería,0.52
+2313,patrimonio,0.52
+2314,perdón,0.52
+2315,presión,0.52
+2316,religión,0.52
+2317,retador,0.52
+2318,revelación,0.52
+2319,s/30 mil,0.52
+2320,salah,0.52
+2321,san josé earthquakes,0.52
+2322,selena quintanilla,0.52
+2323,single,0.52
+2324,sofía franco revelan,0.52
+2325,sofía lópez,0.52
+2326,suerte,0.52
+2327,teleserie,0.52
+2328,virreinato,0.52
+2329,vocación,0.52
+2330,you” temporada 3,0.52
+2331,ytalo manzo dt,0.52
+2332,abimael guzmán fiscalía,0.51
+2333,academia cantolao 0 d millán,0.51
+2334,adelanto,0.51
+2335,advertencia,0.51
+2336,altiplano,0.51
+2337,autodeterminación,0.51
+2338,azteca,0.51
+2339,barbie,0.51
+2340,barranco tramo de la costa verde,0.51
+2341,boda,0.51
+2342,bombardeo,0.51
+2343,candela,0.51
+2344,celestiales,0.51
+2345,celia cruz,0.51
+2346,centros,0.51
+2347,cia,0.51
+2348,cieneguilla a,0.51
+2349,conciliador,0.51
+2350,consejo consultivo,0.51
+2351,conócela,0.51
+2352,democracia →,0.51
+2353,diligencia,0.51
+2354,dt,0.51
+2355,emergencia sanitaria,0.51
+2356,escolar,0.51
+2357,estoy,0.51
+2358,exatlón méxico,0.51
+2359,francés,0.51
+2360,ganará,0.51
+2361,grupo firme,0.51
+2362,incidente,0.51
+2363,jessica newton prometo,0.51
+2364,jinping,0.51
+2365,julia álvarez,0.51
+2366,la polémica,0.51
+2367,ladrón,0.51
+2368,largo,0.51
+2369,leao butrón,0.51
+2370,legislatura,0.51
+2371,looo sabíaaamoooss,0.51
+2372,macarena gastaldo,0.51
+2373,machetazo,0.51
+2374,maduro ortega,0.51
+2375,maestra,0.51
+2376,mafia,0.51
+2377,mbappé lionel messi,0.51
+2378,miami,0.51
+2379,mieloma,0.51
+2380,miss perú teen solana costa,0.51
+2381,miss teen mundial,0.51
+2382,monique pardo,0.51
+2383,nicholas wenzel,0.51
+2384,obrero,0.51
+2385,panamericana,0.51
+2386,pantalla,0.51
+2387,patrimonio inmaterial de la nación,0.51
+2388,permanencia,0.51
+2389,perú película,0.51
+2390,perú21,0.51
+2391,promulga,0.51
+2392,propio,0.51
+2393,quimbara,0.51
+2394,reconciliación,0.51
+2395,rendimiento,0.51
+2396,repudio,0.51
+2397,richard arce,0.51
+2398,rodaje,0.51
+2399,seguimiento,0.51
+2400,sepa,0.51
+2401,ser,0.51
+2402,señora,0.51
+2403,sirena ortiz,0.51
+2404,space apps challenge,0.51
+2405,start-up,0.51
+2406,sudamericana misilera,0.51
+2407,techo,0.51
+2408,theranos,0.51
+2409,tradición,0.51
+2410,uno,0.51
+2411,viral ladrones reciben terrible golpiza,0.51
+2412,xi,0.51
+2413,2030,0.5
+2414,alexandra hörler,0.5
+2415,américa televisión,0.5
+2416,ander herrera,0.5
+2417,android usa el asistente,0.5
+2418,arco,0.5
+2419,astro,0.5
+2420,audífono,0.5
+2421,bloqueo de eeuu,0.5
+2422,brevete,0.5
+2423,camiseta,0.5
+2424,cangurera,0.5
+2425,cap,0.5
+2426,carnet,0.5
+2427,cenicero,0.5
+2428,complemento ya,0.5
+2429,conector,0.5
+2430,consulado,0.5
+2431,correa,0.5
+2432,covid-19 tercera,0.5
+2433,damián,0.5
+2434,dardo para barcos,0.5
+2435,depa,0.5
+2436,divisa,0.5
+2437,dl,0.5
+2438,el ministro de salud hernando cevallos,0.5
+2439,el toyo,0.5
+2440,empatamos,0.5
+2441,estadio miguel grau,0.5
+2442,estas,0.5
+2443,evaristo páramos,0.5
+2444,existencia,0.5
+2445,fiscalía anticorrupción de lambayeque,0.5
+2446,getty images,0.5
+2447,google,0.5
+2448,gökçe eyüboglu ceyda,0.5
+2449,historial,0.5
+2450,huaral,0.5
+2451,insólito el curioso sorteo,0.5
+2452,inter de milán,0.5
+2453,iv,0.5
+2454,josé carlos fernández,0.5
+2455,kadin,0.5
+2456,krylia,0.5
+2457,le,0.5
+2458,luis garcía miró elguera,0.5
+2459,martha meier mq,0.5
+2460,masa,0.5
+2461,media vuelta,0.5
+2462,mentira,0.5
+2463,moza,0.5
+2464,mtc,0.5
+2465,mujeres,0.5
+2466,mujer”,0.5
+2467,municipal,0.5
+2468,odontólogo,0.5
+2469,panorama,0.5
+2470,parejo,0.5
+2471,pasión,0.5
+2472,paul herrera guerra,0.5
+2473,pauta,0.5
+2474,payaso,0.5
+2475,ponte,0.5
+2476,preboda,0.5
+2477,predicciones,0.5
+2478,premier league de rusia,0.5
+2479,pro,0.5
+2480,procedimiento,0.5
+2481,puntaje,0.5
+2482,quiz,0.5
+2483,recluso,0.5
+2484,relaciones exteriores de panamá,0.5
+2485,reproductividad,0.5
+2486,rescate,0.5
+2487,rostov video,0.5
+2488,rumor,0.5
+2489,río de janeiro,0.5
+2490,sociedad de beneficencia,0.5
+2491,sporting cristal,0.5
+2492,suiza,0.5
+2493,terremoto,0.5
+2494,the,0.5
+2495,tiktoks,0.5
+2496,tokyo revengers,0.5
+2497,tribunal de fiscalización laboral,0.5
+2498,trinidad y tobago,0.5
+2499,tv perú,0.5
+2500,utc,0.5
+2501,valoración,0.5
+2502,vestimenta,0.5
+2503,vestuario,0.5
+2504,100 pm,0.49
+2505,abren,0.49
+2506,accesibilidad,0.49
+2507,activista,0.49
+2508,aguja,0.49
+2509,aldo corzo foto,0.49
+2510,algo,0.49
+2511,ambiental,0.49
+2512,andrea nahir,0.49
+2513,andrés salvatierra,0.49
+2514,atalanta vs salernitana,0.49
+2515,atropello,0.49
+2516,bancos,0.49
+2517,blanquiazul,0.49
+2518,botadero,0.49
+2519,celda,0.49
+2520,centro de ingeniería genética y biotecnología de,0.49
+2521,championship video,0.49
+2522,charly flow,0.49
+2523,comentarista,0.49
+2524,convocatoria,0.49
+2525,copa davis el encuentro,0.49
+2526,cumbre celac debemos,0.49
+2527,dolores huerta,0.49
+2528,duván zapata,0.49
+2529,edificación,0.49
+2530,el juez informó,0.49
+2531,elaboración,0.49
+2532,finanza,0.49
+2533,flor de huaraz,0.49
+2534,gobierno del señor,0.49
+2535,guerreros,0.49
+2536,hermanito,0.49
+2537,hinchas,0.49
+2538,hábito,0.49
+2539,inicia una nueva edición de,0.49
+2540,interacción,0.49
+2541,irreconocible,0.49
+2542,iv cumbre de la celac,0.49
+2543,jne,0.49
+2544,la jornada de fútbol,0.49
+2545,la muyuna,0.49
+2546,la pequeña,0.49
+2547,luton,0.49
+2548,mal,0.49
+2549,manejo,0.49
+2550,manuel díaz-canel,0.49
+2551,manín,0.49
+2552,mare cevallos,0.49
+2553,paula,0.49
+2554,peatón,0.49
+2555,pentágono,0.49
+2556,peter,0.49
+2557,plan sanitaria,0.49
+2558,provincia de víctor fajardo,0.49
+2559,qing,0.49
+2560,qualifiers,0.49
+2561,racha,0.49
+2562,registro,0.49
+2563,rejuvenecimiento,0.49
+2564,rodillo,0.49
+2565,río grande,0.49
+2566,saint-étienne,0.49
+2567,secuela,0.49
+2568,sensibilización,0.49
+2569,serie a video,0.49
+2570,sheyla,0.49
+2571,sintoniza,0.49
+2572,theranos holmes,0.49
+2573,toca,0.49
+2574,tratado integral y progresista de asociación transpacífico,0.49
+2575,tratamiento,0.49
+2576,universo,0.49
+2577,unión europea →,0.49
+2578,utilizas,0.49
+2579,video  miraflores,0.49
+2580,viral niño,0.49
+2581,amarilla,0.48
+2582,asuntos de américa latina,0.48
+2583,azafata,0.48
+2584,bob esponja,0.48
+2585,boris johnson,0.48
+2586,borussia dortmund,0.48
+2587,carlos boyero,0.48
+2588,clientela,0.48
+2589,comité olímpico peruano,0.48
+2590,comunicadora,0.48
+2591,consola,0.48
+2592,dan,0.48
+2593,declan rice,0.48
+2594,derby de manchester,0.48
+2595,desigualdad→,0.48
+2596,disturbio,0.48
+2597,el reventonazo,0.48
+2598,el último pasajero miss perú,0.48
+2599,estadio monumental grítalo 'felucho,0.48
+2600,facultad,0.48
+2601,fórmula,0.48
+2602,game of thrones,0.48
+2603,haaland,0.48
+2604,hernán barcos edgar benítez oslimg mora aldair rodríguez jefferson portales,0.48
+2605,higiene,0.48
+2606,independencia de chile,0.48
+2607,infarto,0.48
+2608,inspiration 4,0.48
+2609,invierno,0.48
+2610,istmo,0.48
+2611,josepmir ballón,0.48
+2612,koeman,0.48
+2613,la pulga,0.48
+2614,lewandowski,0.48
+2615,listas,0.48
+2616,llegó el primero,0.48
+2617,loreto,0.48
+2618,malestar,0.48
+2619,me,0.48
+2620,montaña,0.48
+2621,montón,0.48
+2622,nico álvarez,0.48
+2623,oncenas,0.48
+2624,"para""corregir",0.48
+2625,pinturita,0.48
+2626,por lo menos no se perdió,0.48
+2627,posesión,0.48
+2628,previa,0.48
+2629,puente internacional del río,0.48
+2630,pugna,0.48
+2631,renzo manyari,0.48
+2632,rusia video,0.48
+2633,récord,0.48
+2634,san josé de saramuro,0.48
+2635,saneamiento,0.48
+2636,saramurillo,0.48
+2637,segunda división de inglaterra video,0.48
+2638,sorteo,0.48
+2639,subsecretario,0.48
+2640,superheroína,0.48
+2641,trabajando,0.48
+2642,united,0.48
+2643,urgencia,0.48
+2644,villanas,0.48
+2645,violenta,0.48
+2646,yan ken po,0.48
+2647,ángel h romero díaz,0.48
+2648,última hora,0.48
+2649,119%,0.47
+2650,academia de artes y ciencias,0.47
+2651,acreedor,0.47
+2652,afecto,0.47
+2653,alfredo palacios dongo,0.47
+2654,alguna→,0.47
+2655,análisis,0.47
+2656,arquímedes figuera,0.47
+2657,art,0.47
+2658,ate,0.47
+2659,beneficiaría,0.47
+2660,billboard,0.47
+2661,bosque,0.47
+2662,botella,0.47
+2663,chan santokhi,0.47
+2664,chef,0.47
+2665,confinamiento,0.47
+2666,consejo de seguridad,0.47
+2667,cruce,0.47
+2668,decisiones,0.47
+2669,delincuencia,0.47
+2670,derby county,0.47
+2671,descanso,0.47
+2672,destrucción,0.47
+2673,ejecutiva,0.47
+2674,elecciones generales,0.47
+2675,empleo,0.47
+2676,energía,0.47
+2677,eutanasia,0.47
+2678,evidencia,0.47
+2679,fpf,0.47
+2680,gabinete ministerial guido bellido,0.47
+2681,ganarlo,0.47
+2682,gonzalo pajares,0.47
+2683,guerreros mx,0.47
+2684,hawái,0.47
+2685,hospitalidad,0.47
+2686,implicación,0.47
+2687,indo-pacífica,0.47
+2688,indolencia,0.47
+2689,infiltración,0.47
+2690,internet,0.47
+2691,japón,0.47
+2692,jne un,0.47
+2693,jordana brewster,0.47
+2694,lucanas,0.47
+2695,manglar,0.47
+2696,mason morfit,0.47
+2697,miguel gutiérrez r,0.47
+2698,méxico mayoría,0.47
+2699,no es populismo está demostrado porque ya existe la ley,0.47
+2700,pacífico sur,0.47
+2701,placer,0.47
+2702,por qué para los más vulnerables,0.47
+2703,promulgan ley,0.47
+2704,prostitución,0.47
+2705,proyección,0.47
+2706,pudieron,0.47
+2707,raúl noblecilla,0.47
+2708,revendedor,0.47
+2709,rio grande,0.47
+2710,rápidos,0.47
+2711,silencio,0.47
+2712,sixto sarmiento,0.47
+2713,surinam,0.47
+2714,susana villarán,0.47
+2715,torta,0.47
+2716,término,0.47
+2717,usura,0.47
+2718,valenzuela,0.47
+2719,video nuevas,0.47
+2720,wayne rooney,0.47
+2721,yosstop,0.47
+2722,álvaro barco,0.47
+2723,abasto,0.46
+2724,afluencia,0.46
+2725,apoyarán,0.46
+2726,asamblea,0.46
+2727,avión,0.46
+2728,burla,0.46
+2729,cancún,0.46
+2730,caracas el comandante,0.46
+2731,caravana,0.46
+2732,chabelita,0.46
+2733,chavismo,0.46
+2734,chiquito flores,0.46
+2735,científico,0.46
+2736,coahuila méxico,0.46
+2737,contratación,0.46
+2738,covid-19 perú,0.46
+2739,cuto así,0.46
+2740,directv sports partidos,0.46
+2741,dorita orbegoso,0.46
+2742,el poder del amor “no,0.46
+2743,electromagnetismo,0.46
+2744,embarque,0.46
+2745,escena,0.46
+2746,espn 3,0.46
+2747,espn partidos,0.46
+2748,estoy feliz,0.46
+2749,fc,0.46
+2750,gore tacna,0.46
+2751,gravedad,0.46
+2752,guty kluiverth aguilar,0.46
+2753,hijita,0.46
+2754,iber maraví,0.46
+2755,illinois,0.46
+2756,impedimento,0.46
+2757,incendio colony,0.46
+2758,infidelidad,0.46
+2759,jorge,0.46
+2760,kamina jonhson smith,0.46
+2761,la academia igualita a,0.46
+2762,laundrie,0.46
+2763,luis gonzáles posada,0.46
+2764,matanza,0.46
+2765,mercado del baratillo,0.46
+2766,ministerio de trabajo,0.46
+2767,ministro de relaciones exteriores de antigua y barruda chet greene,0.46
+2768,moquegua,0.46
+2769,motor,0.46
+2770,orgullos,0.46
+2771,pasar,0.46
+2772,petito,0.46
+2773,philipp bloom,0.46
+2774,pregunta,0.46
+2775,puertorriqueño,0.46
+2776,reo,0.46
+2777,república dominicana,0.46
+2778,rodney pío,0.46
+2779,salvo,0.46
+2780,senado de eeuu,0.46
+2781,sermón de las tres horas,0.46
+2782,sigamos,0.46
+2783,soltería,0.46
+2784,sudamericano hoy,0.46
+2785,sálvese,0.46
+2786,tamaño,0.46
+2787,también→,0.46
+2788,todos,0.46
+2789,turquía,0.46
+2790,título 42,0.46
+2791,wow,0.46
+2792,álvaro paz,0.46
+2793,élite,0.46
+2794,acrobática,0.45
+2795,ala,0.45
+2796,alcohólica,0.45
+2797,alejandro gaviria,0.45
+2798,aportación,0.45
+2799,appstore,0.45
+2800,aprieto,0.45
+2801,banco de venezuela sa,0.45
+2802,bebita,0.45
+2803,bip,0.45
+2804,campeonato,0.45
+2805,canguro,0.45
+2806,carlos a mannucci de,0.45
+2807,centímetro,0.45
+2808,clara orlando núñez,0.45
+2809,cobre,0.45
+2810,contingencia,0.45
+2811,copa de la liga profesional,0.45
+2812,creencia,0.45
+2813,cuarentena,0.45
+2814,curro jiménez,0.45
+2815,dardo,0.45
+2816,de ligt,0.45
+2817,denis ronaldo moncada,0.45
+2818,dinamita,0.45
+2819,disfruta,0.45
+2820,dominica,0.45
+2821,drogadicta,0.45
+2822,dt rosado ytalo manzo,0.45
+2823,el año 2002,0.45
+2824,el presidente venezolano,0.45
+2825,escrito,0.45
+2826,estado   lee,0.45
+2827,estupefaciente,0.45
+2828,explotador,0.45
+2829,familia demostrando,0.45
+2830,feligrés,0.45
+2831,fortunata y jacinta,0.45
+2832,fotógrafo de astronomía del año,0.45
+2833,geopolítica,0.45
+2834,gestante,0.45
+2835,gl de alianza,0.45
+2836,gol perú partidos,0.45
+2837,hugo garcía,0.45
+2838,ibiza,0.45
+2839,jesús,0.45
+2840,joseph petito,0.45
+2841,la necesidad de contar,0.45
+2842,lanza,0.45
+2843,las granandinas ralph gonsalves,0.45
+2844,le cag**** el cacharro mira,0.45
+2845,mafer neyra,0.45
+2846,manchester united,0.45
+2847,mansión,0.45
+2848,maricarmen marín,0.45
+2849,matthaus,0.45
+2850,melissa klug video,0.45
+2851,miguel ángel rodriguez mackay,0.45
+2852,nacionalismo,0.45
+2853,norma yarrow,0.45
+2854,observatorio real de greenwich,0.45
+2855,opinión biden,0.45
+2856,palo,0.45
+2857,parásito,0.45
+2858,perpetración,0.45
+2859,petro,0.45
+2860,pias lago titicaca i,0.45
+2861,pos,0.45
+2862,postura,0.45
+2863,puente internacional de del río,0.45
+2864,reinicio,0.45
+2865,relaciones exteriores y comercio exterior de,0.45
+2866,retadora,0.45
+2867,rojiblanco,0.45
+2868,roosevelt skerrit,0.45
+2869,salud hernando cevallos,0.45
+2870,san francisco tlaltenango puebla,0.45
+2871,san martín,0.45
+2872,san vicente,0.45
+2873,segunda división,0.45
+2874,sport huancayo,0.45
+2875,stock,0.45
+2876,tatuaje,0.45
+2877,tokio,0.45
+2878,uruguaya,0.45
+2879,vacunas→,0.45
+2880,valen,0.45
+2881,vicepresidencia sectorial de economía,0.45
+2882,videoclip,0.45
+2883,washington dc,0.45
+2884,west ham,0.45
+2885,zaga,0.45
+2886,ánimo,0.45
+2887,aahh pacífico de villa,0.44
+2888,actualidad,0.44
+2889,alicia bárcena cepal,0.44
+2890,andrés,0.44
+2891,apéndice,0.44
+2892,atlético,0.44
+2893,autogol,0.44
+2894,cabezazo,0.44
+2895,cambio lamentable,0.44
+2896,campeonato sudamericano de voleibol 2021 nuestras chicas,0.44
+2897,carlos cabello,0.44
+2898,celebrada,0.44
+2899,cholitas,0.44
+2900,ciudad acuña,0.44
+2901,consenso,0.44
+2902,contagiados 227713688 fallecidos 4680398,0.44
+2903,contraataque letal,0.44
+2904,cuba venezuela,0.44
+2905,cápita,0.44
+2906,debilidad,0.44
+2907,desesperación,0.44
+2908,dominicana,0.44
+2909,día internacional de la limpieza de las playas,0.44
+2910,día internacional de — actualidadspda,0.44
+2911,empeño,0.44
+2912,escaladora,0.44
+2913,estado de derecho,0.44
+2914,estados →,0.44
+2915,estoy seguro,0.44
+2916,extorsión,0.44
+2917,familias,0.44
+2918,fortalecimien,0.44
+2919,gabriel leyes,0.44
+2920,heredera,0.44
+2921,hombro,0.44
+2922,huracán,0.44
+2923,ig nobel,0.44
+2924,imán,0.44
+2925,indicador,0.44
+2926,inmigración,0.44
+2927,intestino,0.44
+2928,jornada 12 de la,0.44
+2929,josé ramírez,0.44
+2930,kerry emanuel,0.44
+2931,liga mx apertura,0.44
+2932,lisandro lópez,0.44
+2933,marylène patou-mathis,0.44
+2934,misa,0.44
+2935,montes,0.44
+2936,monumental el,0.44
+2937,multinacionalismo,0.44
+2938,muriel gardiner,0.44
+2939,nazismo,0.44
+2940,obesidad,0.44
+2941,oscar,0.44
+2942,pampa,0.44
+2943,pobre,0.44
+2944,pongo,0.44
+2945,porque,0.44
+2946,problemática,0.44
+2947,productividad,0.44
+2948,regla,0.44
+2949,republica de surinam,0.44
+2950,respuesta marlon de jesús,0.44
+2951,santa lucía philip j pierre,0.44
+2952,senado,0.44
+2953,tardanza,0.44
+2954,tudn a,0.44
+2955,vi cumbre de la comunidad de los estados latinoamericanos y caribeños,0.44
+2956,video liverpool,0.44
+2957,#,0.43
+2958,acrónimo,0.43
+2959,agreement,0.43
+2960,amery brown,0.43
+2961,américo cárdenas quispe,0.43
+2962,anti-covid,0.43
+2963,aproximación,0.43
+2964,araña,0.43
+2965,ascenso,0.43
+2966,audiencia,0.43
+2967,australia reino unido,0.43
+2968,blanquirroja el partido,0.43
+2969,bonificación,0.43
+2970,búsqueda,0.43
+2971,camila angelo,0.43
+2972,censo,0.43
+2973,chilenos,0.43
+2974,cita,0.43
+2975,claro tv 73,0.43
+2976,colossal,0.43
+2977,cond,0.43
+2978,conferencia este,0.43
+2979,consejo regional de huánuco,0.43
+2980,copa perú,0.43
+2981,cr7,0.43
+2982,demanda,0.43
+2983,departamento del tesoro,0.43
+2984,despacho,0.43
+2985,dhs,0.43
+2986,el cuento de la criada,0.43
+2987,especie,0.43
+2988,exitosa josé baella,0.43
+2989,expulsión donald millán,0.43
+2990,fifa a,0.43
+2991,finales,0.43
+2992,fmi,0.43
+2993,fokker,0.43
+2994,fredy gamarra,0.43
+2995,fútbol femenino,0.43
+2996,genética,0.43
+2997,georgina rodríguez,0.43
+2998,gesta,0.43
+2999,gilead,0.43
+3000,gobierno en la vi cumbre de,0.43
+3001,huánuco consejero cárdenas,0.43
+3002,inglés,0.43
+3003,josé antonio vadillo vila,0.43
+3004,junín,0.43
+3005,jurassic park,0.43
+3006,korina a,0.43
+3007,lamulaproducciones,0.43
+3008,lapsus,0.43
+3009,latino,0.43
+3010,liga betplay atlético nacional,0.43
+3011,luis lacalle,0.43
+3012,madre de dios,0.43
+3013,mamut,0.43
+3014,manuel jesús orbegozo,0.43
+3015,micro,0.43
+3016,multilateral→,0.43
+3017,mypes,0.43
+3018,nervio,0.43
+3019,noticias tarde edición sabatina,0.43
+3020,novia,0.43
+3021,noé huerta lauya,0.43
+3022,nuevo chimbote chimbote,0.43
+3023,nuevo chimbote persona,0.43
+3024,oposiciones→,0.43
+3025,pacto,0.43
+3026,pandemia→,0.43
+3027,particular,0.43
+3028,partido amistoso  alineación,0.43
+3029,patricio arce,0.43
+3030,persistencia,0.43
+3031,peru government,0.43
+3032,perú libre y fenate,0.43
+3033,por @ap,0.43
+3034,precisión,0.43
+3035,pretempore,0.43
+3036,pseudogremio,0.43
+3037,quito,0.43
+3038,reportera de canal n,0.43
+3039,reportero,0.43
+3040,represor,0.43
+3041,segura,0.43
+3042,star globalcom,0.43
+3043,supply,0.43
+3044,sutep,0.43
+3045,tambopata,0.43
+3046,televisión digital terrestre 92 en best cable,0.43
+3047,tomás aladino gálvez villegas,0.43
+3048,tranquilizarlas,0.43
+3049,ultrarreligioso,0.43
+3050,vamos chicas,0.43
+3051,órgano,0.43
+3052,2024,0.42
+3053,25-2025-1625-21,0.42
+3054,abstenerse,0.42
+3055,ac milan,0.42
+3056,actuación,0.42
+3057,adobe google,0.42
+3058,adversidad,0.42
+3059,agónico,0.42
+3060,aio 24,0.42
+3061,alentemos,0.42
+3062,amd ryzen 7,0.42
+3063,anderson santamaría,0.42
+3064,aquí los detalles,0.42
+3065,aspecto,0.42
+3066,asus zen,0.42
+3067,atlas,0.42
+3068,bailarín,0.42
+3069,banco guayaquil,0.42
+3070,belaúnde,0.42
+3071,boxeo,0.42
+3072,campeonato panamericano u19 vamos,0.42
+3073,campeonato sudamericano de voleibol 2021,0.42
+3074,carretera,0.42
+3075,caserío,0.42
+3076,catalina de erauso,0.42
+3077,cepal  principal,0.42
+3078,cerrando,0.42
+3079,cevallos gobierno,0.42
+3080,chanches,0.42
+3081,cineasta,0.42
+3082,congreso gobierno,0.42
+3083,contexto,0.42
+3084,convento,0.42
+3085,cronograma actualizado del,0.42
+3086,danza de los concheros,0.42
+3087,decencia,0.42
+3088,desconcierto,0.42
+3089,el país de españa,0.42
+3090,enlace,0.42
+3091,erik rivera,0.42
+3092,espn 2 partidos,0.42
+3093,esposo,0.42
+3094,estamos,0.42
+3095,estoy contento de volver,0.42
+3096,excampeón,0.42
+3097,exitosa lima,0.42
+3098,exitosa norte,0.42
+3099,exitosa sur,0.42
+3100,firmeza,0.42
+3101,formato,0.42
+3102,freno,0.42
+3103,glademir anaya,0.42
+3104,gobierno regional,0.42
+3105,golazo lucas,0.42
+3106,gusto,0.42
+3107,herencia,0.42
+3108,hernado cevallos,0.42
+3109,inoculación,0.42
+3110,internacional,0.42
+3111,interpretación,0.42
+3112,interventor,0.42
+3113,j villamarín,0.42
+3114,javier g cuesta,0.42
+3115,jeffry quintero,0.42
+3116,jonathan maicelo,0.42
+3117,jornada 4,0.42
+3118,jostin alarcón,0.42
+3119,l campana,0.42
+3120,legislador,0.42
+3121,los estados,0.42
+3122,luis luján cárdenas,0.42
+3123,luis ramírez,0.42
+3124,madre teresa de calcuta,0.42
+3125,magaly tv la firme,0.42
+3126,manuel rodríguez cuadros,0.42
+3127,manzo dt,0.42
+3128,mayo clinic proceedings,0.42
+3129,melbourne,0.42
+3130,memorex,0.42
+3131,mezcla,0.42
+3132,midis,0.42
+3133,milan,0.42
+3134,mml,0.42
+3135,multiplataforma,0.42
+3136,necaxa,0.42
+3137,nicoles charcopa,0.42
+3138,novicia,0.42
+3139,palomino,0.42
+3140,parlamento ruso,0.42
+3141,países,0.42
+3142,personajes del año,0.42
+3143,perú producción,0.42
+3144,piedra,0.42
+3145,planchazo,0.42
+3146,punta hermosa,0.42
+3147,real plaza primavera,0.42
+3148,religiosa,0.42
+3149,reseña,0.42
+3150,riqueza,0.42
+3151,robert oppenheimer,0.42
+3152,rodrigo yáñez benítez democracia,0.42
+3153,rosado,0.42
+3154,saldo,0.42
+3155,semifinal,0.42
+3156,senado de estados unidos,0.42
+3157,sociólogo,0.42
+3158,soldado,0.42
+3159,torneo apertura,0.42
+3160,vladímir putin,0.42
+3161,yanapay,0.42
+3162,ytalo,0.42
+3163,"""",0.41
+3164,45,0.41
+3165,activación,0.41
+3166,afiliado,0.41
+3167,agradezco,0.41
+3168,alianza universidad,0.41
+3169,alt,0.41
+3170,américa latina lo,0.41
+3171,ana bazo reisman,0.41
+3172,archivo,0.41
+3173,arcilla,0.41
+3174,ate el agustino,0.41
+3175,azúcar,0.41
+3176,bosnio,0.41
+3177,botellita,0.41
+3178,cacería,0.41
+3179,carbón,0.41
+3180,carlos a mannucci,0.41
+3181,carlos a mannucci  c neumann,0.41
+3182,carlos a mannucci 1 f rodríguez,0.41
+3183,celac  tensión,0.41
+3184,cercado de lima,0.41
+3185,cetáceo,0.41
+3186,cisterna,0.41
+3187,coloso de villa,0.41
+3188,comuna,0.41
+3189,comunicación y,0.41
+3190,contribuyente,0.41
+3191,covax,0.41
+3192,cumplido,0.41
+3193,discapacidad,0.41
+3194,diócesis san carlos de puno,0.41
+3195,día mundial del turismo,0.41
+3196,el exfutbolista brasileño,0.41
+3197,el país escaparate,0.41
+3198,el tenista peruano,0.41
+3199,estado aún no ha,0.41
+3200,estevia,0.41
+3201,estudiantes de la uni,0.41
+3202,evacuación,0.41
+3203,feria del libro  personas,0.41
+3204,fiorella contreras huamán,0.41
+3205,fortaleza del real felipe,0.41
+3206,fuerza→,0.41
+3207,ganancia,0.41
+3208,grifo,0.41
+3209,guamán poma de ayala,0.41
+3210,huevos,0.41
+3211,iglesia católica,0.41
+3212,impureza,0.41
+3213,inestabilidad,0.41
+3214,inicia el complemento,0.41
+3215,intervencionismo,0.41
+3216,irfaan ali,0.41
+3217,juan pablo biondi,0.41
+3218,la celac,0.41
+3219,la provincia de lima,0.41
+3220,la república,0.41
+3221,las naciones,0.41
+3222,las víctimas del terrorismo,0.41
+3223,libanés,0.41
+3224,liga 1- fase 2 jornada 11 alianza universidad 1,0.41
+3225,los daños van,0.41
+3226,lurigancho chosica,0.41
+3227,medalla,0.41
+3228,medias,0.41
+3229,molestia,0.41
+3230,montaje,0.41
+3231,monumental mira,0.41
+3232,museo de antropología de méxico,0.41
+3233,museo metropolitano de lima,0.41
+3234,norteamérica,0.41
+3235,ochenta,0.41
+3236,p,0.41
+3237,pakistán,0.41
+3238,panela,0.41
+3239,parque de las leyendas,0.41
+3240,percy castillo,0.41
+3241,policía federal,0.41
+3242,pollo,0.41
+3243,postal,0.41
+3244,precise medicine,0.41
+3245,presidencia de la nación,0.41
+3246,protocolo,0.41
+3247,raíz,0.41
+3248,reparación,0.41
+3249,ruta,0.41
+3250,salud javier ramírez escobar,0.41
+3251,san miguel,0.41
+3252,sao paulo,0.41
+3253,sat,0.41
+3254,selva,0.41
+3255,set,0.41
+3256,sjl “compra,0.41
+3257,sofía pichihua,0.41
+3258,sub-18,0.41
+3259,tapón del darién,0.41
+3260,trato,0.41
+3261,trimestre,0.41
+3262,vacuna→,0.41
+3263,ventaja,0.41
+3264,ventaja tricolor,0.41
+3265,vi cumbre de la comunidad de estados latinoamericanos y caribeños,0.41
+3266,wilber huacasi,0.41
+3267,wilson quispe,0.41
+3268,xxxi festival panamericano de la juventud,0.41
+3269,2003,0.4
+3270,2018,0.4
+3271,79,0.4
+3272,activ,0.4
+3273,actualización,0.4
+3274,aelucoop,0.4
+3275,alista,0.4
+3276,amatista,0.4
+3277,amendment,0.4
+3278,amigo,0.4
+3279,atención este sábado el 21° juzgado de investigación preparatoria,0.4
+3280,athletic club,0.4
+3281,banco guayaquil nicoles charcopa,0.4
+3282,base naval,0.4
+3283,belice,0.4
+3284,buena victoria,0.4
+3285,canchita,0.4
+3286,carlos desio  dt,0.4
+3287,cerrón,0.4
+3288,climáticos→,0.4
+3289,cláusula,0.4
+3290,como país,0.4
+3291,condonación,0.4
+3292,confidencialidad,0.4
+3293,contaminant,0.4
+3294,contigo,0.4
+3295,conversión,0.4
+3296,corte superior de justicia de lima,0.4
+3297,credencial,0.4
+3298,diego simeone,0.4
+3299,dircote josé baella,0.4
+3300,drama,0.4
+3301,duración,0.4
+3302,duro momento,0.4
+3303,día mundial de las playas  limpiar,0.4
+3304,dós,0.4
+3305,el horóscopo,0.4
+3306,el inexperto crew,0.4
+3307,el volante de la selección,0.4
+3308,embajada,0.4
+3309,english league one,0.4
+3310,eso,0.4
+3311,especialista,0.4
+3312,estación,0.4
+3313,explicación,0.4
+3314,feria del libro de madrid,0.4
+3315,fiscalización,0.4
+3316,gnv,0.4
+3317,gobierno peruano,0.4
+3318,goblin,0.4
+3319,gong yoo,0.4
+3320,hacemos,0.4
+3321,instagram hinchas,0.4
+3322,iván duque,0.4
+3323,juan antonio briceño,0.4
+3324,la defensa de los agresores van,0.4
+3325,la mejor manera de defender,0.4
+3326,leonardo,0.4
+3327,liderazgo,0.4
+3328,manuel lópez obrador,0.4
+3329,mar de la china,0.4
+3330,medicina,0.4
+3331,ministerio de justicia,0.4
+3332,ministerio público de villa maría del triunfo,0.4
+3333,mohammad barkind,0.4
+3334,normativa,0.4
+3335,oeschle,0.4
+3336,olga tañón,0.4
+3337,opep,0.4
+3338,pedro castillo terrones,0.4
+3339,pensión 65 juntos,0.4
+3340,peru,0.4
+3341,peruanx,0.4
+3342,plástico,0.4
+3343,portal,0.4
+3344,prensa presidencia,0.4
+3345,presidentes,0.4
+3346,preventiv,0.4
+3347,reacción,0.4
+3348,río seco,0.4
+3349,sbs,0.4
+3350,selección perú,0.4
+3351,squid game,0.4
+3352,surfistas guías,0.4
+3353,tarot,0.4
+3354,tilín,0.4
+3355,título,0.4
+3356,vi cumbre de,0.4
+3357,video  repartija,0.4
+3358,xl,0.4
+3359,ábol,0.4
+3360,énfasis,0.4
+3361,&,0.39
+3362,0nerman fatic,0.39
+3363,administración de medicamentos,0.39
+3364,adriano pozo,0.39
+3365,afirmación,0.39
+3366,agencia espacial peruana,0.39
+3367,alimentos,0.39
+3368,amp,0.39
+3369,aterrizaje,0.39
+3370,aún,0.39
+3371,ben affleck,0.39
+3372,billete,0.39
+3373,cada vez falta menos,0.39
+3374,capricho,0.39
+3375,caribeña,0.39
+3376,casi 100 conciertos en dos años,0.39
+3377,chequeo,0.39
+3378,circunscripción,0.39
+3379,climático→,0.39
+3380,coldplay,0.39
+3381,comunidad de estados latinoamericanos y caribeños,0.39
+3382,congreso peruano,0.39
+3383,contracción,0.39
+3384,contreras,0.39
+3385,copa davis  2nicolás álvarez,0.39
+3386,cuando,0.39
+3387,culpo,0.39
+3388,despedida,0.39
+3389,el crecimiento del pib para la región,0.39
+3390,el presidente,0.39
+3391,el regreso de genesis,0.39
+3392,encargado,0.39
+3393,equilibrio,0.39
+3394,finalidad,0.39
+3395,garantía,0.39
+3396,gobiernos nosotros,0.39
+3397,golpiza,0.39
+3398,herramienta,0.39
+3399,hincapié,0.39
+3400,india,0.39
+3401,insumo,0.39
+3402,jlo,0.39
+3403,killa,0.39
+3404,la incineración,0.39
+3405,la tercera temporada de ',0.39
+3406,larry nassar,0.39
+3407,latinoamericana,0.39
+3408,lluvia,0.39
+3409,lo tienen que juzgar como cualquiera,0.39
+3410,magaly tv,0.39
+3411,mandarapu subbarayudu,0.39
+3412,miocarditi,0.39
+3413,moto,0.39
+3414,my,0.39
+3415,mérito,0.39
+3416,narcoterrorismo,0.39
+3417,nesty,0.39
+3418,noticiero,0.39
+3419,otis maeve ola,0.39
+3420,pena,0.39
+3421,phil collins,0.39
+3422,pie,0.39
+3423,piura,0.39
+3424,plan marshall,0.39
+3425,potencia,0.39
+3426,presentación,0.39
+3427,presupuesto,0.39
+3428,procedencia,0.39
+3429,prote,0.39
+3430,puntos,0.39
+3431,racing,0.39
+3432,rebote,0.39
+3433,representación,0.39
+3434,reunión de la onu→,0.39
+3435,rosangella barbarán,0.39
+3436,sex education,0.39
+3437,sex education',0.39
+3438,sierra,0.39
+3439,the speeder,0.39
+3440,universe,0.39
+3441,va por buen,0.39
+3442,vitales  fase 2,0.39
+3443,vivo después,0.39
+3444,ya sabes no te pierdas,0.39
+3445,yahaira,0.39
+3446,youtube spotify,0.39
+3447,zodiaco,0.39
+3448,⏲ 1000,0.39
+3449,/difusión,0.38
+3450,1970,0.38
+3451,abimael guzmán reino,0.38
+3452,aclara,0.38
+3453,adiós,0.38
+3454,agrandes,0.38
+3455,alex murdaugh,0.38
+3456,arequi,0.38
+3457,arnaldo tipiani muñoz,0.38
+3458,arquero,0.38
+3459,atajada,0.38
+3460,atención este sábado,0.38
+3461,athletic club de bilbao,0.38
+3462,athletic club getafe athletic club rayo vallecano afp,0.38
+3463,athletic club joão félix,0.38
+3464,avanza,0.38
+3465,brigadier general,0.38
+3466,calificación,0.38
+3467,candelaria  medida,0.38
+3468,cantolao,0.38
+3469,casino royale,0.38
+3470,cbp,0.38
+3471,cerramos,0.38
+3472,christian domínguez pamela franco,0.38
+3473,ciclismo,0.38
+3474,club9,0.38
+3475,colegio químico farmacéutico,0.38
+3476,comandante general,0.38
+3477,comedia,0.38
+3478,comisión de ética parlamentaria,0.38
+3479,comunismo,0.38
+3480,consistencia,0.38
+3481,contabilidad,0.38
+3482,contó,0.38
+3483,crack felipe rodríguez,0.38
+3484,cumbiambero,0.38
+3485,daam foulon,0.38
+3486,decano,0.38
+3487,descargo,0.38
+3488,desgracia,0.38
+3489,educación juan cadillo,0.38
+3490,el ministerio de justicia y derechos humanos,0.38
+3491,el silencio epidemiológico se acentúa,0.38
+3492,emiliano ramos,0.38
+3493,empresariado,0.38
+3494,english league one rodrigo vilca,0.38
+3495,epidemia,0.38
+3496,ernesto luis contreras,0.38
+3497,estadio monumental el,0.38
+3498,exitosa,0.38
+3499,exministro idel vexler las,0.38
+3500,fase 2 césar vallejo,0.38
+3501,federación nacional de víctimas del terrorismo,0.38
+3502,fenavit,0.38
+3503,feria metropolitana del libro lima lee la municipalidad de lima,0.38
+3504,fiebre,0.38
+3505,firme,0.38
+3506,foto andina,0.38
+3507,fotogalería,0.38
+3508,franquicia,0.38
+3509,fricciones,0.38
+3510,huamán poma de ayala,0.38
+3511,indagación,0.38
+3512,instantánea,0.38
+3513,inyección,0.38
+3514,jeremi escate,0.38
+3515,jorge suárez,0.38
+3516,josé baella,0.38
+3517,la fiscalía superior anticorrupción de junín,0.38
+3518,la ley,0.38
+3519,laliga  fecha 5 atlético de madrid 0,0.38
+3520,league one,0.38
+3521,listos atlético de,0.38
+3522,los terribles de la impunidad,0.38
+3523,madridmomentáneamente,0.38
+3524,mandatario mario abdo benítez,0.38
+3525,manuel heredia,0.38
+3526,minería,0.38
+3527,minjus,0.38
+3528,museo nacional de antropología de méxico,0.38
+3529,nieta vicente fernández,0.38
+3530,no,0.38
+3531,noviem,0.38
+3532,obstante,0.38
+3533,opioides,0.38
+3534,oreja de perro,0.38
+3535,organi,0.38
+3536,parque zonal mayta capac,0.38
+3537,patricia chirinos,0.38
+3538,pero no es verdad,0.38
+3539,previo al encuentro el jefe de estado,0.38
+3540,protagonista,0.38
+3541,puntos covid,0.38
+3542,qué,0.38
+3543,rabona,0.38
+3544,raúl begazo ramírez,0.38
+3545,re,0.38
+3546,san martín de porres mira,0.38
+3547,sexta feria metropolit,0.38
+3548,sig,0.38
+3549,solo 16 distritos de la región,0.38
+3550,streaming,0.38
+3551,supervisión,0.38
+3552,tercerización,0.38
+3553,tremenda,0.38
+3554,trote,0.38
+3555,uruguayo,0.38
+3556,veruska lópez aragón,0.38
+3557,video el,0.38
+3558,videoteca,0.38
+3559,⏲ 300 pm,0.38
+3560,0damir,0.37
+3561,abandono,0.37
+3562,abdala,0.37
+3563,abimael guzmán  nos,0.37
+3564,academia de la televisión de estados unidos,0.37
+3565,agricultor,0.37
+3566,alex gensollen vera tudela,0.37
+3567,alianza para el progreso,0.37
+3568,amerizaje,0.37
+3569,andrew gibbs,0.37
+3570,andrés barbé gonzález,0.37
+3571,aprendo en casa,0.37
+3572,balacera,0.37
+3573,bcrp,0.37
+3574,bioseguridad,0.37
+3575,borges,0.37
+3576,brasileño,0.37
+3577,bruja escarlata,0.37
+3578,buque,0.37
+3579,bávaro,0.37
+3580,bávaros,0.37
+3581,café,0.37
+3582,candidatura,0.37
+3583,centro comerci,0.37
+3584,champions league,0.37
+3585,cnn,0.37
+3586,conclusión,0.37
+3587,conjuntos,0.37
+3588,coo,0.37
+3589,coyuntura,0.37
+3590,cuadra,0.37
+3591,desempleo,0.37
+3592,despliegue,0.37
+3593,desprecio,0.37
+3594,diablada,0.37
+3595,du,0.37
+3596,edson arantes do nascimento,0.37
+3597,eficacia,0.37
+3598,el anciano de 85 años,0.37
+3599,el cabecilla de sendero,0.37
+3600,el extremo alemán,0.37
+3601,el presidente de la república,0.37
+3602,el presidente del banco central de reserva del perú,0.37
+3603,el seguro social de salud,0.37
+3604,equipazo,0.37
+3605,erp,0.37
+3606,escala,0.37
+3607,esta,0.37
+3608,estado para,0.37
+3609,estudio arbizu &amp gamarra,0.37
+3610,exastro,0.37
+3611,exmarine,0.37
+3612,factoring,0.37
+3613,federación regional de folclore y cultura de puno,0.37
+3614,festivid,0.37
+3615,festividad virgen de la candelaria a,0.37
+3616,fifa,0.37
+3617,financiación,0.37
+3618,francotirador,0.37
+3619,fuerzas armadas,0.37
+3620,gabriel cid,0.37
+3621,gabriela jiménez,0.37
+3622,grano,0.37
+3623,grupo mundial,0.37
+3624,hernesto contreras letona,0.37
+3625,idel vexler,0.37
+3626,indecisión,0.37
+3627,jair bolsonaro,0.37
+3628,jefa,0.37
+3629,jonathan castro,0.37
+3630,leroy sané,0.37
+3631,liga argentina,0.37
+3632,literatura,0.37
+3633,lujo,0.37
+3634,macrobotellón,0.37
+3635,mandato,0.37
+3636,mas,0.37
+3637,masculinidad,0.37
+3638,materia,0.37
+3639,medios,0.37
+3640,merino de lama,0.37
+3641,mipym,0.37
+3642,miss perú eco,0.37
+3643,nicolas,0.37
+3644,npd,0.37
+3645,nueva constitución,0.37
+3646,obtención,0.37
+3647,ods,0.37
+3648,on,0.37
+3649,pablo varillas 6/6,0.37
+3650,paliza,0.37
+3651,penetración,0.37
+3652,perú22 vamos perú,0.37
+3653,pieza,0.37
+3654,pj,0.37
+3655,poder ejecutivo,0.37
+3656,previsión,0.37
+3657,protagonismo,0.37
+3658,príncipe del rap increíble,0.37
+3659,punta,0.37
+3660,quito nuestra,0.37
+3661,rebrote,0.37
+3662,reconocimiento mutuo,0.37
+3663,reglamento,0.37
+3664,restitución,0.37
+3665,rifa,0.37
+3666,rima,0.37
+3667,san martín de porres,0.37
+3668,secretario general,0.37
+3669,selección peruana de tenis,0.37
+3670,sequía,0.37
+3671,sudáfrica,0.37
+3672,suministro,0.37
+3673,superar,0.37
+3674,the crown the mandalorian,0.37
+3675,the fresh prince of bel-air,0.37
+3676,trans,0.37
+3677,transmi,0.37
+3678,ue,0.37
+3679,una ola de frío,0.37
+3680,valor,0.37
+3681,vecinos de san martín de porres,0.37
+3682,volveremos,0.37
+3683,zapatero,0.37
+3684,2001,0.36
+3685,acción popular,0.36
+3686,aeropuerto,0.36
+3687,alfabetización,0.36
+3688,alfombra,0.36
+3689,all,0.36
+3690,amante,0.36
+3691,amistoso internacional - fútbol femenino,0.36
+3692,amistoso perú,0.36
+3693,apetito,0.36
+3694,ari,0.36
+3695,atentado de ee uu,0.36
+3696,atlanta,0.36
+3697,autorizan transferencia financiera,0.36
+3698,avril lavigne,0.36
+3699,baqaei,0.36
+3700,busca interrumpir proceso de reforma universitaria,0.36
+3701,campeonato sudamericano de voleibol,0.36
+3702,captu,0.36
+3703,carretera panamericana norte,0.36
+3704,cas,0.36
+3705,cazador 2021,0.36
+3706,christian sánchez,0.36
+3707,conoce el testimonio de dos víctimas,0.36
+3708,consigna,0.36
+3709,countries,0.36
+3710,cristina fernández de kirchner,0.36
+3711,culminación,0.36
+3712,cumbre para la reconstrucción económica y productiva de potosí,0.36
+3713,dato,0.36
+3714,deliberación,0.36
+3715,demostración,0.36
+3716,derechoslaborales,0.36
+3717,descenso,0.36
+3718,desmedro,0.36
+3719,diestra,0.36
+3720,dignidad,0.36
+3721,diplomatic,0.36
+3722,discrimination,0.36
+3723,educación ricardo cuenca,0.36
+3724,el minsa,0.36
+3725,el pago del,0.36
+3726,el periodista,0.36
+3727,eliminatoria,0.36
+3728,eliminatorias de octubre,0.36
+3729,empleo iber maraví,0.36
+3730,enfermo,0.36
+3731,escolarización,0.36
+3732,escrutinio,0.36
+3733,esdras medina,0.36
+3734,esta es la historia,0.36
+3735,esterilización,0.36
+3736,exhorto,0.36
+3737,explotación,0.36
+3738,facto,0.36
+3739,felipe de edimburgo,0.36
+3740,flossing,0.36
+3741,fpf play,0.36
+3742,fu,0.36
+3743,función,0.36
+3744,gareth bale,0.36
+3745,ginebra esmaeil,0.36
+3746,global,0.36
+3747,gobiernos,0.36
+3748,gorila,0.36
+3749,grupo mundial i ante bosnia,0.36
+3750,hamaneh,0.36
+3751,homosexualidad,0.36
+3752,huaura lachay,0.36
+3753,imposición,0.36
+3754,instante,0.36
+3755,instituto nacional de defensa de la competencia,0.36
+3756,insurgencia,0.36
+3757,ipys,0.36
+3758,isabel ii,0.36
+3759,isquiotibial,0.36
+3760,jeanine áñez,0.36
+3761,jennifer lopez,0.36
+3762,john fogerty,0.36
+3763,jorge panta,0.36
+3764,julián palacín gutiérrez,0.36
+3765,km,0.36
+3766,la decisión de mantener el secreto,0.36
+3767,laura feal,0.36
+3768,lider,0.36
+3769,lima regiones madre de dios puno,0.36
+3770,look,0.36
+3771,los combatientes,0.36
+3772,lugar de la memoria,0.36
+3773,magnitud,0.36
+3774,marco matías,0.36
+3775,marine,0.36
+3776,maría elena carbajal,0.36
+3777,miltefosina,0.36
+3778,mirza basic,0.36
+3779,mortalidad,0.36
+3780,mtv,0.36
+3781,método,0.36
+3782,oms,0.36
+3783,ops,0.36
+3784,organización panamericana de la salud,0.36
+3785,otra vez,0.36
+3786,palacio,0.36
+3787,palacín,0.36
+3788,panamericano,0.36
+3789,pandemi,0.36
+3790,pariente,0.36
+3791,patrocinador,0.36
+3792,persecusión,0.36
+3793,peru to maintain,0.36
+3794,peste,0.36
+3795,pierna,0.36
+3796,propiedad,0.36
+3797,protección de la propiedad intelectual,0.36
+3798,protector  reseña,0.36
+3799,proyecto wagrinnova,0.36
+3800,pérdida,0.36
+3801,pésame,0.36
+3802,qu,0.36
+3803,real madrid  el galés,0.36
+3804,regadío,0.36
+3805,relations,0.36
+3806,requisitoria,0.36
+3807,requisitoriado,0.36
+3808,reseña el,0.36
+3809,sanción,0.36
+3810,sandalina valencia,0.36
+3811,santiago ormeño,0.36
+3812,sergio galdos,0.36
+3813,serpost,0.36
+3814,sippenhaft,0.36
+3815,sobe,0.36
+3816,sorpresas,0.36
+3817,sports,0.36
+3818,sudamericano perú,0.36
+3819,suspensión perfecta de labores,0.36
+3820,teherán,0.36
+3821,tenis al máximo,0.36
+3822,testamento,0.36
+3823,the beatles,0.36
+3824,toda esa labor de gestión de,0.36
+3825,traidor,0.36
+3826,trata,0.36
+3827,un 81% de las víctimas,0.36
+3828,vamos a tu encuentro,0.36
+3829,veintena,0.36
+3830,vice,0.36
+3831,vma's,0.36
+3832,whatsapp  facinerosos,0.36
+3833,without,0.36
+3834,áfrica occidental,0.36
+3835,éxtasis,0.36
+3836,0sergio galdos,0.35
+3837,1992,0.35
+3838,2015,0.35
+3839,@fisanchezn,0.35
+3840,a clases presenciales,0.35
+3841,abominación,0.35
+3842,agustino,0.35
+3843,allende,0.35
+3844,aquí→,0.35
+3845,autorización,0.35
+3846,banca,0.35
+3847,bancada de perú libre,0.35
+3848,barça,0.35
+3849,basura,0.35
+3850,bril,0.35
+3851,campeón,0.35
+3852,candidato,0.35
+3853,cartón,0.35
+3854,chuj qanjobal akateko,0.35
+3855,claras,0.35
+3856,cocina,0.35
+3857,cola,0.35
+3858,complicación,0.35
+3859,condena,0.35
+3860,congreso de eeuu,0.35
+3861,contundente,0.35
+3862,copa davis nicolás álvarez,0.35
+3863,cosas,0.35
+3864,cosecha,0.35
+3865,cotabambas,0.35
+3866,cristiana,0.35
+3867,cubano,0.35
+3868,cuestionamiento,0.35
+3869,decreto,0.35
+3870,destinan,0.35
+3871,dirección,0.35
+3872,dobles,0.35
+3873,domicilio,0.35
+3874,dominio,0.35
+3875,dragon,0.35
+3876,edificio,0.35
+3877,educativo,0.35
+3878,el amerizaje,0.35
+3879,el chaparral,0.35
+3880,el kremlin,0.35
+3881,el mandatario paraguayo,0.35
+3882,el partido comunista de rusia,0.35
+3883,erin otoole,0.35
+3884,escríbeno,0.35
+3885,estudiante,0.35
+3886,eva joly,0.35
+3887,feria,0.35
+3888,gobierno de nicolás maduro,0.35
+3889,gálvez,0.35
+3890,hondarribia,0.35
+3891,honra,0.35
+3892,humillación,0.35
+3893,injusticia,0.35
+3894,intención,0.35
+3895,intimidación,0.35
+3896,jnj,0.35
+3897,jorge panta 5/2 2mirza basic,0.35
+3898,jorge valdano,0.35
+3899,josé luis carranza,0.35
+3900,justin trudeau,0.35
+3901,la delegación peruana,0.35
+3902,la superpoblación de,0.35
+3903,las palabras de,0.35
+3904,ligue 1 psg,0.35
+3905,link,0.35
+3906,los cuellos blancos del puerto,0.35
+3907,luis jochamowitz,0.35
+3908,madera,0.35
+3909,mam,0.35
+3910,mayores,0.35
+3911,memphis,0.35
+3912,messi psg,0.35
+3913,minera,0.35
+3914,minoría,0.35
+3915,morador,0.35
+3916,multimillonario,0.35
+3917,municipalidad,0.35
+3918,nuevo chimbote,0.35
+3919,nuevo chimbote personal,0.35
+3920,nuevo laredo,0.35
+3921,océano atlántico,0.35
+3922,organizadores,0.35
+3923,paraíso,0.35
+3924,perpetuidad,0.35
+3925,pollería,0.35
+3926,posguerra,0.35
+3927,preparado para el retorno,0.35
+3928,preso,0.35
+3929,real plaza  registro,0.35
+3930,realismo,0.35
+3931,recursos,0.35
+3932,referente,0.35
+3933,reinstalan,0.35
+3934,retiro,0.35
+3935,reynosa matamoros,0.35
+3936,sorp,0.35
+3937,superioridad,0.35
+3938,suplente,0.35
+3939,tamaulipas,0.35
+3940,también,0.35
+3941,tijuana,0.35
+3942,toda,0.35
+3943,tomás gálvez  el pleno,0.35
+3944,tropiezo,0.35
+3945,tumba,0.35
+3946,urbe,0.35
+3947,v,0.35
+3948,vamos perú,0.35
+3949,venezuela cuba,0.35
+3950,visa,0.35
+3951,vínculo,0.35
+3952,*,0.34
+3953,2013,0.34
+3954,2017,0.34
+3955,71,0.34
+3956,admisión,0.34
+3957,adolescentes,0.34
+3958,alberto,0.34
+3959,alberto florez,0.34
+3960,alternancia,0.34
+3961,ambiente,0.34
+3962,america,0.34
+3963,ampolla,0.34
+3964,and,0.34
+3965,andrés iniesta,0.34
+3966,antesala,0.34
+3967,anulación,0.34
+3968,asignación,0.34
+3969,asistente,0.34
+3970,asunción,0.34
+3971,benítez,0.34
+3972,billetera,0.34
+3973,bitcóin,0.34
+3974,bolognesi frente de defensa de chiquián,0.34
+3975,borja,0.34
+3976,buenos días hoy,0.34
+3977,calls,0.34
+3978,canberra,0.34
+3979,caribbean,0.34
+3980,caviar,0.34
+3981,chiquián,0.34
+3982,chungui ayacucho,0.34
+3983,cliente,0.34
+3984,colección,0.34
+3985,colusión,0.34
+3986,concent,0.34
+3987,concisas,0.34
+3988,conferencia oeste,0.34
+3989,consejo consultivo de indecopi,0.34
+3990,consideración,0.34
+3991,constitución política,0.34
+3992,contra la legitimación de ganancias ilícitas,0.34
+3993,contraloría,0.34
+3994,crew dragon,0.34
+3995,crystal,0.34
+3996,cuerda,0.34
+3997,cultivo,0.34
+3998,daniel z 'la rikishi',0.34
+3999,datos,0.34
+4000,dayly depaz doroteo,0.34
+4001,debilit,0.34
+4002,debilitamiento,0.34
+4003,declaraciones se,0.34
+4004,denver colorado,0.34
+4005,discusión,0.34
+4006,eficiencia,0.34
+4007,elegancia,0.34
+4008,emiliano ramos álvarez,0.34
+4009,emmanuel macron,0.34
+4010,erika mouynes,0.34
+4011,espalda,0.34
+4012,estos 5 delitos,0.34
+4013,estómago,0.34
+4014,examen,0.34
+4015,extradición,0.34
+4016,feria de libro la,0.34
+4017,feria lima lee,0.34
+4018,frente de defensa de los intereses,0.34
+4019,fuerza popular app avanza país juntos,0.34
+4020,fujimori por venta de,0.34
+4021,galería,0.34
+4022,geraldine garcía,0.34
+4023,grado,0.34
+4024,hectárea,0.34
+4025,henry villar,0.34
+4026,huamanga,0.34
+4027,hurto,0.34
+4028,implementación,0.34
+4029,impulsé,0.34
+4030,insigne,0.34
+4031,interior,0.34
+4032,irrigación,0.34
+4033,josé reyes tolentino,0.34
+4034,julián palacín  efecto,0.34
+4035,l,0.34
+4036,la,0.34
+4037,la firma del contrato de defensa,0.34
+4038,la reunión cumbre de la región,0.34
+4039,la varicela,0.34
+4040,laliga fantasy,0.34
+4041,latin,0.34
+4042,llamada,0.34
+4043,logro,0.34
+4044,los goles,0.34
+4045,luis garcía robles,0.34
+4046,luis gonzáles,0.34
+4047,lunes 20,0.34
+4048,m sau,0.34
+4049,mueblez vintaje,0.34
+4050,municipalidad metropolitana de lima,0.34
+4051,mural,0.34
+4052,nathaly jiménez,0.34
+4053,niños,0.34
+4054,nostalgia,0.34
+4055,of,0.34
+4056,ofi,0.34
+4057,orga,0.34
+4058,paro,0.34
+4059,pasado,0.34
+4060,perjuicio,0.34
+4061,perseverancia,0.34
+4062,peru's president,0.34
+4063,perú perú libre renovación popular,0.34
+4064,podemos,0.34
+4065,premier liverpool,0.34
+4066,procuraduría,0.34
+4067,productor,0.34
+4068,promovilidad,0.34
+4069,práctica,0.34
+4070,real salt lake,0.34
+4071,reclamo,0.34
+4072,reflejo,0.34
+4073,regulación,0.34
+4074,remesa,0.34
+4075,renato tapia,0.34
+4076,resaltante,0.34
+4077,revisarán,0.34
+4078,roma,0.34
+4079,salvadoreño,0.34
+4080,seattle sounders,0.34
+4081,según la víctima,0.34
+4082,sena,0.34
+4083,señor,0.34
+4084,signos,0.34
+4085,somos perú,0.34
+4086,toda la confianza raúl ruidíaz,0.34
+4087,torre,0.34
+4088,transferencia,0.34
+4089,uif,0.34
+4090,unidad de investigaciones financieras,0.34
+4091,unity,0.34
+4092,venta,0.34
+4093,visitante,0.34
+4094,vraem,0.34
+4095,yogurt,0.34
+4096,yuri vargas medina,0.34
+4097,ángelo guevara,0.34
+4098,óscar huamán lima,0.34
+4099,67,0.33
+4100,a 'cuto',0.33
+4101,aahh hijos,0.33
+4102,abastecimiento,0.33
+4103,acr,0.33
+4104,alambrado,0.33
+4105,albedrío,0.33
+4106,alma,0.33
+4107,apertura,0.33
+4108,arribo,0.33
+4109,auto,0.33
+4110,bolsonaro,0.33
+4111,británico,0.33
+4112,bruno cueva v,0.33
+4113,bus unidos chama,0.33
+4114,cantó clarito,0.33
+4115,carlos kameno yorey,0.33
+4116,carro,0.33
+4117,celébralo,0.33
+4118,cemento,0.33
+4119,cerveza,0.33
+4120,chiapas,0.33
+4121,chiquito' flores,0.33
+4122,christian bravo entrevista conductor,0.33
+4123,clarys cárdenas,0.33
+4124,cloro,0.33
+4125,coalición por la educación,0.33
+4126,cocinero,0.33
+4127,conducción,0.33
+4128,constantinopla,0.33
+4129,continuación,0.33
+4130,controla,0.33
+4131,copa sudamericana,0.33
+4132,cope,0.33
+4133,corazón,0.33
+4134,cosentenciado,0.33
+4135,covid,0.33
+4136,cristianismo,0.33
+4137,crónica,0.33
+4138,cura,0.33
+4139,dari ontanojpua,0.33
+4140,destrez,0.33
+4141,diana patricia guzmán,0.33
+4142,disenso,0.33
+4143,distensión,0.33
+4144,dióxido,0.33
+4145,días felices,0.33
+4146,edición noche,0.33
+4147,edición sabatina,0.33
+4148,el,0.33
+4149,el fútbol el lado humano,0.33
+4150,el indecopi,0.33
+4151,electricidad,0.33
+4152,en nicaragua,0.33
+4153,espaldarazo,0.33
+4154,estadio león sigue,0.33
+4155,estado de méxico morelos,0.33
+4156,etiqueta,0.33
+4157,excepcion,0.33
+4158,exitosa 955,0.33
+4159,exitosatv,0.33
+4160,exjugador,0.33
+4161,extensión,0.33
+4162,fallecimiento,0.33
+4163,farmacias,0.33
+4164,fbi,0.33
+4165,ferretería,0.33
+4166,ficción,0.33
+4167,fm,0.33
+4168,fuimos,0.33
+4169,ganado,0.33
+4170,grecia,0.33
+4171,griego,0.33
+4172,guadalupe,0.33
+4173,guerrero,0.33
+4174,gustavo dulanto sergio ibarra,0.33
+4175,harakbut,0.33
+4176,hinchada,0.33
+4177,hombría,0.33
+4178,imperio otomano,0.33
+4179,impulsor,0.33
+4180,indígena,0.33
+4181,la cancillería,0.33
+4182,la fiscalía,0.33
+4183,lafedecuto,0.33
+4184,latininoamericana,0.33
+4185,ley de promoción de la alimentación saludable,0.33
+4186,liga mx  las 'águilas,0.33
+4187,liga mx león,0.33
+4188,locutor,0.33
+4189,los protocolos para el retorno a clases presenciales,0.33
+4190,lucas,0.33
+4191,michoacán puebla,0.33
+4192,miguel díaz-canel,0.33
+4193,militante,0.33
+4194,millones,0.33
+4195,ministerio de cultura,0.33
+4196,minutos,0.33
+4197,miriam ramírez,0.33
+4198,misilera,0.33
+4199,miyashiro,0.33
+4200,moldavia,0.33
+4201,monitorea,0.33
+4202,médicos por la verdad,0.33
+4203,norma martínez,0.33
+4204,normatividad,0.33
+4205,north port,0.33
+4206,noticias mediodía,0.33
+4207,oeste,0.33
+4208,oficial,0.33
+4209,ong,0.33
+4210,orador,0.33
+4211,parentesco,0.33
+4212,piero lázaro motta,0.33
+4213,plantón,0.33
+4214,prejuicio,0.33
+4215,programación,0.33
+4216,rafael rojas,0.33
+4217,rayos,0.33
+4218,reja,0.33
+4219,reparación civil,0.33
+4220,reserva carlton,0.33
+4221,rpp noticias,0.33
+4222,rubro,0.33
+4223,saint étienne,0.33
+4224,salubrista,0.33
+4225,salud pública gustavo martín rosell de almeida,0.33
+4226,santiago ormeño león,0.33
+4227,subdesarrollo,0.33
+4228,supermercado,0.33
+4229,taquile,0.33
+4230,tlaxcala oaxaca,0.33
+4231,tremendo,0.33
+4232,tu,0.33
+4233,tuvo,0.33
+4234,ugandesa,0.33
+4235,vasilios meichanetsidis,0.33
+4236,veracruz méxico,0.33
+4237,viceministro,0.33
+4238,visto,0.33
+4239,x,0.33
+4240,él,0.33
+4241,último,0.33
+4242,/oh,0.32
+4243,a ganar,0.32
+4244,aeropuerto de incheon,0.32
+4245,anunciant,0.32
+4246,aplicativo,0.32
+4247,asamblea general de la,0.32
+4248,austin fc,0.32
+4249,autoridad nacional del servicio civil,0.32
+4250,biografía,0.32
+4251,borracho,0.32
+4252,camaná,0.32
+4253,carabayllo chorrillos sjl,0.32
+4254,carpa,0.32
+4255,claudia maúrtua,0.32
+4256,claudia maúrtua cantautora,0.32
+4257,consumidor,0.32
+4258,contralor,0.32
+4259,distrito de,0.32
+4260,donnie yaipén,0.32
+4261,drón,0.32
+4262,edgar alarcón tejada,0.32
+4263,ei,0.32
+4264,el chorro,0.32
+4265,el grupo orgullo de corea del sur,0.32
+4266,el tribunal del servicio civil de la,0.32
+4267,elector,0.32
+4268,enel,0.32
+4269,exceso,0.32
+4270,filtro,0.32
+4271,flight,0.32
+4272,ge,0.32
+4273,gi,0.32
+4274,giro,0.32
+4275,granada,0.32
+4276,have a safe,0.32
+4277,hortaleza,0.32
+4278,idols,0.32
+4279,ingr,0.32
+4280,investigadora,0.32
+4281,iseg,0.32
+4282,josé granda,0.32
+4283,julio,0.32
+4284,la llama inmortal,0.32
+4285,la punta,0.32
+4286,la seguridad,0.32
+4287,lateral,0.32
+4288,leña,0.32
+4289,liderman,0.32
+4290,litoral,0.32
+4291,lucho,0.32
+4292,luis abram,0.32
+4293,manifestante,0.32
+4294,marta castro,0.32
+4295,miras,0.32
+4296,nacho cano,0.32
+4297,ni voz ni voto,0.32
+4298,ocio,0.32
+4299,parque zonal huiracocha,0.32
+4300,paul auster,0.32
+4301,pirámide,0.32
+4302,precios,0.32
+4303,refugiado,0.32
+4304,republicano,0.32
+4305,rock,0.32
+4306,san jose earthquakes,0.32
+4307,seguimos,0.32
+4308,según,0.32
+4309,sello,0.32
+4310,sjl el cuartel barbones,0.32
+4311,solista,0.32
+4312,stephen crane,0.32
+4313,tarifa,0.32
+4314,taxi,0.32
+4315,tuberculosis,0.32
+4316,venezolano,0.32
+4317,vocalista,0.32
+4318,voz ni,0.32
+4319,almacenamiento,0.31
+4320,ani,0.31
+4321,arte,0.31
+4322,azángaro,0.31
+4323,banderola,0.31
+4324,barcelona raheem,0.31
+4325,barrio de chueca,0.31
+4326,bellavista,0.31
+4327,berna,0.31
+4328,bombón asesino',0.31
+4329,calor,0.31
+4330,camberra,0.31
+4331,cartel,0.31
+4332,ceniza,0.31
+4333,cerro,0.31
+4334,cielo,0.31
+4335,cirujano,0.31
+4336,cohecho,0.31
+4337,colaborador,0.31
+4338,colonia,0.31
+4339,compatriota,0.31
+4340,crueldad,0.31
+4341,culto,0.31
+4342,el silencio de los acuerdos,0.31
+4343,envoltura,0.31
+4344,estatua,0.31
+4345,estigma,0.31
+4346,exequipo,0.31
+4347,fortaleza,0.31
+4348,gamonal,0.31
+4349,general sherman,0.31
+4350,getafe,0.31
+4351,griezmann,0.31
+4352,grito,0.31
+4353,habeas corpus,0.31
+4354,hueco,0.31
+4355,ichus,0.31
+4356,ideología,0.31
+4357,influencia,0.31
+4358,inhabilitación,0.31
+4359,intérprete,0.31
+4360,invasor,0.31
+4361,juan ccama,0.31
+4362,juventud nacional,0.31
+4363,liderazgo del gobierno regional,0.31
+4364,liga mx nuestro,0.31
+4365,luchador,0.31
+4366,madrileño,0.31
+4367,manta,0.31
+4368,megalomanía,0.31
+4369,mexico,0.31
+4370,mirada,0.31
+4371,monumento,0.31
+4372,ninel,0.31
+4373,octava del niño jesús,0.31
+4374,opecu,0.31
+4375,organismo peruano de consumidores,0.31
+4376,pablo,0.31
+4377,pedro vilcapaza,0.31
+4378,personalidad,0.31
+4379,por primera,0.31
+4380,productores,0.31
+4381,provincias altas del cusco,0.31
+4382,raheem sterling,0.31
+4383,ramos álvarez,0.31
+4384,res,0.31
+4385,sierra nevada,0.31
+4386,soborno,0.31
+4387,suiza un,0.31
+4388,tan,0.31
+4389,tapadito,0.31
+4390,tarde,0.31
+4391,ti,0.31
+4392,tributo,0.31
+4393,trucha,0.31
+4394,usa,0.31
+4395,veruska lópez,0.31
+4396,viejito,0.31
+4397,volumen,0.31
+4398,ángel unchupaico,0.31
+4399,⁠,0.31
+4400,al interior de su vivienda,0.3
+4401,alejandro sánchez,0.3
+4402,alumna,0.3
+4403,amazonas,0.3
+4404,android,0.3
+4405,annalena baerbock,0.3
+4406,apariencia,0.3
+4407,aplique,0.3
+4408,armin laschet,0.3
+4409,auner vásquez,0.3
+4410,bancarrota,0.3
+4411,bolonia,0.3
+4412,borde,0.3
+4413,bosnia herzegovina,0.3
+4414,chota,0.3
+4415,común,0.3
+4416,convoca radio,0.3
+4417,crímenes impunes,0.3
+4418,cuartel,0.3
+4419,cómplice,0.3
+4420,defensoría,0.3
+4421,deficiencia,0.3
+4422,demasía,0.3
+4423,demonización,0.3
+4424,desconocimiento,0.3
+4425,desea,0.3
+4426,distorsión,0.3
+4427,doblete,0.3
+4428,dolores delirio,0.3
+4429,díaz canel,0.3
+4430,edin dzeko,0.3
+4431,el conservador,0.3
+4432,el hombre,0.3
+4433,el salvador línea,0.3
+4434,elmer cáceres llica,0.3
+4435,elmer mamani,0.3
+4436,en directo,0.3
+4437,encuesta,0.3
+4438,enemigo,0.3
+4439,entretenimiento,0.3
+4440,entusia,0.3
+4441,entusiasmo,0.3
+4442,envasadora,0.3
+4443,escuelas,0.3
+4444,evergrande,0.3
+4445,ferrocarril,0.3
+4446,fragmento,0.3
+4447,glp,0.3
+4448,himno,0.3
+4449,incumplimiento,0.3
+4450,inter,0.3
+4451,invasión,0.3
+4452,jardín del colca,0.3
+4453,jóvenes soldados,0.3
+4454,la entrada sigue,0.3
+4455,lautaro martínez,0.3
+4456,lawn tennis ahora,0.3
+4457,manzana,0.3
+4458,matías vecino,0.3
+4459,melissa alfaro jaime ayala,0.3
+4460,milan skriniar,0.3
+4461,milán,0.3
+4462,mártir,0.3
+4463,música,0.3
+4464,músico,0.3
+4465,nicolo barella,0.3
+4466,olaf scholz,0.3
+4467,osinergmin,0.3
+4468,pack,0.3
+4469,patria y vida,0.3
+4470,pausa,0.3
+4471,perfil,0.3
+4472,periodistas,0.3
+4473,primaria,0.3
+4474,protestas,0.3
+4475,reci,0.3
+4476,recta,0.3
+4477,sd/,0.3
+4478,secundaria,0.3
+4479,sexo,0.3
+4480,sigamos alentando,0.3
+4481,spd,0.3
+4482,subsanación,0.3
+4483,sudamericano femenino,0.3
+4484,tacabamba,0.3
+4485,tiktoker,0.3
+4486,tv global perú,0.3
+4487,uchuraccay,0.3
+4488,vacunacars,0.3
+4489,varón,0.3
+4490,verdes,0.3
+4491,virulencia,0.3
+4492,ícono,0.3
+4493,acantilado,0.29
+4494,asia,0.29
+4495,atlético nacional de medellín,0.29
+4496,barranquilla,0.29
+4497,depreciación,0.29
+4498,el comercio,0.29
+4499,el foco,0.29
+4500,escuadra,0.29
+4501,furia,0.29
+4502,geo,0.29
+4503,inmediato,0.29
+4504,lima​,0.29
+4505,línea- el,0.29
+4506,malla,0.29
+4507,movimiento,0.29
+4508,parlamentario,0.29
+4509,partido de junior,0.29
+4510,pedazo,0.29
+4511,pekín,0.29
+4512,personal de la municipalidad,0.29
+4513,po,0.29
+4514,puerto,0.29
+4515,transcurso,0.29
+4516,veintiún,0.29
+4517,ajuste,0.28
+4518,anemia,0.28
+4519,aniego,0.28
+4520,answer,0.28
+4521,easy,0.28
+4522,el país,0.28
+4523,estrago,0.28
+4524,faces,0.28
+4525,leucemia,0.28
+4526,llamado,0.28
+4527,mexico city,0.28
+4528,now,0.28
+4529,olla comunes de lima,0.28
+4530,opinion,0.28
+4531,piece,0.28
+4532,question,0.28
+4533,that,0.28
+4534,this,0.28
+4535,who deserves to be consecrated in the form of a statue and who should be removed once their reputation fades,0.28
+4536,writes,0.28
+4537,acta,0.26
+4538,clásico,0.26
+4539,forja,0.26
+4540,fortunata,0.26
+4541,jacinta,0.26
+4542,la colmena,0.26
+4543,los santos inocentes,0.26
