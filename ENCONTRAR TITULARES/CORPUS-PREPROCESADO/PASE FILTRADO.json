@@ -1,0 +1,23 @@
+[
+    {
+        "account": "pasefiltradope",
+        "tweet": "¡GOOOOL de Marcos López! 🇵🇪 ⚽️     https://t.co/SeYFipGWk3",
+        "tweet_p": [
+            "marcos lópez"
+        ],
+        "retweets": 42,
+        "likes": 354,
+        "url": "https://t.co/SeYFipGWk3"
+    },
+    {
+        "account": "pasefiltradope",
+        "tweet": "¡¡GOLAZO de Edison Flores!!🚀 🇵🇪     https://t.co/wsW1HzquWo",
+        "tweet_p": [
+            "golazo",
+            "edison flores"
+        ],
+        "retweets": 47,
+        "likes": 354,
+        "url": "https://t.co/wsW1HzquWo"
+    }
+]
