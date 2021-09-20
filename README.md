@@ -41,4 +41,4 @@
 * **Mileydy Ninantay Diaz** - [mile1107](https://github.com/mile1107)
 * **Luis Augusto Araujo Lechuga** - [Cucho145U](https://github.com/Cucho145U)
 ---
-⌨️ con ❤️ por [alexojo](https://github.com/alexojo) y [Claudiars20](https://github.com/Claudiars20) 😊
+
