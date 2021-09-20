@@ -9,7 +9,7 @@
 
 - 📁 `ENCONTRAR TITULARES`: Contiene módulos para **'encontrar titulares'** a partir de tweets.
 - 📁 `ANALISIS SEMANTICO`: Contiene módulos para el análisis semántico de tweets.
-- 📎  `GET_URLs.py`: Archivo .py que encuentra imágenes relacionadas a los titulares usando scraping.
+- 📁 `EXTRACCION IMAGENES`: Contiene móduloque encuentra imágenes relacionadas a los titulares usando scraping.
 
 
 ## Construcción del Periodico 
