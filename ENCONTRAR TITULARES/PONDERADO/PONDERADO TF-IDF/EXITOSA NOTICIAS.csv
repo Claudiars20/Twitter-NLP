@@ -1,0 +1,603 @@
+,Word,Ponderado
+0,señal,9.09
+1,fm,5.28
+2,vivo,4.82
+3,ministro de trabajo iber maraví,4.28
+4,ministro,4.15
+5,mira,4.12
+6,verónika mendoza,3.74
+7,excandidata,3.28
+8,caso,3.24
+9,exitosa,3.22
+10,congreso,3.09
+11,congresista,3.07
+12,gobierno,3.03
+13,trabajo,2.81
+14,nuevo perú,2.75
+15,persona,2.69
+16,perú,2.46
+17,año,2.41
+18,día,2.36
+19,iber maraví,2.19
+20,rafael vela,2.13
+21,proceso,2.07
+22,alejandro toledo,2.04
+23,vacunación,1.96
+24,titular,1.93
+25,guido bellido,1.88
+26,lideresa,1.84
+27,presidente,1.84
+28,familia,1.82
+29,extradición,1.8
+30,setiembre,1.8
+31,gas de camisea,1.75
+32,ministro iber maraví,1.73
+33,terrorismo,1.72
+34,favor,1.65
+35,empleo,1.61
+36,promoción,1.61
+37,organización,1.6
+38,contra,1.57
+39,eduardo salhuana,1.55
+40,constitución,1.54
+41,buenos,1.52
+42,sendero luminoso,1.52
+43,expresidente,1.51
+44,miércoles,1.51
+45,viceministro,1.51
+46,declaración,1.48
+47,información,1.47
+48,interpelación,1.47
+49,guillermo bermejo,1.46
+50,acto,1.41
+51,dosis,1.39
+52,mira en vivo,1.39
+53,asamblea constituyente,1.38
+54,servicio,1.37
+55,conare,1.36
+56,estabilidad,1.36
+57,línea,1.35
+58,mtpe,1.33
+59,tv,1.29
+60,pedido,1.22
+61,democracia,1.2
+62,el perú,1.2
+63,premier,1.18
+64,vinculación,1.18
+65,delito,1.17
+66,pedro castillo,1.16
+67,reunión,1.14
+68,señor,1.14
+69,atestado,1.11
+70,estudiante,1.11
+71,nombre,1.11
+72,atención,1.1
+73,desaparición,1.1
+74,jorge montoya,1.1
+75,paradero,1.1
+76,1982,1.09
+77,vínculo,1.09
+78,toledo,1.08
+79,diálogo,1.07
+80,país,1.07
+81,portada,1.07
+82,antecedente,1.03
+83,prensa,1.03
+84,millón,1.01
+85,alianza para el progreso,1.0
+86,app,1.0
+87,christian hudtwalcker,1.0
+88,jack miranda,1.0
+89,jesús verde,1.0
+90,ley,1.0
+91,nicolás lúcar,1.0
+92,vacuna,1.0
+93,vocero,1.0
+94,censura,0.98
+95,campaña,0.97
+96,decisión,0.97
+97,semana,0.97
+98,exitosa el ministro de trabajo iber maraví,0.94
+99,prisión,0.94
+100,firma,0.92
+101,justicia,0.92
+102,recurso,0.91
+103,hora,0.9
+104,ministerio de la mujer,0.9
+105,magisterio,0.89
+106,bicentenario de la independencia,0.88
+107,búsqueda,0.88
+108,katherine ampuero,0.88
+109,salud gustavo rosell,0.88
+110,bancada,0.86
+111,cambio,0.86
+112,donación,0.86
+113,olla,0.86
+114,sector,0.86
+115,"verónika mendoza ""nosotros",0.86
+116,aviso,0.85
+117,departamento de estado,0.85
+118,habeas corpus,0.84
+119,ciudadano,0.83
+120,estación,0.83
+121,miedo,0.83
+122,naranjal del metropolitano,0.83
+123,referéndum,0.83
+124,tonelada,0.83
+125,canciller,0.82
+126,colegio de enfermeros del perú,0.82
+127,edda cayotopa,0.82
+128,vicedecana,0.82
+129,acusación,0.81
+130,iber,0.81
+131,maraví,0.81
+132,poder,0.81
+133,anuncio,0.8
+134,movadef,0.79
+135,peruano,0.79
+136,trabajador,0.78
+137,congreso de la república,0.77
+138,integrante,0.77
+139,marco,0.77
+140,maestro,0.76
+141,migrant,0.76
+142,ministra,0.76
+143,radio exitosa 955 fm  exitosa,0.76
+144,bellido,0.75
+145,denuncia,0.75
+146,estados unidos,0.75
+147,mosca,0.75
+148,oposición,0.75
+149,secretario,0.75
+150,siquiera,0.75
+151,violencia,0.75
+152,acuerdo,0.74
+153,chelsea,0.74
+154,bolivia,0.73
+155,dirigente,0.73
+156,acción,0.72
+157,cosa,0.72
+158,defensa,0.72
+159,hildebrando pérez huarancca,0.72
+160,parte,0.72
+161,policía,0.72
+162,protocolo,0.72
+163,remoción,0.72
+164,autoridad,0.71
+165,diario,0.71
+166,fantasma,0.71
+167,fiscal,0.71
+168,katyusca torres,0.71
+169,miguel moreno,0.71
+170,patricia alquinta,0.71
+171,pedro paredes,0.71
+172,tema,0.71
+173,labor,0.7
+174,vez,0.7
+175,asistencia,0.69
+176,consorcio camisea,0.69
+177,estado,0.69
+178,naturaleza,0.69
+179,norma yarrow,0.69
+180,corrupción,0.68
+181,junín,0.67
+182,pandemia,0.67
+183,situación,0.67
+184,carlos anderson,0.66
+185,castillo,0.66
+186,conferencia,0.66
+187,habeas,0.66
+188,intento,0.66
+189,pm,0.66
+190,pp,0.66
+191,realidad,0.66
+192,citación,0.65
+193,corpus,0.65
+194,nacionalización,0.65
+195,susel paredes,0.65
+196,exprocuradora,0.64
+197,fin,0.64
+198,juez,0.64
+199,martes,0.64
+200,falta,0.63
+201,pleno,0.63
+202,cargo,0.62
+203,congresista de avanza país patricia chirinos,0.62
+204,prueba,0.62
+205,amigo,0.61
+206,covid-19,0.61
+207,giovanna díaz,0.61
+208,manuel rosas,0.61
+209,maúrtua,0.61
+210,renuncia,0.61
+211,hogar,0.6
+212,madre,0.6
+213,perú libre,0.59
+214,presidencia del consejo de ministros,0.59
+215,deuda,0.58
+216,evergrande,0.58
+217,exclusiva,0.58
+218,reestructuración,0.58
+219,alimento,0.56
+220,documentación,0.56
+221,gracias,0.56
+222,iniciativa,0.56
+223,partido,0.56
+224,comisión,0.55
+225,firmeza,0.55
+226,he,0.55
+227,detención,0.54
+228,distrito,0.54
+229,tobillera,0.54
+230,candidatura,0.53
+231,manny pacquiao,0.53
+232,senador,0.53
+233,cabecilla,0.51
+234,destino,0.51
+235,día mundial del turismo,0.51
+236,osmán morote,0.51
+237,ser,0.51
+238,sutep lucio castro,0.5
+239,exitosa que vienen trabajando,0.49
+240,ministerio de economía,0.49
+241,ministerio de economía y finanzas,0.49
+242,por eso la nueva constitución,0.49
+243,vía,0.49
+244,evidencia,0.48
+245,general,0.48
+246,inmediato,0.48
+247,personalmente,0.48
+248,población,0.48
+249,ruta,0.48
+250,busca,0.47
+251,comunicación,0.47
+252,conservación,0.47
+253,dólares,0.47
+254,embajada,0.47
+255,exsindicalista,0.47
+256,medio,0.47
+257,pliego,0.47
+258,riqueza,0.47
+259,beneficio,0.46
+260,carné,0.46
+261,comité ejecutivo nacional del sutep,0.46
+262,fundador,0.46
+263,junta,0.46
+264,ministro de salud,0.46
+265,sensibilidad,0.46
+266,sol,0.46
+267,territorio,0.46
+268,apoyo,0.45
+269,champions league,0.45
+270,coordinador,0.45
+271,equipo,0.45
+272,exitosaperú,0.45
+273,fecha,0.45
+274,federico chiesa juventus,0.45
+275,gol,0.45
+276,lava jato rafael vela,0.45
+277,partidario,0.45
+278,pfizer,0.45
+279,pro,0.45
+280,salud pública gustavo rosell,0.45
+281,sendero luminoso arturo morote,0.45
+282,tanto,0.45
+283,voz,0.45
+284,1980,0.44
+285,1981,0.44
+286,bloque,0.44
+287,economista,0.44
+288,economía popular,0.44
+289,familiar,0.44
+290,guido pennano,0.44
+291,planillones,0.44
+292,poder judicial el ministerio público,0.44
+293,sinopharm,0.44
+294,audiencia,0.43
+295,camino,0.43
+296,detalle,0.43
+297,difamación,0.43
+298,no te lo pierdas,0.43
+299,parlamentaria,0.43
+300,región cusco,0.43
+301,respuesta,0.43
+302,trabajo iber maraví,0.43
+303,tu,0.43
+304,video verónika mendoza,0.43
+305,2011,0.42
+306,2016,0.42
+307,aporte,0.42
+308,boluarte,0.42
+309,documento,0.42
+310,economía,0.42
+311,fuerza popular,0.42
+312,interoceánica,0.42
+313,investigación,0.42
+314,mandato,0.42
+315,miembro,0.42
+316,ministerio del interior,0.42
+317,no,0.42
+318,responsable,0.42
+319,resultado,0.42
+320,salud pública del minsa,0.42
+321,sanción,0.42
+322,señor toledo,0.42
+323,tardar,0.42
+324,cantidad,0.41
+325,casa,0.41
+326,colombia,0.41
+327,conexión,0.41
+328,exitosa lima,0.41
+329,exitosa mendoza,0.41
+330,exitosa norte,0.41
+331,exitosa que no es justo,0.41
+332,exitosa sur,0.41
+333,hasta donde yo sé,0.41
+334,radio exitosa,0.41
+335,suegra,0.41
+336,cámara,0.4
+337,decir,0.4
+338,encuentro,0.4
+339,especulación,0.4
+340,evento,0.4
+341,expresión,0.4
+342,expropiación,0.4
+343,incremento,0.4
+344,libertad,0.4
+345,mtc,0.4
+346,nadie,0.4
+347,profesor,0.4
+348,robo,0.4
+349,seguridad,0.4
+350,tv perú,0.4
+351,vecinos de la victoria,0.4
+352,vidal contreras,0.4
+353,acta,0.39
+354,cero,0.39
+355,cifra,0.39
+356,conciencia,0.39
+357,constitución sin,0.39
+358,derecha,0.39
+359,deseo,0.39
+360,deslinde,0.39
+361,embargo,0.39
+362,etapa,0.39
+363,formato,0.39
+364,gobernante,0.39
+365,golpista,0.39
+366,internacional,0.39
+367,jeanine áñez,0.39
+368,lima,0.39
+369,líder,0.39
+370,muerte,0.39
+371,mundo,0.39
+372,reactivación,0.39
+373,rechazo,0.39
+374,respecto,0.39
+375,responsabilidad,0.39
+376,solo,0.39
+377,sujeción,0.39
+378,vergüenza,0.39
+379,video,0.39
+380,vladimiro montesinos,0.39
+381,ámbito,0.39
+382,aparición,0.38
+383,conocer,0.38
+384,consejo,0.38
+385,el ministro de trabajo,0.38
+386,eliminación,0.38
+387,suspensión,0.38
+388,tortura,0.38
+389,víveres,0.38
+390,consejo de ministro,0.37
+391,edad,0.37
+392,exitosa verónika mendoza,0.37
+393,fondo,0.37
+394,hija,0.37
+395,instancia,0.37
+396,jorge coayla,0.37
+397,odio,0.37
+398,parlamento,0.37
+399,podemos perú,0.37
+400,posibilidad,0.37
+401,presidencia,0.37
+402,procuradora,0.37
+403,silvana carrión,0.37
+404,"verónika mendoza ""sendero",0.37
+405,aforo,0.36
+406,atu,0.36
+407,bcr,0.36
+408,candidato,0.36
+409,cerrón rojas,0.36
+410,contrato,0.36
+411,de toledo,0.36
+412,ejecutivo,0.36
+413,expulsión,0.36
+414,facción,0.36
+415,facultad,0.36
+416,keiko fujimori,0.36
+417,lado,0.36
+418,lee,0.36
+419,maniobra,0.36
+420,medida,0.36
+421,mercado,0.36
+422,mes,0.36
+423,ministerio de defensa,0.36
+424,moneda,0.36
+425,necesidad,0.36
+426,nota,0.36
+427,octubre,0.36
+428,patria,0.36
+429,propuesta,0.36
+430,proyecto,0.36
+431,rafael vela  indica,0.36
+432,restricción,0.36
+433,rico,0.36
+434,s/400,0.36
+435,s/4140,0.36
+436,sentencia,0.36
+437,señora,0.36
+438,thomas hixson,0.36
+439,todos desde el señor julio guzmán,0.36
+440,transferencia,0.36
+441,usd,0.36
+442,usuario,0.36
+443,vargas llosa,0.36
+444,vecino,0.36
+445,venta,0.36
+446,volatilidad,0.36
+447,zona,0.36
+448,aprobación,0.35
+449,asamblea,0.35
+450,canción,0.35
+451,carácter,0.35
+452,comisión de relaciones exteriores del congreso,0.35
+453,duelo de gigantes,0.35
+454,estilo,0.35
+455,goleador,0.35
+456,gustavo rosell,0.35
+457,habea,0.35
+458,huelga,0.35
+459,idoneidad,0.35
+460,inocencia,0.35
+461,intención,0.35
+462,juventus,0.35
+463,lineamiento,0.35
+464,margen,0.35
+465,maría mercedes mamani humpiri,0.35
+466,no tengo,0.35
+467,partidazo,0.35
+468,personal,0.35
+469,posición,0.35
+470,presunción,0.35
+471,puno de,0.35
+472,refuerzo,0.35
+473,romelu lukaku no,0.35
+474,salud,0.35
+475,turín,0.35
+476,vocación,0.35
+477,época,0.35
+478,alexandra enríquez,0.34
+479,ayacucho,0.34
+480,camisea,0.34
+481,captura,0.34
+482,cerco,0.34
+483,chiclayo lambayeque,0.34
+484,colegio,0.34
+485,cuota,0.34
+486,césar munayco,0.34
+487,edith lagos,0.34
+488,embarcación,0.34
+489,entrega,0.34
+490,epidemiólogo,0.34
+491,generación,0.34
+492,guayas,0.34
+493,guido bellido ugarte,0.34
+494,herido,0.34
+495,hixon,0.34
+496,huancayo,0.34
+497,importancia,0.34
+498,inmunización,0.34
+499,los exteriores de la cárcel,0.34
+500,mariscal cáceres,0.34
+501,mensaje,0.34
+502,militar,0.34
+503,ministerio de la producción,0.34
+504,monsefú,0.34
+505,motín,0.34
+506,parlamentario,0.34
+507,partir,0.34
+508,pcm,0.34
+509,permiso,0.34
+510,pesca,0.34
+511,pese,0.34
+512,preso,0.34
+513,silvana robles,0.34
+514,terrorista,0.34
+515,virgen de la misericordia,0.34
+516,yo era estudiante en,0.34
+517,1230,0.33
+518,am,0.33
+519,apra,0.33
+520,argucia,0.33
+521,asistente,0.33
+522,callao,0.33
+523,comunicado,0.33
+524,consejo directivo del,0.33
+525,consiguiente,0.33
+526,descarte,0.33
+527,dirección regional de salud,0.33
+528,diresa,0.33
+529,dni,0.33
+530,elecciones,0.33
+531,enfermedad,0.33
+532,excedent,0.33
+533,fallecimiento,0.33
+534,forma,0.33
+535,gas,0.33
+536,inscripción,0.33
+537,institución,0.33
+538,jne,0.33
+539,jurado,0.33
+540,masificación,0.33
+541,ministerio de salud,0.33
+542,nacional,0.33
+543,organismo,0.33
+544,plan,0.33
+545,pregunta,0.33
+546,registro de organizaciones políticas,0.33
+547,reserva,0.33
+548,rop,0.33
+549,sustento,0.33
+550,tipo,0.33
+551,través,0.33
+552,antojo,0.32
+553,avena,0.32
+554,centro,0.32
+555,corona,0.32
+556,dinámicos,0.32
+557,díaz,0.32
+558,ensalada,0.32
+559,fonavista,0.32
+560,francke,0.32
+561,fruta,0.32
+562,helado,0.32
+563,jauja,0.32
+564,la exprocuradora,0.32
+565,lampa,0.32
+566,luis luzuriaga,0.32
+567,manuel maraví,0.32
+568,maría mamani humpiri,0.32
+569,mickey,0.32
+570,plata,0.32
+571,princesa,0.32
+572,puno,0.32
+573,radio,0.32
+574,requerimiento,0.32
+575,servidor,0.32
+576,sincos,0.32
+577,vladimir cerrón,0.32
+578,zazu,0.32
+579,adhanom,0.31
+580,director,0.31
+581,evolución,0.31
+582,luis almagro,0.31
+583,oea,0.31
+584,oms,0.31
+585,sesión,0.31
+586,tedros,0.31
+587,bancada de perú libre,0.3
+588,explicación,0.3
+589,maduro,0.3
+590,venezuela,0.3
+591,exteriores,0.29
+592,nicolás maduro,0.29
+593,relación,0.29
+594,óscar maúrtua,0.29
+595,municipio,0.27
+596,nil luna,0.27
+597,número980025540,0.27
+598,pan,0.27
+599,regidor,0.27
+600,sjl,0.27
+601,vino,0.27

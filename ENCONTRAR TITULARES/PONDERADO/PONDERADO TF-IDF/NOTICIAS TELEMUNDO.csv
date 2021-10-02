@@ -1,0 +1,237 @@
+,Word,Ponderado
+0,año,1.53
+1,niño,1.46
+2,joven,1.42
+3,albergue,1.39
+4,autoridad,1.38
+5,vacuna,1.37
+6,migrant,1.35
+7,los ángeles,1.33
+8,estados unidos,1.24
+9,información,1.04
+10,mediodía,1.0
+11,cárcel,0.99
+12,motín,0.99
+13,muerto,0.99
+14,español,0.97
+15,llegada,0.93
+16,florida,0.9
+17,herido,0.9
+18,video,0.9
+19,economía,0.89
+20,desalojo,0.88
+21,madre,0.88
+22,residente,0.88
+23,vida,0.87
+24,tutela,0.82
+25,edificio,0.81
+26,américa latina,0.8
+27,grupo,0.8
+28,lava,0.8
+29,volcán,0.8
+30,baile,0.79
+31,tiktok,0.79
+32,premio,0.74
+33,texas,0.73
+34,país,0.72
+35,permiso,0.72
+36,galardón,0.71
+37,jornada,0.71
+38,policía,0.71
+39,premios emmy,0.71
+40,titular,0.71
+41,pfizer,0.7
+42,acuña,0.68
+43,méxico,0.68
+44,lugar,0.67
+45,vacunación,0.66
+46,casa,0.63
+47,detalle,0.63
+48,estudiante,0.6
+49,fútbol,0.6
+50,hora,0.6
+51,contacto,0.59
+52,dato,0.59
+53,mar,0.59
+54,noticia,0.59
+55,covid-19,0.58
+56,empleado,0.58
+57,united airlines,0.58
+58,nuevo león,0.57
+59,ecuador,0.54
+60,enero,0.54
+61,gas,0.54
+62,hispano,0.54
+63,honduras,0.54
+64,moratoria,0.54
+65,aporte,0.53
+66,comunidad,0.53
+67,carpintero,0.52
+68,especie,0.52
+69,pájaro,0.52
+70,acoso,0.5
+71,cocaína,0.5
+72,cuidado,0.5
+73,cuomo,0.5
+74,dodgers,0.5
+75,fiscal,0.5
+76,narrador,0.5
+77,responsabilidad,0.5
+78,retiro,0.5
+79,ángeles,0.5
+80,fin,0.48
+81,miércoles,0.48
+82,chicago,0.47
+83,el salvador,0.47
+84,latina,0.47
+85,vendedora,0.47
+86,voz,0.47
+87,aborto,0.46
+88,apicultores,0.46
+89,boston,0.46
+90,caso,0.46
+91,colimes,0.46
+92,colmena,0.46
+93,eeuu,0.46
+94,evento,0.46
+95,favor,0.46
+96,floración,0.46
+97,guayacanes,0.46
+98,l'attitude,0.46
+99,latino,0.46
+100,legalización,0.46
+101,mes,0.46
+102,mujer,0.46
+103,techo,0.46
+104,visitante,0.46
+105,ciudad acuña méxico,0.45
+106,haitiano,0.45
+107,trabajo,0.45
+108,apartamento,0.44
+109,colapso,0.44
+110,escrutinio,0.44
+111,estudio,0.44
+112,fda,0.44
+113,britney spears,0.43
+114,china,0.43
+115,ciudad,0.43
+116,expulsión,0.43
+117,hija,0.43
+118,infraestructura,0.43
+119,iniciativa,0.43
+120,jueza,0.43
+121,ola,0.43
+122,padre,0.43
+123,proyecto,0.43
+124,suspensión,0.43
+125,abogada,0.41
+126,acta,0.41
+127,camino,0.41
+128,ciudad de méxico,0.41
+129,ciudadanía,0.41
+130,decisión,0.41
+131,enfrentamiento,0.41
+132,error,0.41
+133,escepticismo,0.41
+134,estrella,0.41
+135,lebron james,0.41
+136,manifestante,0.41
+137,marcha,0.41
+138,millón,0.41
+139,nacimiento,0.41
+140,nba,0.41
+141,pese,0.41
+142,pie,0.41
+143,plan,0.41
+144,proaborto,0.41
+145,qué puedo,0.41
+146,revés,0.41
+147,ropa,0.41
+148,senado,0.41
+149,visa,0.41
+150,zapato,0.41
+151,abuela,0.4
+152,entrevista,0.4
+153,familia,0.4
+154,fe,0.4
+155,movimiento,0.4
+156,sensación,0.4
+157,violeta delville,0.4
+158,yanira berrios,0.4
+159,bar,0.39
+160,comprobante,0.39
+161,enn orlando florida,0.39
+162,familiar,0.39
+163,frente,0.39
+164,medida,0.39
+165,miya marcano,0.39
+166,negocio,0.39
+167,vigilia,0.39
+168,votarán,0.39
+169,bulo,0.38
+170,ciencia,0.38
+171,compañía,0.38
+172,inmunización,0.38
+173,youtube,0.38
+174,escena,0.37
+175,gemela,0.37
+176,hermano,0.37
+177,madrugada,0.37
+178,víctima,0.37
+179,agua,0.36
+180,colada,0.36
+181,cumbre vieja de la palma,0.36
+182,nube,0.36
+183,ambiente,0.34
+184,beneficiado,0.34
+185,california,0.34
+186,frontera,0.34
+187,fábrica,0.34
+188,horror,0.34
+189,inmigrante,0.34
+190,ley,0.34
+191,machete,0.34
+192,mayoría,0.34
+193,parte,0.34
+194,preocupación,0.34
+195,refugio,0.34
+196,reportaje,0.34
+197,tarde,0.34
+198,testimonio,0.34
+199,textil,0.34
+200,trabajador,0.34
+201,trámite,0.34
+202,cobertura,0.33
+203,compromiso,0.33
+204,edición,0.33
+205,emmy,0.33
+206,esperanza,0.33
+207,la familia de miya marcano,0.33
+208,la represión de trump,0.33
+209,noticiero,0.33
+210,noviembre,0.33
+211,prueba,0.33
+212,verdad,0.33
+213,armando caballero,0.3
+214,atlántico,0.3
+215,auto,0.3
+216,cinta,0.3
+217,cobija,0.3
+218,conocer,0.3
+219,desaparición,0.3
+220,interés,0.3
+221,isla,0.3
+222,la palma,0.3
+223,mano,0.3
+224,persona,0.3
+225,puerta,0.3
+226,rosa,0.3
+227,toalla,0.3
+228,ventana,0.3
+229,ap,0.29
+230,cumbre vieja,0.29
+231,imágenes,0.29
+232,magma,0.29
+233,momento,0.29
+234,océano atlántico,0.29
+235,reuters,0.29

@@ -1,0 +1,286 @@
+,Word,Ponderado
+0,cuenta,1.3
+1,mensaje,1.14
+2,persona,1.08
+3,vacuna,1.05
+4,información,1.04
+5,querella,1.03
+6,año,1.02
+7,grupo,1.02
+8,perú,1.01
+9,investigación,0.96
+10,comunidad,0.94
+11,congresista,0.9
+12,caso,0.85
+13,versión,0.84
+14,muerte,0.83
+15,audiencia,0.82
+16,organización,0.81
+17,acto,0.78
+18,lima,0.78
+19,dirigente,0.77
+20,negocio,0.77
+21,patólogo,0.77
+22,video,0.77
+23,historia,0.75
+24,semana,0.74
+25,alejandro aguinaga,0.64
+26,niño,0.62
+27,reporte,0.62
+28,aplicación,0.61
+29,día,0.61
+30,personal,0.61
+31,protocolo,0.61
+32,difamación,0.6
+33,palma,0.6
+34,empresa,0.59
+35,dosis,0.58
+36,escándalo,0.58
+37,estrategia,0.58
+38,imagen,0.58
+39,roberto escobar moreno,0.58
+40,mercado,0.56
+41,representante,0.56
+42,consorcio,0.55
+43,medio,0.55
+44,avance,0.54
+45,estudio,0.54
+46,las bambas,0.54
+47,lucha,0.54
+48,mal,0.54
+49,minera,0.54
+50,octubre,0.54
+51,reunión,0.54
+52,servicio,0.52
+53,boletín,0.48
+54,suscríbete,0.48
+55,conclusión,0.47
+56,publicación,0.47
+57,realidad,0.47
+58,minuto,0.46
+59,reportaje,0.46
+60,síguenos,0.46
+61,verdad,0.46
+62,equipo,0.45
+63,experto,0.45
+64,hallazgo,0.45
+65,registro alemán de autopsias,0.45
+66,sociedad alemana de patología,0.45
+67,alberto fujimori,0.4
+68,cabecera,0.4
+69,esterilización,0.4
+70,médico,0.4
+71,análisis,0.39
+72,conferencia,0.39
+73,prensa,0.39
+74,chile,0.38
+75,convención constituyente,0.38
+76,elisa loncon,0.38
+77,indígena,0.38
+78,mujer,0.38
+79,presidenta,0.38
+80,turno,0.38
+81,canal,0.36
+82,captura,0.36
+83,contumaz,0.36
+84,encontrará,0.36
+85,fin,0.36
+86,juzgado penal unipersonal de canchis,0.36
+87,música,0.36
+88,opinión,0.36
+89,reo,0.36
+90,videocolumna,0.36
+91,visítanos,0.36
+92,⏯,0.36
+93,+51,0.35
+94,977113917,0.35
+95,apoyo,0.35
+96,certificación,0.35
+97,desinformación,0.35
+98,envíanos,0.35
+99,extranjero,0.35
+100,guía,0.35
+101,ilustración,0.35
+102,inicio,0.35
+103,niña,0.35
+104,portal,0.35
+105,proceso,0.35
+106,red,0.35
+107,registro,0.35
+108,respecto,0.35
+109,sol,0.35
+110,abono,0.34
+111,acusación,0.34
+112,adulto,0.34
+113,amazonas,0.34
+114,amenaza,0.34
+115,artículo,0.34
+116,awajún,0.34
+117,cargo,0.34
+118,cierre,0.34
+119,cifra,0.34
+120,cocinero,0.34
+121,comorbilidad,0.34
+122,comparación,0.34
+123,concesionario,0.34
+124,contagio,0.34
+125,docente,0.34
+126,duda,0.34
+127,edad,0.34
+128,empresario,0.34
+129,enero,0.34
+130,enfermo,0.34
+131,exautoridad,0.34
+132,fiscalía,0.34
+133,gobierno regional de loreto,0.34
+134,género,0.34
+135,identidad,0.34
+136,inmunización,0.34
+137,institución,0.34
+138,iquitos,0.34
+139,isai samekash,0.34
+140,línea,0.34
+141,mayo,0.34
+142,medida,0.34
+143,mes,0.34
+144,momento,0.34
+145,monto,0.34
+146,país,0.34
+147,población,0.34
+148,prohibición,0.34
+149,pronunciamiento,0.34
+150,prueba,0.34
+151,refuerzo,0.34
+152,rosell,0.34
+153,s/30800,0.34
+154,salud pública gustavo rosell,0.34
+155,sector,0.34
+156,servidor,0.34
+157,sueldo,0.34
+158,tardar,0.34
+159,trabajo,0.34
+160,transmasculinidad,0.34
+161,vacunación,0.34
+162,viceministro,0.34
+163,violencia,0.34
+164,vuelta,0.34
+165,abogado,0.33
+166,bloqueo,0.33
+167,chacra,0.33
+168,citación,0.33
+169,comunicado,0.33
+170,corredor,0.33
+171,detección,0.33
+172,educación,0.33
+173,efer silvano,0.33
+174,embargo,0.33
+175,epidemiólogo,0.33
+176,gabriel carrasco,0.33
+177,jefe,0.33
+178,juzgado de canchis sin,0.33
+179,la empresa,0.33
+180,líder,0.33
+181,marca,0.33
+182,narrativa,0.33
+183,ocho sur,0.33
+184,parlamentaria,0.33
+185,perú libre,0.33
+186,planta,0.33
+187,proyecto amplify,0.33
+188,publicidad,0.33
+189,respuesta,0.33
+190,reto,0.33
+191,retorno,0.33
+192,santa clara de uchunya,0.33
+193,seguimiento,0.33
+194,sistema,0.33
+195,suter,0.33
+196,tarde,0.33
+197,tipo,0.33
+198,ugel canchis,0.33
+199,venganza,0.33
+200,vía,0.33
+201,zuckerberg,0.33
+202,abastecedor,0.32
+203,cambridge analytica,0.32
+204,complejo,0.32
+205,conflicto,0.32
+206,dato,0.32
+207,denuncia,0.32
+208,difusión,0.32
+209,el perú,0.32
+210,exportación,0.32
+211,filtración,0.32
+212,fruto,0.32
+213,fundador,0.32
+214,grupo ocho sur,0.32
+215,inclusión,0.32
+216,incremento,0.32
+217,la compañía,0.32
+218,mark zuckerberg,0.32
+219,origen,0.32
+220,proveedor,0.32
+221,sol de palma,0.32
+222,territorio,0.32
+223,zona,0.32
+224,arbitraje,0.31
+225,cambio,0.31
+226,ciudadano,0.31
+227,comisión de fiscalización,0.31
+228,contra,0.31
+229,contrato,0.31
+230,controversia,0.31
+231,delito,0.31
+232,eps,0.31
+233,esposa,0.31
+234,facultad,0.31
+235,fuerza popular,0.31
+236,gestión,0.31
+237,inasistencia,0.31
+238,la ley,0.31
+239,norma,0.31
+240,opción,0.31
+241,pandemia,0.31
+242,resolución,0.31
+243,secreto,0.31
+244,setiembre,0.31
+245,sinopharm,0.31
+246,solución,0.31
+247,ugarte,0.31
+248,2020,0.3
+249,carlos zárate villalobos,0.3
+250,centro,0.3
+251,conciliación,0.3
+252,consorcio santa rosa,0.3
+253,cuestionamiento,0.3
+254,devolución,0.3
+255,gregoria villalobos cerrón,0.3
+256,libre,0.3
+257,madre,0.3
+258,pago,0.3
+259,pedido,0.3
+260,policía,0.3
+261,prestación,0.3
+262,reclamo,0.3
+263,salud,0.3
+264,secretario,0.3
+265,seguridad,0.3
+266,vladimir cerrón,0.3
+267,ahuac,0.29
+268,camino,0.29
+269,contraloría,0.29
+270,distrito,0.29
+271,foto,0.29
+272,kilómetro,0.29
+273,mantenimiento,0.29
+274,municipalidad provincial de chupaca,0.29
+275,ninanya,0.29
+276,s/683760,0.29
+277,santa rosa,0.29
+278,bien,0.28
+279,premier,0.28
+280,presencia,0.28
+281,presidente,0.28
+282,propuesta,0.28
+283,proveedora,0.28
+284,voluntad,0.28

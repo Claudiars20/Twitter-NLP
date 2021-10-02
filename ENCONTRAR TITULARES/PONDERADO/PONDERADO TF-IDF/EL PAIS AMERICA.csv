@@ -1,0 +1,378 @@
+,Word,Ponderado
+0,arturo rodríguez,2.0
+1,mujer,1.35
+2,minuto,1.22
+3,país,1.22
+4,año,1.17
+5,llegada,1.17
+6,lava,1.15
+7,efecto,1.07
+8,barcelona,0.97
+9,lopetegui,0.94
+10,mar,0.91
+11,volcán,0.89
+12,méxico,0.88
+13,fotógrafo,0.82
+14,la palma,0.82
+15,libro,0.82
+16,día,0.79
+17,autoridad,0.77
+18,gol,0.77
+19,ue,0.76
+20,millón,0.73
+21,koeman,0.72
+22,madrid,0.72
+23,benfica,0.71
+24,empate,0.7
+25,penalti,0.7
+26,aborto,0.68
+27,derecho,0.68
+28,estrella,0.68
+29,afganistán,0.66
+30,salud,0.66
+31,condición,0.65
+32,tecnología,0.65
+33,vs,0.64
+34,wolfsburgo,0.64
+35,cabecera,0.63
+36,carrera,0.63
+37,clave,0.63
+38,ee uu,0.63
+39,fotografía,0.63
+40,historia,0.63
+41,memoria,0.63
+42,olvido,0.63
+43,organización,0.63
+44,parte,0.63
+45,través,0.63
+46,actor,0.61
+47,litoral,0.61
+48,forma,0.6
+49,trabajo,0.6
+50,presidente,0.59
+51,américa,0.58
+52,catolicismo,0.58
+53,comunidad de madrid,0.58
+54,conflicto,0.58
+55,enfermedad,0.58
+56,presidenta,0.58
+57,médicos sin fronteras,0.57
+58,frente,0.54
+59,britney spears,0.53
+60,padre,0.53
+61,tutela,0.53
+62,encuesta de condiciones de vida en venezuela,0.47
+63,población,0.47
+64,pobreza,0.47
+65,retrato,0.47
+66,alivio,0.46
+67,exembajador,0.46
+68,kabul,0.46
+69,tristeza,0.46
+70,actualidad,0.45
+71,análisis,0.45
+72,centenar,0.45
+73,ciudad,0.45
+74,color,0.45
+75,comunidad,0.45
+76,consultorio,0.45
+77,definición,0.45
+78,detalle,0.45
+79,día de acción global,0.45
+80,educación,0.45
+81,información,0.45
+82,manifestación,0.45
+83,municipio,0.45
+84,nosotras,0.45
+85,región,0.45
+86,seguro,0.45
+87,tazacorte,0.45
+88,vecino,0.45
+89,átomo,0.45
+90,contenido,0.44
+91,vacuna,0.44
+92,youtube,0.44
+93,concesión,0.43
+94,cristiano ronaldo,0.43
+95,daño,0.43
+96,drones,0.43
+97,geoposicionamiento,0.43
+98,google earth,0.43
+99,inopia,0.43
+100,manchester united,0.43
+101,partido,0.43
+102,reloj,0.43
+103,área,0.43
+104,alianza,0.42
+105,china,0.42
+106,competencia,0.42
+107,conjunto,0.42
+108,cooperación,0.42
+109,rakitic,0.42
+110,2020,0.41
+111,comicio,0.41
+112,consejo nacional electoral de venezuela,0.41
+113,corte inglés,0.41
+114,euros,0.41
+115,garantía,0.41
+116,invitación,0.41
+117,migrant,0.41
+118,noviembre,0.41
+119,observador,0.41
+120,pandemia,0.41
+121,puerto príncipe,0.41
+122,viajes,0.41
+123,disco,0.39
+124,el músico declarado culpable de crimen,0.39
+125,marvin gaye,0.39
+126,r kelly,0.39
+127,arquitectura,0.38
+128,asombro,0.38
+129,boris johnson,0.38
+130,cabeza,0.38
+131,causa,0.38
+132,cifra,0.38
+133,combustible,0.38
+134,crisis,0.38
+135,cárcel,0.38
+136,desfile,0.38
+137,dinamizador,0.38
+138,dior,0.38
+139,doctorado,0.38
+140,ecuador,0.38
+141,ejército,0.38
+142,emergencia,0.38
+143,estado,0.38
+144,gasolinera,0.38
+145,geólogo,0.38
+146,gobierno,0.38
+147,jornada,0.38
+148,juan tomás vázquez,0.38
+149,moda,0.38
+150,motín,0.38
+151,muerto,0.38
+152,noche,0.38
+153,océano,0.38
+154,parís,0.38
+155,peridis,0.38
+156,reparto,0.38
+157,semana,0.38
+158,universidad de alcalá de henares,0.38
+159,álex grijelmo,0.38
+160,amotinamiento,0.37
+161,antonio gasset,0.37
+162,divulgador,0.37
+163,faceta,0.37
+164,fuerza,0.37
+165,informe semanal,0.37
+166,número,0.37
+167,penitenciaría,0.37
+168,periodista,0.37
+169,prisión,0.37
+170,subdirector,0.37
+171,víctima,0.37
+172,2008,0.36
+173,bayern,0.36
+174,campamento,0.36
+175,control,0.36
+176,correoso,0.36
+177,dinero,0.36
+178,el cerebro infantil,0.36
+179,embarazo,0.36
+180,equipo,0.36
+181,europa,0.36
+182,frontera,0.36
+183,hijo,0.36
+184,idea,0.36
+185,jugador,0.36
+186,marea,0.36
+187,mes,0.36
+188,neuroeducación,0.36
+189,objetivo,0.36
+190,parto,0.36
+191,pizarra,0.36
+192,pop,0.36
+193,portugal,0.36
+194,progenitor,0.36
+195,protesta,0.36
+196,psicólogo,0.36
+197,rafa guerrero,0.36
+198,rafael pineda,0.36
+199,secreto,0.36
+200,seguimiento,0.36
+201,tribunal,0.36
+202,administración,0.35
+203,altura,0.35
+204,ansu,0.35
+205,billete,0.35
+206,bolsa,0.35
+207,colaboración,0.35
+208,colada,0.35
+209,conquista,0.35
+210,consejero,0.35
+211,consejo,0.35
+212,delta,0.35
+213,dólares,0.35
+214,el conjunto de,0.35
+215,el equipo de koeman,0.35
+216,empresa,0.35
+217,en-nesyri,0.35
+218,encuentro,0.35
+219,energía,0.35
+220,esclavitud,0.35
+221,gedeus,0.35
+222,grupo g,0.35
+223,historiador,0.35
+224,holocausto,0.35
+225,intercambio,0.35
+226,isabel díaz ayuso,0.35
+227,lancha,0.35
+228,lengua,0.35
+229,lisboa,0.35
+230,material,0.35
+231,mauricio claver-carone,0.35
+232,medio,0.35
+233,metro,0.35
+234,montevideo miami,0.35
+235,necoclí,0.35
+236,posición,0.35
+237,presencia,0.35
+238,selva,0.35
+239,sevilla,0.35
+240,siquiera,0.35
+241,solo,0.35
+242,tan,0.35
+243,torneo,0.35
+244,argentina,0.34
+245,cobertura,0.34
+246,cristiano,0.34
+247,defensa,0.34
+248,formación,0.34
+249,old trafford,0.34
+250,solidez,0.34
+251,villarreal,0.34
+252,agua,0.33
+253,contacto,0.33
+254,corrosión,0.33
+255,gas,0.33
+256,nube,0.33
+257,sistema,0.33
+258,ana de armas,0.32
+259,camila guillermo,0.32
+260,daniel craig,0.32
+261,estreno,0.32
+262,hollywood,0.32
+263,james bond carlos de inglaterra,0.32
+264,kate middleton,0.32
+265,pase,0.32
+266,realeza,0.32
+267,tiempo,0.32
+268,ahora,0.31
+269,bomba,0.31
+270,christian slater,0.31
+271,ciudad de méxico,0.31
+272,crítica,0.31
+273,decena,0.31
+274,demócrata,0.31
+275,deuda,0.31
+276,el 18 de octubre,0.31
+277,embargo,0.31
+278,explosión,0.31
+279,fin,0.31
+280,fondo,0.31
+281,fracaso,0.31
+282,generación,0.31
+283,género,0.31
+284,james dean,0.31
+285,janet yellen,0.31
+286,lópez obrador,0.31
+287,movimiento,0.31
+288,no,0.31
+289,noventa,0.31
+290,peligro,0.31
+291,reacción,0.31
+292,republicano,0.31
+293,sueño,0.31
+294,taquilla,0.31
+295,techo,0.31
+296,tesoro de ee uu,0.31
+297,violencia,0.31
+298,2004,0.3
+299,apellido,0.3
+300,búsqueda,0.3
+301,calidad,0.3
+302,concierto,0.3
+303,cuerpo,0.3
+304,dama,0.3
+305,delito,0.3
+306,depositario,0.3
+307,esfuerzo,0.3
+308,hora,0.3
+309,inmueble,0.3
+310,interpol,0.3
+311,laberinto,0.3
+312,laura bozzo,0.3
+313,meto,0.3
+314,mito,0.3
+315,orden,0.3
+316,ostracismo,0.3
+317,piranesi,0.3
+318,presentadora,0.3
+319,silencio,0.3
+320,sistema de administración tributario,0.3
+321,sueldo,0.3
+322,surrealismo,0.3
+323,susanna clarke,0.3
+324,televisión,0.3
+325,trabajador,0.3
+326,venta,0.3
+327,yo sigo,0.3
+328,éxito,0.3
+329,adelantamos,0.29
+330,adelanto,0.29
+331,alerta,0.29
+332,apertura,0.29
+333,avión,0.29
+334,civilización,0.29
+335,continente,0.29
+336,desastre,0.29
+337,década,0.29
+338,el país,0.29
+339,españa,0.29
+340,facundo manes,0.29
+341,francisco,0.29
+342,función,0.29
+343,humanidad,0.29
+344,imagen,0.29
+345,juan carlos tomasi,0.29
+346,la memoria del olvido,0.29
+347,legado,0.29
+348,los lectores,0.29
+349,negocios,0.29
+350,neurólogo,0.29
+351,newsletter,0.29
+352,opinión,0.29
+353,palabra,0.29
+354,papa,0.29
+355,recopilación,0.29
+356,relato,0.29
+357,ser humanos,0.29
+358,suplemento,0.29
+359,suscriptor,0.29
+360,sábado,0.29
+361,tema,0.29
+362,texto,0.29
+363,tribuna,0.29
+364,“,0.29
+365,administración biden,0.27
+366,al qaeda,0.27
+367,ataque,0.27
+368,comparecencia,0.27
+369,congreso,0.27
+370,cúpula,0.27
+371,discurso,0.27
+372,estado mayor,0.27
+373,isis,0.27
+374,jefe,0.27
+375,pentágono,0.27
+376,posibilidad,0.27

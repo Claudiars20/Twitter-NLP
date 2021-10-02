@@ -1,0 +1,664 @@
+,Word,Ponderado
+0,año,4.23
+1,covid-19,3.7
+2,país,3.37
+3,video,2.99
+4,pedro castillo,2.82
+5,prensa,2.8
+6,guido bellido,2.66
+7,peruano,2.61
+8,lee,2.37
+9,presidente,2.33
+10,perú,2.3
+11,persona,2.18
+12,camisea,2.14
+13,miércoles,2.14
+14,mujer,2.05
+15,fiscalía,2.02
+16,medio,1.97
+17,columna,1.95
+18,estudio,1.93
+19,congresista,1.75
+20,gobierno,1.67
+21,“,1.63
+22,vez,1.59
+23,acuerdo,1.58
+24,problema,1.58
+25,vacuna,1.56
+26,consejo de ministros,1.51
+27,semana,1.51
+28,muerte,1.48
+29,centro,1.47
+30,guillermo bermejo,1.44
+31,acusación,1.43
+32,fotos,1.43
+33,vacunación,1.43
+34,acomodo,1.4
+35,dosis,1.4
+36,gas,1.4
+37,lima,1.37
+38,comunicación,1.36
+39,cabeza,1.33
+40,contratación,1.33
+41,monstruo,1.33
+42,temporada,1.33
+43,final,1.29
+44,liderazgo,1.29
+45,fecha,1.28
+46,evento,1.27
+47,alejandro toledo,1.26
+48,congreso,1.25
+49,iber maraví,1.25
+50,caso,1.24
+51,hora,1.24
+52,tema,1.18
+53,lanzamiento,1.17
+54,audiencia,1.15
+55,richard swing,1.14
+56,bellido serrucho,1.13
+57,cevallos,1.13
+58,gustavo dulanto,1.12
+59,parque,1.12
+60,millón,1.11
+61,ministro,1.11
+62,sheriff,1.11
+63,benfica,1.1
+64,ipsos-lampadia,1.09
+65,octubre,1.09
+66,declaración,1.08
+67,club,1.06
+68,memoria,1.05
+69,mirian morales mala,1.05
+70,españa,1.04
+71,vladimir cerrón,1.04
+72,policía,1.01
+73,setiembre,1.01
+74,el gobierno para el “pueblo,1.0
+75,mario vargas llosa “castillo,1.0
+76,información,0.99
+77,verónika – i vocero,0.98
+78,libre,0.97
+79,callao,0.96
+80,sergio peña,0.96
+81,keiko fujimori,0.95
+82,pandemia,0.95
+83,minsa,0.94
+84,china,0.93
+85,lunes,0.93
+86,premier,0.93
+87,greys anatomy,0.92
+88,nivel,0.92
+89,reunión,0.91
+90,serie,0.91
+91,casa,0.9
+92,historia,0.9
+93,américa,0.89
+94,extradición,0.89
+95,ops,0.89
+96,sinovac,0.89
+97,conferencia,0.87
+98,corpus,0.87
+99,pcm,0.87
+100,reconciliación,0.87
+101,sofía franco,0.87
+102,tocamiento,0.86
+103,derrota,0.85
+104,netflix,0.85
+105,arequipa,0.84
+106,bellido,0.84
+107,mes,0.84
+108,coronavirus,0.83
+109,día,0.83
+110,serpiente,0.83
+111,ejecutivo,0.82
+112,lionel messi,0.82
+113,prisión,0.81
+114,sesión,0.81
+115,los dinámicos del centro,0.8
+116,líder,0.8
+117,ministro de trabajo iber maraví,0.8
+118,champions league,0.79
+119,dni,0.79
+120,gabinete,0.79
+121,cuenta,0.78
+122,darwin núñez,0.78
+123,recurso,0.78
+124,vs,0.78
+125,barcelona,0.77
+126,capacidad,0.77
+127,gol,0.77
+128,venezuela,0.77
+129,dinámicos del centro,0.76
+130,contumaz,0.75
+131,encuesta,0.75
+132,reo,0.75
+133,disfraz,0.74
+134,excandidata,0.74
+135,probamos guardianes de la galaxia,0.73
+136,acción,0.72
+137,gino pomar y dulanto,0.71
+138,justicia,0.71
+139,laura bozzo abogado,0.71
+140,opinión,0.71
+141,voz,0.71
+142,asamblea constituyente,0.7
+143,uso,0.69
+144,cargo,0.68
+145,humorista,0.67
+146,legado,0.67
+147,lo mejor,0.67
+148,mafalda,0.67
+149,mundo,0.67
+150,quino joaquin salvador lavado,0.67
+151,tira,0.67
+152,maraví,0.66
+153,pedido,0.66
+154,aldo mariátegui chincha,0.65
+155,camila bozzo desmadre,0.65
+156,actitud,0.63
+157,confinamiento,0.63
+158,cortita,0.63
+159,honor,0.63
+160,melissa paredes,0.63
+161,censura,0.62
+162,daniel alarcón,0.62
+163,editorial,0.62
+164,estoy absolutamente seguro de mi inocencia,0.62
+165,macarthur genius award,0.62
+166,mar,0.62
+167,miriam morales,0.62
+168,senamhi,0.6
+169,temperatura,0.6
+170,castillo,0.59
+171,ii,0.59
+172,respeto,0.59
+173,uefa champions league malmo,0.59
+174,verónika,0.59
+175,vista,0.59
+176,zenit,0.59
+177,andrés bustamante,0.58
+178,arturo cárdenas,0.58
+179,balón de oro france football,0.58
+180,canción,0.58
+181,chiclayo,0.58
+182,clase,0.58
+183,consejo,0.58
+184,consejos,0.58
+185,detalle,0.58
+186,día mundial del corazón conoce,0.58
+187,día mundial del corazón tres,0.58
+188,emporio comercial de gamarra,0.58
+189,enfermedad,0.58
+190,enlace,0.58
+191,etapa,0.58
+192,eugenio derbez,0.58
+193,grupo,0.58
+194,higiene,0.58
+195,hombre,0.58
+196,la reina del tex-mex,0.58
+197,organización,0.58
+198,pl,0.58
+199,premiación,0.58
+200,relación,0.58
+201,rival,0.58
+202,secretario,0.58
+203,selena quintanilla,0.58
+204,semipresencialidad,0.58
+205,sheyla rojas,0.58
+206,dinero,0.57
+207,lima metropolitana,0.57
+208,mediodía,0.56
+209,alfonso bustamante canny,0.55
+210,contrato,0.55
+211,extranjero,0.55
+212,harold forsyth,0.55
+213,iphone 13,0.55
+214,migraciones,0.55
+215,naranjal del metropolitano,0.55
+216,reforma,0.55
+217,terminal,0.55
+218,ana martín,0.54
+219,aquí 4 lugares turísticos,0.54
+220,copa libertadores,0.54
+221,fin,0.54
+222,guido bellido avanza país,0.54
+223,isabel pantoja,0.54
+224,madre,0.54
+225,ministro de transportes,0.54
+226,palmeiras,0.54
+227,representante,0.54
+228,rosell,0.54
+229,viceministro,0.54
+230,ania,0.53
+231,conoce,0.53
+232,drama,0.53
+233,déjame,0.53
+234,emprendimiento,0.53
+235,estrella torres,0.53
+236,kevin salas,0.53
+237,luis miguel,0.53
+238,modelo,0.53
+239,muna&ampco,0.53
+240,más información en,0.53
+241,noviembre,0.53
+242,personaje,0.53
+243,puno guido bellido,0.53
+244,quechua,0.53
+245,salud,0.53
+246,teletón,0.53
+247,tráiler,0.53
+248,avanza,0.52
+249,covid-19 más,0.52
+250,danna paola,0.52
+251,disney+,0.52
+252,estreno,0.52
+253,fundación belcorp,0.52
+254,gerente,0.52
+255,globant,0.52
+256,latin grammy,0.52
+257,población,0.52
+258,reacción,0.52
+259,región,0.52
+260,ruptura,0.52
+261,the book of boba fett,0.52
+262,verónica melzi,0.52
+263,álvaro paz de la barra,0.52
+264,agresión,0.51
+265,defensa,0.51
+266,estación,0.51
+267,estados unidos mujer,0.51
+268,incendio,0.51
+269,la palma,0.51
+270,mar fotos,0.51
+271,metropolitano,0.51
+272,ministerio de trabajo,0.51
+273,naranjal fotos,0.51
+274,niña,0.51
+275,origen,0.51
+276,patricia chirinos,0.51
+277,procuradora silvana carrión decisión,0.51
+278,red,0.51
+279,ritual,0.51
+280,volcán,0.51
+281,abuso,0.5
+282,actuación,0.5
+283,auto,0.5
+284,brasil,0.5
+285,bus de los chinos,0.5
+286,control,0.5
+287,cortometraje,0.5
+288,dea,0.5
+289,declive,0.5
+290,educación,0.5
+291,estados unidos,0.5
+292,herido,0.5
+293,hijas de brujas,0.5
+294,jair bolsonaro,0.5
+295,jugador,0.5
+296,licencia,0.5
+297,m2,0.5
+298,magnitud,0.5
+299,mendoza,0.5
+300,messi,0.5
+301,observador,0.5
+302,onu,0.5
+303,pastilla,0.5
+304,pep guardiola,0.5
+305,predio,0.5
+306,provincia,0.5
+307,república centroafricana,0.5
+308,senadores de estados unidos,0.5
+309,sismo,0.5
+310,tiktok,0.5
+311,tipo,0.5
+312,vía evitamiento rímac,0.5
+313,yalitza aparicio,0.5
+314,delito,0.49
+315,reanudan,0.49
+316,s/400,0.49
+317,venezolano,0.49
+318,abogado,0.48
+319,alto,0.48
+320,ancelotti,0.48
+321,aplicación,0.48
+322,arreglito,0.48
+323,balazo,0.48
+324,conocer,0.48
+325,corrupción,0.48
+326,cosa,0.48
+327,evelyn vela,0.48
+328,hernán díaz,0.48
+329,hija,0.48
+330,hábeas,0.48
+331,jhakeline ugarte mamani,0.48
+332,joven,0.48
+333,losa,0.48
+334,melissa klug video,0.48
+335,perú libre poder judicial,0.48
+336,pie,0.48
+337,real madrid,0.48
+338,rusia,0.48
+339,récord,0.48
+340,uhm,0.48
+341,virus,0.48
+342,afganistán,0.47
+343,atracción,0.47
+344,barcos,0.47
+345,corzo “todos,0.47
+346,hojas tienes,0.47
+347,hospital rebagliati,0.47
+348,impuesto,0.47
+349,logras,0.47
+350,médico,0.47
+351,online,0.47
+352,parte,0.47
+353,polémica,0.47
+354,regalía,0.47
+355,s/40,0.47
+356,segundo,0.47
+357,talibanes,0.47
+358,vivo,0.47
+359,yotún,0.47
+360,2022,0.46
+361,aprendizaje,0.46
+362,café con aroma de mujer,0.46
+363,carmen villalobos,0.46
+364,elección,0.46
+365,entrega,0.46
+366,hospital edgardo rebagliati,0.46
+367,jne,0.46
+368,lotería,0.46
+369,lucía,0.46
+370,maeve,0.46
+371,paciente,0.46
+372,pareja,0.46
+373,propuesta,0.46
+374,punto,0.46
+375,residente,0.46
+376,sex education” temporada 4,0.46
+377,2011,0.45
+378,2016,0.45
+379,acoso,0.45
+380,aporte,0.45
+381,arco,0.45
+382,argentina,0.45
+383,batalla,0.45
+384,beca,0.45
+385,bolívar,0.45
+386,búsqueda,0.45
+387,campaña,0.45
+388,carolina ramírez,0.45
+389,cerveza,0.45
+390,delincuentes,0.45
+391,doctorado,0.45
+392,edición,0.45
+393,el presidente,0.45
+394,flow,0.45
+395,género,0.45
+396,helado,0.45
+397,hábea,0.45
+398,héctor abad faciolince,0.45
+399,lanza,0.45
+400,laura bozzo interpol,0.45
+401,los knockcout,0.45
+402,mamá,0.45
+403,manchester city,0.45
+404,mensaje,0.45
+405,nicolás maduro,0.45
+406,noticia,0.45
+407,novela,0.45
+408,olvido,0.45
+409,orden,0.45
+410,pantalón,0.45
+411,papá,0.45
+412,película,0.45
+413,pepe aguilar,0.45
+414,pepiachi,0.45
+415,perú21,0.45
+416,portada,0.45
+417,premier no respeta al presidente   esta,0.45
+418,presentadora,0.45
+419,prevención,0.45
+420,protagonista,0.45
+421,reina,0.45
+422,requisito,0.45
+423,restaurante,0.45
+424,salamanca,0.45
+425,senior,0.45
+426,siddhartha,0.45
+427,suelo,0.45
+428,suiza,0.45
+429,sábado,0.45
+430,taller,0.45
+431,tiro,0.45
+432,universidad de berna,0.45
+433,valor,0.45
+434,viernes,0.45
+435,yuya,0.45
+436,ángela aguilar,0.45
+437,”,0.45
+438,debut,0.44
+439,malmo video,0.44
+440,sondeo,0.44
+441,agudeza,0.43
+442,aliento,0.43
+443,barcelona video,0.43
+444,basura,0.43
+445,beneficiarios,0.43
+446,bono,0.43
+447,cita,0.43
+448,dania calderón,0.43
+449,desafío,0.43
+450,doblete,0.43
+451,encuentro,0.43
+452,frase,0.43
+453,goleada,0.43
+454,hojas te animas a cumplir,0.43
+455,partir,0.43
+456,prueba,0.43
+457,psg,0.43
+458,real madrid video,0.43
+459,reasignación,0.43
+460,regalo,0.43
+461,reniec,0.43
+462,sexo,0.43
+463,sol,0.43
+464,tilda,0.43
+465,trans,0.43
+466,triunfo,0.43
+467,vida,0.43
+468,2024,0.42
+469,actividad,0.42
+470,actriz,0.42
+471,aeropuerto,0.42
+472,agua,0.42
+473,alcohol,0.42
+474,ameba,0.42
+475,bomba,0.42
+476,capital,0.42
+477,carrasco,0.42
+478,cerebro,0.42
+479,champions,0.42
+480,consecuencia,0.42
+481,delegación,0.42
+482,el hombro,0.42
+483,equipo,0.42
+484,facebook,0.42
+485,familia,0.42
+486,horarios,0.42
+487,ingalls,0.42
+488,inspección,0.42
+489,latinoamericano,0.42
+490,mariella zanetti,0.42
+491,marzo,0.42
+492,melissa gilbert,0.42
+493,misa,0.42
+494,méxico,0.42
+495,niño,0.42
+496,paz de la barra,0.42
+497,pm,0.42
+498,rafa silva,0.42
+499,reprograma,0.42
+500,retiro,0.42
+501,seguridad,0.42
+502,sensación,0.42
+503,señor de los milagros,0.42
+504,texas,0.42
+505,tiempo,0.42
+506,tiraspol conoce,0.42
+507,twitter,0.42
+508,visita,0.42
+509,1980,0.41
+510,asistencia,0.41
+511,ataque,0.41
+512,ayacucho,0.41
+513,bermejo,0.41
+514,camión,0.41
+515,champions video,0.41
+516,clausura,0.41
+517,completa,0.41
+518,congresistas,0.41
+519,consejo de ministros guido bellido,0.41
+520,cristiano ronaldo,0.41
+521,cuello,0.41
+522,diferencia,0.41
+523,eeg,0.41
+524,ejecutivo   el ministro de salud hernando cevallos,0.41
+525,favor,0.41
+526,golpe,0.41
+527,héroe,0.41
+528,insolencia,0.41
+529,jueves,0.41
+530,korina rivadeneira,0.41
+531,lavajato,0.41
+532,límite,0.41
+533,manda,0.41
+534,mario hart,0.41
+535,minuto,0.41
+536,mitin,0.41
+537,municipio,0.41
+538,parlamento,0.41
+539,pena,0.41
+540,pese,0.41
+541,pisco,0.41
+542,planta,0.41
+543,pluspetrol,0.41
+544,república,0.41
+545,silvana carrión,0.41
+546,toledo,0.41
+547,united,0.41
+548,victoria,0.41
+549,condición,0.4
+550,empresa,0.4
+551,integrante,0.4
+552,la alborada fotos,0.4
+553,mascotas,0.4
+554,nacionalización,0.4
+555,pijama,0.4
+556,posibilidad,0.4
+557,rabia,0.4
+558,vehemencia,0.4
+559,aeronave,0.39
+560,asalto,0.39
+561,ciudadano,0.39
+562,deportación,0.39
+563,encuestado,0.39
+564,guido) bellido,0.39
+565,jorge chávez,0.39
+566,juez,0.39
+567,juzgado,0.39
+568,ladrón,0.39
+569,martillazo,0.39
+570,ministerio de defensa,0.39
+571,pedro) castillo,0.39
+572,pizzería,0.39
+573,president,0.39
+574,trabajador,0.39
+575,ves,0.39
+576,vladimir) cerrón,0.39
+577,aceite,0.38
+578,bancada de perú libre,0.38
+579,boda,0.38
+580,canciller,0.38
+581,cáceres llica,0.38
+582,discusión,0.38
+583,enrique de sussex,0.38
+584,exsecretaria,0.38
+585,gobernador,0.38
+586,isabel ii,0.38
+587,martín vizcarra mirian morales,0.38
+588,meghan,0.38
+589,ministerio de cultura,0.38
+590,nada,0.38
+591,palacio pues,0.38
+592,relato,0.38
+593,renuncia,0.38
+594,respuesta,0.38
+595,resto,0.38
+596,richard cisneros,0.38
+597,tiara,0.38
+598,vicecanciller,0.38
+599,élmer,0.38
+600,óscar maúrtua,0.38
+601,dirk kuyt,0.37
+602,ex,0.37
+603,liverpool,0.37
+604,palacio de gobierno,0.37
+605,recado,0.37
+606,salida,0.37
+607,tiraspol,0.37
+608,verónika mendoza,0.37
+609,vocera,0.37
+610,bacteria,0.36
+611,biofilm,0.36
+612,formación,0.36
+613,investigador,0.36
+614,través,0.36
+615,ultrasonido,0.36
+616,upch,0.36
+617,audio,0.34
+618,compositor,0.34
+619,cárcel,0.34
+620,firma,0.34
+621,inacción,0.34
+622,karem roca,0.34
+623,parece,0.34
+624,parlamentario,0.34
+625,participación,0.34
+626,pleno del,0.34
+627,pretensión,0.34
+628,recolección,0.34
+629,rpp morales,0.34
+630,régimen,0.34
+631,anda,0.33
+632,contra,0.33
+633,convivencia,0.33
+634,denuncia,0.33
+635,difamación,0.33
+636,dime,0.33
+637,legisladora,0.33
+638,perú libre jhakeline ugarte mamani,0.33
+639,poder judicial,0.33
+640,sector,0.33
+641,terrorismo,0.33
+642,titular,0.33
+643,democracia,0.31
+644,este,0.31
+645,expresión,0.31
+646,gira,0.31
+647,informe,0.31
+648,libertad,0.31
+649,mañana,0.31
+650,mira,0.31
+651,norteamérica,0.31
+652,pilar,0.31
+653,porqué,0.31
+654,resumen,0.31
+655,bancada,0.3
+656,cambio,0.3
+657,estado,0.3
+658,jefe,0.3
+659,mendozaademásdijo,0.3
+660,remoción,0.3
+661,cerrón,0.29
+662,tesis,0.29

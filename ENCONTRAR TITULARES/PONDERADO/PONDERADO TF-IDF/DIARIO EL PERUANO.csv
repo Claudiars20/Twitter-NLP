@@ -1,0 +1,398 @@
+,Word,Ponderado
+0,pago,1.82
+1,cuota,1.68
+2,perú,1.45
+3,año,1.41
+4,país,1.35
+5,recurso,1.33
+6,trabajo,1.28
+7,presidente,1.23
+8,día,1.2
+9,eeuu,1.2
+10,favor,1.19
+11,congreso,1.13
+12,decreto supremo,1.13
+13,sesión,1.13
+14,vacunación,1.07
+15,octubre,1.06
+16,región,1.05
+17,distrito,1.02
+18,agua,1.01
+19,ministro,0.98
+20,servicio,0.95
+21,transferencia,0.95
+22,atención,0.93
+23,normas legales,0.89
+24,pga seguro rápido,0.89
+25,plataforma,0.89
+26,política,0.89
+27,sencillo,0.89
+28,webinar,0.89
+29,31084 ley de presupuesto del sector público para el año fiscal,0.88
+30,anexo b,0.88
+31,ley,0.88
+32,dosis,0.82
+33,captura,0.8
+34,cerco,0.8
+35,embarcación,0.8
+36,consejo de ministros,0.79
+37,cabo,0.78
+38,marco,0.78
+39,población,0.78
+40,gabinete ministerial guido bellido,0.77
+41,jefe,0.77
+42,labor,0.77
+43,oea,0.77
+44,pedro castillo,0.77
+45,estrategia,0.76
+46,alejandro toledo,0.74
+47,expresidente,0.74
+48,ministerio de defensa,0.74
+49,setiembre,0.74
+50,vacuna,0.74
+51,juez,0.73
+52,pleno,0.72
+53,reunión,0.71
+54,sol,0.71
+55,artículo,0.7
+56,delta,0.7
+57,plus,0.7
+58,procedimiento,0.7
+59,variante,0.7
+60,prestación,0.69
+61,hogar,0.68
+62,millón,0.68
+63,pandemia,0.68
+64,proyecto,0.68
+65,titular,0.67
+66,expulsión,0.66
+67,extradición,0.66
+68,encuentro,0.65
+69,prueba,0.65
+70,fin,0.64
+71,justicia,0.63
+72,campaña,0.61
+73,caso,0.59
+74,internet,0.59
+75,obra,0.59
+76,zona,0.59
+77,comentario,0.58
+78,esfuerzo,0.58
+79,iber,0.58
+80,instituto de desarrollo de funcionarios del gobierno local de corea,0.58
+81,maraví,0.58
+82,poder judicial,0.58
+83,preguntas,0.58
+84,resolución de superintendencia n,0.58
+85,servidor,0.58
+86,sistema de emisión electrónica de la guía de remisión electrónica para bienes fiscalizados,0.58
+87,sunat,0.58
+88,terrorismo,0.58
+89,texto único ordenado de la ley de promoción del acceso a la propiedad formal,0.58
+90,vínculo,0.58
+91,consejo,0.51
+92,día mundial del corazón,0.51
+93,salud,0.51
+94,provincia del santa,0.5
+95,puente solivín,0.5
+96,reconstrucción,0.5
+97,áncash,0.5
+98,consorcio camisea,0.49
+99,empresa,0.48
+100,incentivo,0.48
+101,mediodía,0.48
+102,partir,0.48
+103,ayuda,0.47
+104,comisión,0.47
+105,conoce aquí la agenda de actividades,0.47
+106,lurigancho chosica,0.47
+107,olla,0.47
+108,poder legislativo,0.47
+109,red,0.46
+110,actividad,0.45
+111,conectividad,0.45
+112,contagio,0.45
+113,evolución,0.45
+114,ica,0.45
+115,impacto,0.45
+116,ola,0.45
+117,reto,0.45
+118,son importantes para continuar,0.45
+119,transformación,0.45
+120,2022,0.44
+121,presupuesto del sector,0.44
+122,alcaldesa,0.43
+123,alicia cox de larco,0.43
+124,buenos,0.43
+125,caja de pensiones militar policial,0.43
+126,comunidades,0.43
+127,diario oficial el peruano,0.43
+128,el ministro de cultura ciro gálvez,0.43
+129,financiamiento,0.43
+130,gestor,0.43
+131,ministerio de salud,0.43
+132,miraflores,0.43
+133,miércoles,0.43
+134,mutación,0.43
+135,obligación,0.43
+136,portada,0.43
+137,retrato,0.43
+138,corpus,0.42
+139,corte suprema de justicia de la república,0.42
+140,ernesto carlín,0.42
+141,escritor,0.42
+142,feria del libro de guadalajara,0.42
+143,habeas,0.42
+144,informe,0.42
+145,ministerio de la producción,0.42
+146,máximo torres,0.42
+147,president,0.42
+148,puerto,0.42
+149,sala,0.42
+150,tonelada,0.42
+151,apoyo,0.41
+152,barrera,0.41
+153,bono yanapay perú,0.41
+154,chipao,0.41
+155,covid-19,0.41
+156,despliegue,0.41
+157,disposición,0.41
+158,elección,0.41
+159,entrega,0.41
+160,lineamientos,0.41
+161,material,0.41
+162,nota,0.41
+163,persona,0.41
+164,proceso,0.41
+165,párrafo,0.41
+166,registro de hidrocarburos,0.41
+167,reglamento,0.41
+168,revocatoria,0.41
+169,subsidio,0.41
+170,tribunal,0.41
+171,2023,0.39
+172,acción,0.39
+173,acusación,0.39
+174,administración,0.39
+175,amazonas,0.39
+176,beca,0.39
+177,chachapoyas,0.39
+178,conoce,0.39
+179,conozca,0.39
+180,consulta,0.39
+181,convenio,0.39
+182,coordinador,0.39
+183,corrupción,0.39
+184,covid,0.39
+185,cumbre,0.39
+186,dirección general de electricidad,0.39
+187,doctorado,0.39
+188,efecto,0.39
+189,electricidad,0.39
+190,energía,0.39
+191,equipo especial del caso lava jato,0.39
+192,fijación,0.39
+193,fiscal,0.39
+194,fiscalización,0.39
+195,gratuidad,0.39
+196,grupo,0.39
+197,lucha,0.39
+198,mandatario,0.39
+199,mar,0.39
+200,marina,0.39
+201,medida,0.39
+202,minam,0.39
+203,necesidad,0.39
+204,operación,0.39
+205,planta,0.39
+206,poblador,0.39
+207,presidente castillo,0.39
+208,pronunciamiento,0.39
+209,rafael vela,0.39
+210,recupero,0.39
+211,reintegro,0.39
+212,reserva nacional dorsal de nasca,0.39
+213,sectores de distribución típicos,0.39
+214,sip-sunarp,0.39
+215,talento,0.39
+216,tribunal registral denominado,0.39
+217,universidad de suiza,0.39
+218,valor agregado de distribución,0.39
+219,área,0.39
+220,abril,0.38
+221,conglomerado,0.38
+222,emporio comercial de gamarra,0.38
+223,evaluación,0.38
+224,fed,0.38
+225,inflación,0.38
+226,informe técnico n,0.38
+227,jerome powell,0.38
+228,jnj,0.38
+229,junta nacional de justicia,0.38
+230,mayo,0.38
+231,periodo,0.38
+232,principios,0.38
+233,proceso de regulación de los sistemas secundarios de transmisión,0.38
+234,publicación,0.38
+235,ratificación,0.38
+236,reserva federal,0.38
+237,sistemas complementarios de transmisión,0.38
+238,calidad educativa,0.37
+239,certificación,0.37
+240,fecha,0.37
+241,hackatón,0.37
+242,nasa,0.37
+243,organismo internacional,0.37
+244,postula,0.37
+245,sineace,0.37
+246,sistema nacional de evaluación acreditación,0.37
+247,space apps challenge lima,0.37
+248,ámbito,0.37
+249,casa,0.36
+250,comodidad,0.36
+251,contaminación,0.36
+252,costo,0.36
+253,delito,0.36
+254,destinan,0.36
+255,diario,0.36
+256,el peruano,0.36
+257,extranjero,0.36
+258,mesa,0.36
+259,oficina,0.36
+260,problema,0.36
+261,puno,0.36
+262,resolución,0.36
+263,roxana,0.36
+264,superintendencia nacional,0.36
+265,suscripción,0.36
+266,territorio,0.36
+267,venezolano,0.36
+268,whatsapp 975473164,0.36
+269,águila,0.36
+270,aprobación,0.35
+271,auditor,0.35
+272,autoridad,0.35
+273,contraloría,0.35
+274,cuenta,0.35
+275,demanda,0.35
+276,dirandro,0.35
+277,ejecución,0.35
+278,formato,0.35
+279,gasto,0.35
+280,gestión integrada y efectiva del control de oferta de drogas en el perú,0.35
+281,ingreso,0.35
+282,la libertad,0.35
+283,nivel,0.35
+284,programa presupuestal,0.35
+285,programación,0.35
+286,promotor,0.35
+287,rendición,0.35
+288,revocación,0.35
+289,rj n°,0.35
+290,saneamiento,0.35
+291,sepelio,0.35
+292,sis,0.35
+293,suma,0.35
+294,“,0.35
+295,”,0.35
+296,acto,0.34
+297,aislamiento,0.34
+298,américa latina,0.34
+299,apasionamiento,0.34
+300,aun,0.34
+301,christian capuñay,0.34
+302,ciudadano,0.34
+303,edición,0.34
+304,el tiempo ha permitido apreciarla,0.34
+305,estreno,0.34
+306,europa,0.34
+307,festival de cine latinoamericano de biarritz,0.34
+308,finalidad,0.34
+309,honor,0.34
+310,intercambio,0.34
+311,invitado,0.34
+312,la boca del lobo,0.34
+313,levantamiento,0.34
+314,medidas,0.34
+315,origen,0.34
+316,pese,0.34
+317,prorrogan,0.34
+318,protocolo denominado,0.34
+319,punto,0.34
+320,reactivación,0.34
+321,tema,0.34
+322,traslado,0.34
+323,vigencia,0.34
+324,órgano,0.34
+325,amenaza,0.33
+326,conciencia,0.33
+327,peruano,0.33
+328,riesgo,0.33
+329,versión,0.33
+330,asistencia,0.32
+331,estas,0.32
+332,interpelación,0.32
+333,jueves,0.32
+334,legislativo,0.32
+335,pliego,0.32
+336,pregunta,0.32
+337,2020,0.31
+338,comparación,0.31
+339,cámara de comercio,0.31
+340,decisión,0.31
+341,departamento de estado,0.31
+342,factura,0.31
+343,fallo,0.31
+344,industria,0.31
+345,juez thomas hixson,0.31
+346,lava jato,0.31
+347,lima,0.31
+348,paul neil herrera guerra,0.31
+349,procuraduría ad hoc,0.31
+350,sector,0.31
+351,toledo,0.31
+352,acoso,0.3
+353,agricultura,0.3
+354,cargo,0.3
+355,castillo,0.3
+356,centro,0.3
+357,curso,0.3
+358,express,0.3
+359,familia,0.3
+360,haku wiñay,0.3
+361,huahuari,0.3
+362,inclusión,0.3
+363,iniciativa,0.3
+364,junín,0.3
+365,mejoramiento,0.3
+366,midis,0.3
+367,ministro de defensa walter ayala,0.3
+368,mujer,0.3
+369,palacio de gobierno ministra durand,0.3
+370,participación,0.3
+371,provincia,0.3
+372,río negro,0.3
+373,satipo,0.3
+374,subsistencia,0.3
+375,sábado,0.3
+376,vía,0.3
+377,acceso,0.29
+378,adolescente,0.29
+379,ciudad,0.29
+380,colegio,0.29
+381,comunicaciones juan silva,0.29
+382,contenido,0.29
+383,huancayo,0.29
+384,integrante,0.29
+385,josé vadillo,0.29
+386,medio,0.29
+387,niña,0.29
+388,nuestra luz,0.29
+389,objetivo,0.29
+390,señal,0.29
+391,snrtv,0.29
+392,sociedad nacional de radio,0.29
+393,televisión,0.29
+394,transportes,0.29
+395,trujillo,0.29
+396,violencia,0.29

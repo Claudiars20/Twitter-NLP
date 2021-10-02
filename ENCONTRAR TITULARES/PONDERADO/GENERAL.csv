@@ -1,0 +1,693 @@
+Word,PonderadoApilado,Similares
+perú,53.55000000000002,"['perú libre', 'el perú', 'nuevo perú', 'bancada de perú libre', 'bono yanapay perú', 'perú libre jhakeline', 'tv perú', 'colegio de enfermeros del perú', 'arriba perú', 'vamos perú', 'perú señor de los milagros', 'somos perú-partido morado', 'roxana del águila superintendente nacional de migraciones del perú', 'viejos zorros perú', 'perú libre poder judicial', 'la voz perú', 'bancada perú libre', 'yanapay perú cómo', 'jorge coayla de perú libre no', 'bicentenario institucional la marina de guerra del perú', 'foto marina de guerra del perú', 'república de perú', 'gestión integrada y efectiva del control de oferta de drogas en el perú', 'gs1 perú', 'juntos por el perú', 'perú libre jhakeline ugarte mamani', 'podemos perú', 'gobierno de castillo  frente amplio nuevo perú juntos por el perú', 'interior del colegio médico del perú', 'ipsos perú', 'sos perú', 'educación del perú', 'el perú sin estudio']"
+covid-19,37.49999999999999,"['covid', 'peru no covid-19-related deaths in metropolitan lima on sep', 'covid-19 minsa', 'oas permanent council to analyze covid-19 evolution', 'covid-19 más', 'covid-19 señalan', 'covid-19 hoy', 'peru over 300000 covid-19', 'covid-19 no']"
+presidente,37.449999999999996,"['expresidente', 'residente', 'president', 'presidenta', 'residentes', 'premier no respeta al presidente   esta', 'el presidente', 'presidente castillo', 'el presidente ejecutivo', 'presidente del seguro']"
+ministro,33.629999999999995,"['ministro de trabajo iber maraví', 'ministro iber maraví', 'exitosa el ministro de trabajo iber maraví', 'ministro de asuntos exteriores', 'ministro de vivienda', 'ministro maraví', 'ministro carrasco', 'ministro de transportes', 'ministro del interior', 'ministro de salud', 'exitosa el ministro de trabajo y promoción del empleo iber maraví', 'el ministro de cultura ciro gálvez', 'ministro de salud hernando cevallos', 'ejecutivo   el ministro de salud hernando cevallos', 'ministro de trabajo y promoción del empleo', 'consejo de ministro', 'el ministro de trabajo', 'la interpelación al ministro de trabajo', 'maraví el ministro de trabajo y promoción del empleo iber maraví', 'ministro de economía', 'ministro de defensa walter ayala', 'ministro de justicia y derechos humanos']"
+país,32.540000000000006,"['avanza país', 'congresista de avanza país patricia chirinos', 'vídeo avanza país', 'guido bellido avanza país', 'norma yarrow de avanza país', 'de acuerdo al país', 'el país']"
+persona,25.450000000000003,['personal']
+gobierno,25.090000000000007,"['gobierno de junín', 'gobiernos', 'el gobierno para el “pueblo', 'palacio de gobierno', 'instituto de desarrollo de funcionarios del gobierno local de corea', 'pedro castillo gobierno', 'gobierno peruano', 'gobierno steffen seibert', 'gobierno de estados unidos', 'gobierno regional de loreto', 'palacio de gobierno ministra durand', 'pamuk del gobierno territorial autónomo de la nación wampís', 'el gobierno', 'gobierno de castillo', 'economía del gobierno', 'el gobierno chileno']"
+guido bellido,23.48,"['bellido', 'gabinete ministerial guido bellido', 'consejo de ministros guido bellido', 'puno guido bellido', 'guido) bellido', 'guido bellido ugarte', 'consejo de ministros guido bellido ugarte']"
+setiembre,22.84,['septiembre']
+pedro castillo,22.48,"['castillo', 'vargas llosa pedro castillo', 'mario vargas llosa pedro castillo', 'pedro castillo partido político magisterial y popular', 'pedro', 'pedro castillo un', 'pedro) castillo', 'pedro castillo  lizarzaburu']"
+camisea,22.330000000000002,"['gas de camisea', 'consorcio camisea', 'camiseta', 'renegociación de camisea', 'camisea por', 'meeting with camisea', 'el consorcio camisea']"
+champions league,21.419999999999998,"['uefa champions league', 'champions', 'champions league  mira', 'uefa champions league malmo', 'champions league video', 'champions league no', 'champions l', 'champions league conoce']"
+alejandro toledo,21.22,"['toledo', 'rafael vela alejandro toledo', 'alejandro toledo conéctate', 'alejandro toledo hábeas']"
+miércoles,19.959999999999997,"['este miércoles desde las 900 pm por tvperú', 'avance  miércoles  la uchulú', 'atención este miércoles']"
+congreso,19.59,"['congreso de la república', 'congreso fiscalización', 'comisión de ética del congreso', 'vivo junta de portavoces del congreso', 'congreso sesión', 'congreso legisladores', 'congreso de la r', 'comisión de relaciones exteriores del congreso', 'campaña electoral de la presidenta del congreso', 'congreso paraguayo', 'cuestionan prerrogativa del congreso para no aplicar', 'sutep congreso']"
+lima,19.069999999999997,"['lima metropolitana', 'lima norte', 'lima vecinos', 'cercado de lima', 'lima falsos', 'bolsa de valores de lima', 'exitosa lima', 'space apps challenge lima', 'la municipalidad de lima', 'lima te cuida', 'tiro lima', 'lima centro', 'lima fiscal']"
+gustavo dulanto,17.8,"['dulanto', 'gustavo dulanto  conéctate']"
+salud,17.75,"['ministerio de salud', 'salud pública gustavo rosell', 'el viceministro de salud pública gustavo rosell', 'salud gustavo rosell', 'viceministro de salud pública', 'salud personas', 'federación de funcionarios de salud pública', 'dirección regional de salud', 'el vocero del sector salud césar munayco', 'edgardo rebagliati del seguro social de salud']"
+consejo de ministros,17.699999999999996,"['consejo', 'presidencia del consejo de ministros', 'vivo consejo de ministros', 'la sesión de consejo de ministros']"
+fotos,17.39,"['mar fotos', 'naranjal fotos', 'la alborada fotos']"
+congresista,16.029999999999998,"['congresistas', 'vivo congresista katy ugarte', 'vivo congresista bermejo', 'congresista yarrow', 'vivo congresista castillo', 'el congresista', 'congresista tello']"
+iber maraví,15.86,"['maraví', 'iber', 'íber maraví', 'trabajo iber maraví', 'iber maravi']"
+mujer,15.680000000000001,"['café con aroma de mujer', 'ministerio de la mujer', 'estados unidos mujer', 'jesús maría mujer']"
+señal,15.149999999999999,['seal personal de seal']
+minsa,14.91,"['salud pública del minsa', 'lima el minsa']"
+prensa,14.75,"['prensa presidencia', 'el instituto prensa y sociedad', 'instituto de prensa y sociedad', 'presa']"
+peruano,14.72,"['el peruano', 'diario oficial el peruano', 'estado peruano']"
+pandemia,14.41,"['la tormenta perfecta de bajos salarios pandemia', 'ni en pandemia']"
+policía,14.16,"['política', 'polémica', 'policía nacional', 'la policía', 'policía falsas']"
+equipo,13.91,"['sheriff el equipo sensación de', 'equipo especial del caso lava jato', 'el equipo de koeman', 'equipo especial de reconstrucción con cambios', 'hockey(equipo', 'equipo especial', 'equipo especial lava jato']"
+partido,13.849999999999998,"['partido liberal democrático', 'comisión política del partido aprista', 'partido comunista', 'partido de la segunda jornada del', 'partido del mundial de futsal', 'el partido del psg']"
+octubre,13.82,"['el 18 de octubre', 'octubre se aplicará tercera']"
+barcelona,13.650000000000002,"['barcelona sc', 'barcelona video', 'peor barcelona', 'goleada barcelona', 'partido de barcelona sc']"
+muerte,13.51,"['video muerte', 'se ganó el respeto de su comunidad y hoy lloran su muerte']"
+grupo,13.319999999999997,"['grupo h', 'grupo e', 'grupo f', 'grupo g', 'grupo e robert lewandowski', 'grupo ocho sur']"
+guillermo bermejo,13.190000000000001,"['bermejo', 'guilermo bermejo', 'guillermo bermejo testigo elsa malpartida']"
+acuerdo,13.16,['acuerdo de parís \xa0 una reci —']
+fiscalía,13.029999999999998,"['fiscal', 'fiscalía vladimir cerrón', 'fiscalía general de la nación', 'keiko fujimori fiscalía', 'fiscalía dinámicos del centro', ""fiscalía 'dinámicos del centro"", 'fiscalía general', 'centro fiscalía']"
+información,12.649999999999999,['más información en']
+defensa,12.58,"['ministerio de defensa', 'frente único de defensa de los intereses de chumbivilcas', 'el instituto nacional de defensa de la competencia']"
+real madrid,12.350000000000001,"['madrid', 'sheriff sobre real madrid', 'real', 'real madrid video']"
+organización,12.33,"['organización mundial de la salud', 'organización internacional del trabajo', 'reorganización', 'consejo de la organización de los estados americanos', 'organización de los estados americanos', 'organización panamericana de la salud']"
+verónika mendoza,11.71,"['mendoza', 'verónika mendoza «sendero', 'verónika mendoza «sendero luminoso', 'verónika mendoza ""nosotros', 'verónika', 'video verónika mendoza', 'exitosa verónika mendoza', 'verónika mendoza ""sendero']"
+mediodía,11.69,"['medida', 'edición mediodía']"
+familia,11.32,"['familiar', 'la familia de miya marcano', 'familia yenny vargas']"
+vida,11.3,"['un mundo donde se garantice la vida de seres humanos', 'encuesta de condiciones de vida en venezuela']"
+vladimir cerrón,11.290000000000001,"['cerrón', 'centro vladimir cerrón', 'vladimir', 'vladimir) cerrón']"
+lava,11.02,"['lava jato', 'imágenes impresionantes lava', 'lava jato rafael vela', ""peru's prosecutor lava jato special prosecution"", 'la llegada de la colada de lava del volcán']"
+medio,10.92,['programa para el medio ambiente']
+selección,10.8,"['elección', 'selección peruana']"
+red,10.79,"['red almenara «no fui', 'red devils']"
+fase 2,10.73,"['fase', '2/2', 'fase 2 estamos']"
+justicia,10.52,"['junta nacional de justicia', 'justicia de ee uu', 'corte suprema de justicia de la república']"
+empresa,10.32,"['empresa estadounidense', 'la empresa']"
+corpus,10.280000000000001,"['habeas corpus', 'hábeas corpus']"
+méxico,10.28,"['ciudad de méxico', 'guerreros méxico', 'ciudad acuña méxico', 'fiscalía de méxico']"
+américa,10.25,"['américa latina', 'copa américa', 'américa hoy', 'copa américa 2019', 'américa latina  mujeres']"
+sheriff tiraspol,10.149999999999999,"['sheriff', 'tiraspol']"
+región,10.03,"['región cusco', 'padre abad región ucayali']"
+benfica,9.899999999999999,"['benfica video', 'próxima fecha b múnich benfica']"
+niño,9.87,['hospital del niño de breña']
+sesión,9.86,['pcm sesión']
+mar,9.72,['miguel magdalena del mar pueblo libre surquillo jesús maría chorrillos']
+agua,9.72,"['planta de tratamiento de agua potable', 'sistemas de agua potable', 'el aumento de la temperatura del agua']"
+tema,9.69,['el tema']
+callao,9.59,['callao hace']
+día mundial del corazón,9.3,"['corazón', 'día mundial del corazón cómo', 'día mundial del corazón tres', 'día mundial del corazón consejos', 'día mundial del corazón conoce', 'día mundial del corazón sabes']"
+hombre,9.299999999999999,['el hombre de 30 años']
+audiencia,9.239999999999998,"['centro audiencia', 'cócteles audiencia']"
+programa,9.120000000000001,"['programan', 'programa presupuestal', 'programa en nueva jersey']"
+reunión,9.090000000000002,['reunión maduro-castillo']
+cambio,8.98,"['cambios', 'cambio de canal', 'cambio de estación', 'el tipo de cambio']"
+hija,8.87,['el video de su hija']
+mira,8.83,"['mira en vivo', 'campo de marte mira', 'lxii mira', 'tv pública mira']"
+gas,8.74,['queremos que nuestro gas']
+dinámicos,8.69,"['dinámicos del centro', 'los dinámicos del centro', 'dinámico', 'ministerio público dinámicos del centro', 'los dinámicos del centro  al vuel']"
+la palma,8.67,"['palma', 'cumbre vieja de la palma', 'la palma españa']"
+mundo,8.62,"['bbc mundo', 'mundo de la mula']"
+bono,8.61,"['bono yanapay', 'bono familiar habitacional', 'bono niños 2021 cómo', 'bono techo propio 2021 link cómo', 'bono 350 beneficiarios', 'bono yanapay beneficiarios', 'link bono']"
+señor de los milagros,8.58,"['señor', 'milagros', 'el señor de los milagros']"
+volcán,8.41,['volcán cumbre vieja']
+joven,8.28,"['la joven activista', 'el joven']"
+proceso,8.21,"['proceso de regulación de los sistemas secundarios de transmisión', 'el proceso']"
+edición,8.16,"['edición matinal', 'medición', 'edición especial blended']"
+precio,8.110000000000001,"['precios', 'xiaomi pad 5 precio', 'preciso']"
+historia,8.03,"['la lista de los 10 máximos asistidores en la historia de la champions', 'historial', 'la historia de la acrobacia']"
+fm,7.92,['radio exitosa 955 fm  exitosa']
+balón de oro,7.85,"['balón', 'oro', 'balón de oro france football']"
+problema,7.84,"['problemas', 'el problema']"
+eeuu,7.819999999999999,['embajada de eeuu']
+informe,7.819999999999999,"['informe semanal', 'informe técnico n', 'informe matinal vuelve']"
+ley,7.81,"['31084 ley de presupuesto del sector público para el año fiscal', 'la ley', 'ley de presupuesto', 'texto único ordenado de la ley de promoción del acceso a la propiedad formal']"
+padre,7.6899999999999995,['britney spears padre']
+estados unidos,7.669999999999999,"['en estados unidos', 'senadores de estados unidos', 'vuelo juez de estados unidos', 'tribunal de estados unidos']"
+canciller,7.47,"['canciller maúrtua', 'canciller óscar maúrtua', 'cancillería']"
+victoria,7.44,"['victoria las muñecas', 'vecinos de la victoria', 'la victoria', 'buscando la victoria', 'gran victoria nacional']"
+sol,7.3999999999999995,['sol de palma']
+hospital,7.38,"['hospital rebagliati', 'hospital edgardo rebagliati', 'hospital rebagliati acusan', 'el hospital edgardo rebagliati', 'hospital las mercedes aldo borrero zeta', 'un residente del hospital', 'hospital regional']"
+álvaro paz de la barra,7.359999999999999,"['álvaro paz', 'paz de la barra', 'la paz', 'álvaro', 'la molina álvaro paz de la barra']"
+naranjal del metropolitano,7.33,"['metropolitano', 'estación naranjal del metropolitano', 'naranjal']"
+youtube,7.32,['youtuber']
+madre,7.24,"['isabel pantoja madre', 'mi madre  gino pesaressi', 'madre de']"
+imagen,7.1899999999999995,['encuentran imagen de la virgen']
+gabinete,7.16,"['gabinete ministerial', 'jefe del gabinete']"
+habea,7.1,['habeas']
+cristiano ronaldo,7.07,['cristiano']
+mensaje,7.069999999999999,['mensajes']
+venezolano,7.030000000000001,"['venezolana', 'venezolanos']"
+vía,7.029999999999999,"['vía evitamiento', 'vía evitamiento rímac', 'vía de evitamiento']"
+atención,7.0200000000000005,"['arturo morote atención', 'servicio nacional de atención integral a personas adultas privadas de libertad', 'atención mercado móvil']"
+entrevista,6.9799999999999995,"['javier torres entrevista', 'raúl tola entrevista']"
+casa,6.94,['casa blanca']
+control,6.85,['control de drogas']
+manchester united,6.8100000000000005,"['united', 'manchester', 'cristiano ronaldo manchester united']"
+nivel,6.789999999999999,['diálogo de alto nivel']
+mario vargas llosa,6.76,"['vargas llosa', 'mario vargas llosa “castillo', 'mario vargas llosa «castillo', 'mario vargas llosa «el comunismo']"
+titular,6.680000000000001,['la titular del']
+motín,6.67,['ecuador motín']
+decisión,6.64,['procuradora silvana carrión decisión']
+conductora,6.55,['conductor']
+exitosa,6.539999999999999,"['exitosa que vienen trabajando', 'exitosa mendoza', 'exitosa norte', 'exitosa que no es justo', 'exitosa sur', 'radio exitosa']"
+rusia,6.450000000000001,"['zenit de rusia', 'russia']"
+emporio comercial de gamarra,6.4,"['gamarra', 'emporio']"
+viceministro,6.39,"['viceministro rosell', 'viceministra']"
+acción,6.340000000000001,"['día de acción global', 'íber maraví acción popular', 'plan de acción de la cuenca llallimayo puno ayer', 'facción', 'acción popular']"
+profesor,6.34,['profesora']
+planta,6.33,"['planeta', 'plata']"
+servicio,6.3,['servicio nacional forestal']
+protocolo,6.199999999999999,['protocolo denominado']
+conferencia,6.199999999999999,['conferencia este']
+sofía franco,6.1499999999999995,['sofía']
+melissa paredes,6.13,['instagram melissa paredes']
+delincuente,6.07,['delincuentes']
+seguridad,6.03,['inseguridad']
+emoción,6.03,"['remoción', 'moción', 'lloramos de emoción beto da silva']"
+chile,6.01,"['necesito escapar de chile eso', 'chile bolivia']"
+comunidad,6.01,"['comunidad de madrid', 'comunidades', 'presidenta de la comunidad de madrid']"
+andrea san martín,5.96,['andrea']
+ciudadano,5.96,['ciudadanos']
+encuentro,5.9399999999999995,"['ii encuentro', 'reencuentro']"
+investigación,5.920000000000001,"['comisión parlamentaria de investigación', 'ministerio público y agentes de la división de investigación de delitos de alta complejidad', 'miguel torres moreno de la unidad de investigación de alta tecnología de la dirincri', 'tercer juzgado de investigación preparatoria']"
+colegio,5.84,"['colegio de abogados de áfrica', 'colegio de enfermeros', 'colegio de enfermeros edda cayotopa']"
+tribunal,5.81,"['tribuna', 'tribunal constitucional', 'tribunal superior de pereira', 'tribunal constitucional tv', 'tribunal registral denominado', 'tribunal de licencias']"
+economía,5.7700000000000005,"['economía y finanzas alfredo thorne', 'ministerio de economía', 'ministerio de economía y finanzas', 'economía popular', 'economía pedro francke', 'economía verde bla bla bla']"
+prisión,5.74,['prisión&gt&gt']
+óscar maúrtua,5.67,"['maúrtua', 'óscar maúrtua dice']"
+estrella torres,5.630000000000001,['estrella']
+temporada,5.61,['sex education” temporada 4']
+abogado,5.5600000000000005,"['laura bozzo abogado', 'mi abogado no me notificó']"
+dni,5.55,['cuenta dni']
+jefe,5.54,['jefe de estado']
+nota,5.53,['una nota de']
+médico,5.51,"['colegio médico eden galán-rodas', 'colegio médico', 'médicos']"
+comisión,5.489999999999999,"['comisión de ética', 'comisión política', 'comisión de fiscalización']"
+trabajador,5.46,['trabajadora']
+venezuela,5.44,['consejo nacional electoral de venezuela']
+el comercio suscríbete,5.44,"['suscríbete', 'comercio']"
+2021,5.43,"['premio nacional de la calidad 2021', 'premio nacional a la calidad 2021 conversamos', 'copa libertadores 2021', 'campeones cup 2021', 'panam challenge 2021', 'semana climática 2021']"
+excandidata,5.42,['candidata']
+mercado,5.4,"['mercados', 'mercado de flores']"
+amenaza,5.3999999999999995,['todo ello implica una amenaza']
+luz,5.38,"['estadio da luz de lisboa', 'nuestra luz', 'nuestra luz brilla con talleres de arte', 'estadio da luz']"
+proyecto,5.369999999999999,['proyecto amplify']
+premier,5.319999999999999,['premier bellido']
+dólar,5.3,['dólar blue']
+asistencia,5.29,['inasistencia']
+presencia,5.29,['presidencia']
+pareja,5.28,['ventanilla pareja']
+representante,5.2700000000000005,['representantes']
+marco,5.239999999999999,['marco zagal']
+crítica,5.16,['critica']
+cárcel,5.159999999999999,['los exteriores de la cárcel']
+rafael vela,5.120000000000001,"['vela', 'rafael vela &lt&lten', 'rafael vela  indica', 'rafael vela barba']"
+visita,5.09,['vista']
+pregunta,5.03,"['pregunta del día   los', 'preguntas', 'pregunta del día']"
+la libertad,4.93,"['libertad', 'editor de correo la libertad', 'gerencia regional de transportes de la libertad']"
+tarde,4.92,['noticias tarde']
+juan víctor,4.9,['juan víctor sánchez']
+sector,4.87,['presupuesto del sector']
+horario,4.859999999999999,['horarios']
+respuesta,4.84,['repuesta']
+ejecutivo,4.84,"['comité ejecutivo nacional del sutep', 'poder ejecutivo']"
+sebastián,4.78,"['sebastián lizarzaburu', 'sebastián bazalar']"
+guerra,4.75,"['hernando guerra garcía', 'esto es guerra “todos somos humanos y cometemos errores', 'nano guerra', 'segunda guerra mundial', 'paul neil herrera guerra']"
+juez,4.75,['juez thomas hixson']
+conoce,4.75,"['messi conoce', 'departamento de estado  conoce', 'independencia   conoce', 'tiraspol conoce', 'ee uu conoce', 'jaén conoce']"
+florida,4.71,"['orlando florida', 'enn orlando florida']"
+sergio peña,4.699999999999999,"['sergio peña vamos sergio', 'debut sergio peña']"
+cantante,4.6499999999999995,['el cantante de cumbia']
+vecino,4.63,['vecinos']
+rosell,4.62,['gustavo rosell']
+laura bozzo,4.61,['laura bozzo interpol']
+robo,4.609999999999999,['robo al milan']
+parlamentario,4.59,['parlamentaria']
+villarreal,4.58,"['villarreal video', 'villareal']"
+parque,4.57,"['parque ""sinchi roca']"
+agenda,4.5600000000000005,"['conoce aquí la agenda de actividades', 'agenda bicentenario 2021']"
+ipsos,4.51,"['ipsos-lampadia', 'encuesta de ipsos']"
+renegociación,4.5,['negociación']
+portada,4.48,['nuestra portada de hoy 29 de septiembre']
+alimento,4.44,['aliento']
+provincia,4.420000000000001,"['provincia de mendoza', 'provincia del santa', 'provincia de paita', 'provincia de cotabambas', 'provincia de cotahuasi']"
+periodista,4.42,['periodista de canal n']
+laliga,4.36,"['laliga santander', 'messi laliga']"
+cusco,4.359999999999999,"['of cusco', 'el cusco']"
+arequipa,4.35,"['honorio delgado espinoza de arequipa', 'áncash arequipa']"
+katy ugarte,4.34,"['katy ugarte mamani', 'jackeline katy ugarte', 'ugarte']"
+s/400,4.33,['s/']
+trujillo,4.3100000000000005,"['trujillo intervienen la gerencia regional de transportes', 'trujillo héctor dextre']"
+posición,4.27,['oposición']
+juventus,4.25,"['federico chiesa juventus', 'juventus chelsea']"
+clave,4.24,['claves']
+televisión,4.2299999999999995,['televisión digital terrestre']
+distrito,4.22,"['distrito del', 'distrito de lurigancho-chosica']"
+libro,4.180000000000001,"['feria del libro de guadalajara', 'pero el corazón del libro']"
+colombia,4.17,"['james colombia', 'colombia rueda']"
+forma,4.1499999999999995,['formas']
+estadio,4.13,"['estadio universitario', 'estadio\xa0  field']"
+poder judicial,4.1,"['centro poder judicial', 'judicial', 'poder judicial el ministerio público']"
+ciudad,4.08,"['terrazas ciudad de miraflores', 'ciudad imperial']"
+lionel messi,4.069999999999999,"['messi', 'lionel messi  tirado']"
+asamblea constituyente,4.05,['asamblea']
+ee,4.04,"['ee uu', 'ee uu científicos', 'tesoro de ee uu']"
+constitución,4.03,"['constitución lea', 'constitución política', 'por eso la nueva constitución', 'constitución sin']"
+actor,4.0200000000000005,['factor']
+carrera,4.02,['carreras']
+fuerza,3.96,"['fuerza popular', 'eduardo castillo fuerza popular']"
+público,3.91,['ministerio público']
+europa,3.9,['solo europa']
+martes,3.9,['marte']
+cámara,3.9,"['cámara de diputado', 'cámara de comercio', 'sala de la cámara de diputados']"
+línea,3.83,"['la línea jerárquica revela', 'línea- ipsos']"
+serie,3.82,['la academia serie de eeg']
+cifra,3.8099999999999996,['cifras']
+gisela valcárcel,3.8,['gisela']
+pleno,3.79,['pleno del']
+estación,3.77,['gestación']
+secretario,3.77,['secretario de']
+club,3.75,"['la gente del club', 'el club siempre me']"
+estudiante,3.75,['yo era estudiante en']
+españa,3.7,['canarias españa']
+víctima,3.6799999999999997,['la tercera víctima']
+promoción,3.6700000000000004,"['promoción del bienestar y reconocimiento docente', 'el ministerio de trabajo y promoción del empleo', 'trabajo y promoción del empleo']"
+junín,3.6300000000000003,"['gore junín el', 'áncash junín']"
+carrasco,3.62,"['juan carrasco', 'gabriel carrasco']"
+show,3.6100000000000003,"['reinas del show” bailarín', 'el gran show', 'reinas del show']"
+juego,3.6100000000000003,"['juegos', 'el juego del calamar']"
+plataforma,3.61,"['plataforma zoom', 'la plataforma de videos']"
+reporte,3.61,['report']
+pga seguro rápido,3.59,['seguro']
+triunfo,3.58,['villa maría del triunfo']
+negocio,3.57,['negocios']
+lucha,3.56,['fuerza especial de lucha contra el crimen']
+educación,3.56,['ministerio de educación']
+fútbol,3.5500000000000003,['liga femenina de fútbol']
+exmandatario,3.54,['mandatario']
+integrante,3.54,['exintegrante']
+universidad de berna,3.54,['universidad']
+voz,3.5300000000000002,['la voz senior']
+huancayo,3.52,['automóvil club huancayo']
+territorio,3.52,['territorios']
+delta,3.5199999999999996,['whatsapp delta 2021 cómo']
+darwin núñez,3.5,['darwin núñez(x2']
+derecho,3.5,['derechos']
+edad,3.48,['edad de hierro']
+reconciliación,3.46,['conciliación']
+bus,3.45,['bus de los chinos']
+sur,3.4499999999999997,"['cruz del sur', 'la reina del sur', 'universidad científica del sur', 'ocho sur', 'exposición internacional de inventos de mujeres de corea del sur', 'corea del sur']"
+britney spears,3.42,['britney spears tribunal']
+magaly medina,3.42,"['magaly', 'magaly medinano']"
+director,3.4000000000000004,['directo']
+denuncia,3.4,['denuncian']
+república centroafricana,3.39,['república']
+mañana,3.3899999999999997,['noticias mañana']
+regla,3.38,['regalía']
+río,3.37,"['del río', 'río llallimayo', 'río shirarini', 'río negro']"
+oea,3.37,['consejo permanente de la oea']
+terrorismo,3.36,['terrorismo-']
+alianza,3.36,"['alianza para el progreso', 'alianza atlético alianza atlético']"
+energía,3.36,['energía  no']
+hernán barcos,3.3499999999999996,"['barcos', 'caballeros hernán barcos']"
+producción,3.3499999999999996,"['ministerio de la producción', 'reproducción']"
+metro,3.31,['metros']
+koeman,3.29,['ronald koeman']
+senado,3.24,"['senador', 'senado de la república todos']"
+nación,3.23,"['nación wampís', 'la nación']"
+alemania,3.23,['alemania berlín']
+chiclayo,3.22,"['ugel chiclayo', 'chiclayo lambayeque']"
+puno,3.22,"['puno de', 'la dirección general de admisión de la una puno']"
+venta,3.1799999999999997,['fujimori por venta de']
+cercado,3.15,"['ruta miraflores-cercado', 'miraflores-cercado']"
+sistema,3.15,"['sistema de emisión electrónica de la guía de remisión electrónica para bienes fiscalizados', 'sistema nacional de evaluación acreditación', 'sistema de administración tributario']"
+minería,3.14,['minera']
+arma,3.09,['comité de las fuerzas arma']
+bayern múnich,3.08,"['bayern', 'goleada bayern múnich']"
+producto,3.08,['productor']
+nicolás maduro,3.07,['maduro']
+premio,3.07,"['premio nobel alternativo', 'premio n']"
+iphone 13,3.07,"['iphone', '13']"
+ministerio del interior,3.06,"['vivo ministerio del interior', 'ministerio', 'interior']"
+beneficio,3.0300000000000002,['beneficiado']
+comunicaciones,3.02,"['gerencia regional de transportes y comunicaciones', 'transportes y comunicaciones', 'ministerio de transportes y comunicaciones', 'comunicaciones juan silva']"
+reniec,3.0,['vivo reniec']
+los ángeles,2.98,"['ángeles', 'el condado los ángeles']"
+isla,2.98,"['isla de taquile', 'isla de wight']"
+rafa silva,2.95,['silva']
+chelsea,2.9400000000000004,['chelsea video']
+rebagliati,2.94,['diego rebagliati']
+decena,2.93,['decenas']
+zenit,2.9299999999999997,['zenit de san petersburgo']
+parlamento,2.92,"['parlamento alemán', 'consejo directivo del parlamento']"
+pensión,2.9099999999999997,['juntos pensión']
+pérdida,2.9,"['día internacional de concientización sobre pérdida y desperdicio de alimentos', 'día internacional de concienciación sobre la pérdida y el desperdicio de alimentos']"
+cumbre,2.88,['cumbre vieja']
+aldo corzo,2.87,['corzo']
+yotún,2.87,"['yoshimar yotún video', 'yoshimar yotún']"
+emisión,2.8600000000000003,['misión']
+independencia,2.8400000000000003,"['bicentenario de la independencia', 'independencia asaltan']"
+capacidad,2.84,['incapacidad']
+silvana carrión,2.84,"['carrión', 'odebrecht silvana carrión']"
+tommy portugal,2.83,['portugal']
+desarrollo,2.83,['ministerio de desarrollo e inclusión social']
+penal,2.81,"['penal ancón', 'juzgado penal unipersonal de canchis', 'juzgado penal unipersonal']"
+rímac,2.8,"['vivo vecinos del rímac', 'vecinos del rímac']"
+duelo,2.79,['duelo de gigantes']
+informa,2.79,['y a ti cómo te gusta el café  informa']
+diferencia,2.77,['diferencias']
+normas legales,2.76,['legales']
+melissa klug,2.7300000000000004,['melissa klug video']
+reinas,2.73,['reina']
+rico,2.7199999999999998,"['guerreros puerto rico', 'puerto rico']"
+fondo,2.71,['fondo del embajador']
+registro,2.69,"['registro alemán de autopsias', 'registro de hidrocarburos', 'registro nacional de identificación', 'registro de organizaciones políticas']"
+editorial intenciones,2.68,['editorial']
+dania calderón,2.6799999999999997,['dania calderón garcía']
+lapadula,2.67,['gianluca lapadula']
+harold forsyth,2.65,['forsyth']
+referéndum,2.65,"['referéndum inconstitucional lea', 'los promotores del referéndum']"
+m,2.65,"['m&ampa', 'má']"
+pfizer,2.63,['pfizer lea']
+gente,2.63,['agente']
+unidad,2.63,['unidad de banca individual de financiera confianza']
+camino,2.63,['camión']
+enfrentamiento,2.62,['el enfrentamiento']
+reportaje,2.6199999999999997,['a nuestro reportaje multimedia']
+brevet,2.61,['breve']
+corea del norte,2.5700000000000003,['norte']
+efe,2.56,"['agencia efe', 'foto efe']"
+torneo,2.56,['torno']
+respeto,2.5599999999999996,"[""balán' gonzales respeto""]"
+combustible,2.55,['federación sindical de la administración nacional de combustible']
+resolución,2.53,['resolución de superintendencia n']
+alcalde,2.52,['vivo alcalde muñoz']
+suiza,2.52,['universidad de suiza']
+cerebro,2.52,['el cerebro infantil']
+consorcio,2.51,['consorcio santa rosa']
+firma,2.51,['aquí te enseñamos a registrar tu firma']
+beneficiario,2.49,"['cómo saber si soy beneficiario', 'beneficiarios']"
+conare,2.49,"['conare-sute', 'conare sutep']"
+consulta,2.47,['consulta sisfoh']
+concurso,2.4699999999999998,['concurso nacional de buenas prácticas docentes conversamos']
+procuradora,2.4699999999999998,"['exprocuradora', 'procuraduría']"
+estabilidad,2.46,['inestabilidad']
+sendero luminoso,2.45,['sendero luminoso arturo morote']
+vocero,2.43,['verónika – i vocero']
+techo propio,2.4000000000000004,['techo']
+desafío,2.4,['nuestro desafío climático']
+california,2.37,['long beach california']
+doctorado,2.36,['doctorado en epidemiología climática']
+gabriela herrera “estar,2.35,"['gabriela herrera ""estar seguro', 'gabriela herrera', 'herrera']"
+transporte,2.35,"['autoridad de transporte urbano', 'transportes']"
+tierra,2.34,['la tierra']
+océano,2.32,['océano atlántico']
+departamento de estado,2.31,['departamento']
+liga de campeones,2.31,['liga']
+banco,2.27,"['banco mundial', 'blanco', 'monumental banco pichincha']"
+vinculación,2.27,['inoculación']
+revista,2.25,['revisa']
+palabra,2.25,['palabras']
+manchester city,2.22,['city']
+español,2.2199999999999998,['instituto español de oceanografía']
+sicarios,2.21,['sicario']
+continente,2.21,['estado del continente']
+futbolista,2.19,['exfutbolista']
+star+,2.19,['star globalcom c12']
+diana sánchez,2.19,['sánchez']
+disney+,2.19,"['disney plus', 'disney']"
+asesor,2.19,['asesora']
+guerrero,2.17,"['guerreros', 'rafa guerrero']"
+transmisión,2.17,['sistemas complementarios de transmisión']
+monstruo,2.14,['monstruo de las nieves']
+cooperación,2.12,['cooperacción']
+el salvador,2.12,['villa el salvador']
+prestación,2.1100000000000003,['presentación']
+norma yarrow,2.11,"['yarrow', 'norma']"
+prevent senior,2.08,['senior']
+junta,2.08,"['junta administradora de servicios de saneamiento de porvenir supe', 'junta de portavoces']"
+atestado,2.07,['atestados']
+sorteo,2.07,['sorteo  ingresa']
+corte,2.06,['corte inglés']
+mbappé,2.06,['kylian mbappé']
+getty images,2.0500000000000003,"['getty', 'images']"
+reconstrucción,2.05,['construcción']
+explotación,2.04,"['exploración', 'exportación']"
+crimen,2.04,['el músico declarado culpable de crimen']
+peru president leads coordination meeting with deputy ministers,2.04,"['leads', 'peru']"
+paracas clausuran,2.0300000000000002,['paracas']
+memoria,2.03,['la memoria del olvido']
+elementos del escuadrón móvil antidisturbios,2.03,['móvil']
+debate,2.02,['un debate constituyente']
+reconocimiento,2.0100000000000002,['conocimiento']
+milett figueroa,2.0,['millett figueroa']
+plantel,1.99,['plante']
+escuela,1.98,['escuela isil']
+dinamo de kiev,1.98,['dinamo kiev']
+responsable,1.98,['el responsable de la']
+patrimonio,1.97,['matrimonio']
+evolución,1.97,['devolución']
+quino,1.96,"['quino joaquin salvador lavado', 'quinto']"
+/ju,1.96,"['promesas""/ju']"
+bloqueo,1.94,['bloque']
+afp,1.93,['foto afp']
+sociedad,1.9200000000000002,"['sociedad alemana de patología', 'sociedad nacional de radio']"
+maela,1.92,"['maela""más']"
+ministra,1.92,['ministra durand']
+compañía,1.9100000000000001,['la compañía']
+calidad,1.9100000000000001,['calidad educativa']
+biden,1.8800000000000001,"['joe biden', 'administración biden']"
+vamoooos,1.88,['vamooos']
+2022,1.87,['juegos olímpicos de invierno de pekín 2022']
+cajamarca,1.86,['cajamarca mesías guevara']
+patricia chirinos,1.8599999999999999,['chirinos']
+peligro,1.85,['peligr']
+clausura,1.85,['clausuran']
+jorge montoya,1.84,"['jorge montoya de renovación popular', 'jorge']"
+movistar,1.84,['movistar tv c12 sd']
+coordinador,1.84,['el fiscal coordinador del']
+ricardo gareca,1.8199999999999998,['gareca']
+carpintero,1.8199999999999998,['pájaro carpintero real']
+áfrica,1.81,['fábrica']
+carlos anderson,1.79,['carlos ánderson']
+rodrigo gonzález,1.7799999999999998,['rodrigo']
+felicidad,1.77,['felicidades']
+manifestante,1.77,['manifestantes']
+domingo,1.7599999999999998,['este domingo']
+análisis,1.75,['ahí se puede entrar a un análisis minucioso']
+eliminatoria,1.75,['eliminatorias']
+andré bretón surrealismo,1.73,['surrealismo']
+mesa,1.72,['mesa&gt&gt']
+rueda,1.7,"['reinaldo rueda', 'eliminatorias reinaldo rueda']"
+grado,1.7,['agrado']
+decreto supremo,1.68,['decreto']
+soltería,1.67,['estoy soltera…']
+poder legislativo,1.67,['legislativo']
+thomas s hixson,1.6600000000000001,"['thomas hixson', 'hixson']"
+iglesia,1.65,['iglesia de las nazarenas']
+puerto,1.6400000000000001,"['puerto príncipe', 'supe puerto']"
+av grau,1.6400000000000001,['av']
+atracción,1.6400000000000001,['ser una atracción turística']
+trump,1.63,"['donald trump', 'la represión de trump']"
+farfán,1.62,['jefferson farfán “a']
+la resaca,1.62,['resaca']
+general,1.6199999999999999,['dirección general de electricidad']
+fumio kishida,1.6099999999999999,['fumio']
+marca,1.5899999999999999,['marcha']
+nicolás lúcar,1.58,['lúcar']
+christian domínguez,1.5799999999999998,['christian']
+águila,1.57,['águilas']
+las bambas,1.56,"['mmg las bambas', 'bambas']"
+alejandra baigorria,1.56,['alejandra']
+malmo,1.55,['malmo video']
+ejercicio,1.55,['ejercicio multinacional unitas']
+puente solivín,1.5499999999999998,['puente']
+foto archivo gec,1.54,['archivo']
+fotografía,1.54,['fotógrafa']
+dt de sheriff,1.54,['sheriff de']
+más→,1.54,['qué reciben los pequeños de las aldeas más remotas']
+festival de cine latinoamericano de biarritz,1.54,"['latinoamericano', 'cine']"
+martín vizcarra,1.5299999999999998,['martín vizcarra mirian morales']
+máximo,1.52,['máximo torres']
+conjunto,1.52,['el conjunto de']
+apuesta,1.5100000000000002,['puesta']
+ministerio de trabajo,1.51,['twitter ministerio de trabajo']
+greys anatomy,1.51,"[""grey's anatomy""]"
+medicina natural,1.51,['medicina']
+legado,1.5,['aquí recordamos el legado']
+juan guaidó,1.5,['guaidó']
+asociación,1.4900000000000002,['asociación dignidad humana y solidaridad']
+empresario,1.4900000000000002,['empresaria']
+inspección,1.49,['vivo inspección']
+gerente,1.48,['gerente deportivo']
+buenos días esta,1.48,['buenos días']
+organismo,1.4700000000000002,['organismo internacional']
+laura grados,1.46,['6pm laura grados']
+cuidado,1.4500000000000002,['cuidado mujeres']
+agencia,1.4300000000000002,['agencias']
+día nacional del café,1.4200000000000002,['nacional']
+vídeo,1.42,['vídeo huachipa']
+jesús oropesa dt,1.42,['jesús oropesa']
+chicago,1.4100000000000001,['chicago fire']
+rosángela espinoza “no me siento cómoda,1.4100000000000001,['rosángela espinoza']
+distribución,1.41,"['sectores de distribución típicos', 'valor agregado de distribución']"
+ejército,1.4000000000000001,['el ejército surcoreano']
+android,1.4,['android cómo']
+google,1.4,['google earth']
+conciencia,1.3900000000000001,['inconciencia']
+colombiana,1.3900000000000001,['colombiano']
+portal,1.3900000000000001,['porta']
+los tramitadores intocables,1.39,['tramitadores intocables']
+juzgado,1.38,['juzgado de canchis sin']
+devoto,1.38,['devotos']
+anexo b,1.37,['b+']
+tratamiento,1.37,['tratamiento de las aguas residuales']
+ambiente,1.37,['ministerio del ambiente']
+moldavia,1.3499999999999999,"['el sheriff de moldavia', 'sheriff de moldavia']"
+malmö,1.3399999999999999,['el malmö']
+karem roca,1.33,['karem']
+essalud,1.32,['essalud el']
+humano,1.31,['humanos']
+facebook,1.31,['facebook live  envíanos']
+angela merkel,1.3,"['angela', 'merkel']"
+únete,1.3,['‼ únete']
+viaje,1.2999999999999998,['viajes']
+papa francisco,1.29,"['francisco', 'papa']"
+atlético grau,1.29,['atlético']
+/es,1.29,['es página']
+champions video,1.29,['video→']
+multa,1.28,['muleta']
+james bond,1.27,['james bond carlos de inglaterra']
+williams,1.26,"['william', 'josé williams']"
+sé parte de la,1.24,['ser parte de la']
+fuente,1.23,['luis la fuente']
+old trafford,1.22,['old trafford alcácer']
+alberto fujimori,1.22,['alberto']
+boluarte,1.22,['dina boluarte']
+dama,1.22,['primera dama']
+no te lo pierdas,1.22,"['no te pierdas esto', 'no te pierdas']"
+julio,1.21,['todos desde el señor julio guzmán']
+demócrata,1.21,['demócratas']
+radio,1.2,['radio panamericana']
+espn,1.2,['espn a']
+costa,1.19,['mariana costa checa']
+pablo de la flor,1.1800000000000002,['flor']
+panam challenge,1.18,['panamá']
+ica,1.18,['universidad san luis gonzaga de ica']
+round robin,1.18,['round robin  anotaciones  maru montes']
+alison reyes-,1.17,['reyes']
+cholo sano,1.17,['cholo']
+sueldo,1.17,['suelo']
+caja de pensiones militar policial,1.1600000000000001,"['militar', 'caja']"
+interno,1.1600000000000001,['internos']
+generación,1.15,['jalisco nueva generación']
+cassandra sánchez de lamadrid esta,1.15,['cassandra sánchez']
+jorge chávez,1.1400000000000001,"['jorge chávez tamariz', 'chávez']"
+sutep lucio castro,1.1400000000000001,"['lucio castro', 'sutep']"
+guardiola,1.14,['pep guardiola']
+balán gonzales,1.13,['balán gonzáles']
+burnout,1.13,['burnout entérate']
+atlanta,1.13,['atalanta']
+municipalidad provincial de chupaca,1.13,['municipalidad']
+sagrado,1.12,['valle sagrado de los incas']
+cóctel,1.12,['coctel']
+guías del bosque,1.11,['bosque']
+reserva federal,1.1099999999999999,['reserva']
+defensora,1.1099999999999999,['defensor']
+ritmo,1.1099999999999999,['buen ritmo']
+litoral,1.1,['penitenciaria del litoral']
+ancón,1.1,['ancón 1']
+mark milley,1.1,['mark milley kenneth mckenzie']
+romero-,1.1,['ingrid romero manco']
+gerencia,1.1,['gerencia regional de transportes']
+premios emmy,1.1,['emmy']
+mi primera mejor amiga,1.1,['amiga']
+santa rosa,1.0899999999999999,['rosa']
+lo mejor,1.0899999999999999,['lío']
+ruta,1.08,['ruta c']
+expropiación,1.08,['sí a la expropiación']
+pelé,1.08,"[""edson arantes do nascimento 'pelé""]"
+evergrande,1.08,['evergrande group']
+susy díaz,1.0699999999999998,['díaz']
+kim jong un,1.0699999999999998,['kim jong-un']
+stephanie medina gino tassara,1.06,['stephanie']
+centro presidencial obama,1.06,['obama']
+ii,1.05,['isabel ii']
+san juan de miraflores sujetos,1.05,['miraflores']
+gareca dale,1.05,['dale']
+killa cuba,1.04,['cuba']
+ni yo me la creo,1.04,['niñ']
+kelly,1.03,['r kelly']
+campeonato,1.03,['campeonato mundial junior']
+ancelotti,1.03,['dani carvajal ancelotti']
+punta cana,1.02,['punta']
+columbus crew,1.01,['columbs crew']
+estoy absolutamente seguro de mi inocencia,1.01,['inocencia']
+complejo,1.01,['complejo turístico de quistococha']
+muñoz,1.01,['vanessa muñoz']
+cruz azul,1.01,['campeones cup cruz azul']
+gabby petito,1.0,['petito']
+proveedor,1.0,"['proveedores', 'proveedora']"
+derrumbe,1.0,['derrumbes']
+brazo,1.0,['abrazo']
+juan francisco silva,0.98,['juan silva']
+kori  korina rivadeneira,0.98,['korina rivadeneira']
+decrecimiento,0.98,['crecimiento']
+doctor milagro,0.97,['doctor']
+panamericana,0.97,['copa panamericana']
+luis garcía miró elguera,0.9600000000000001,['luis garcía']
+cuto guadalupe,0.96,['guadalupe']
+a(25-20,0.95,['a-']
+reinscripción,0.94,['inscripción']
+super,0.93,['super junior d&ampe']
+kuyt,0.93,['dirk kuyt']
+kurt,0.9299999999999999,['kurt villavicencio']
+adriana,0.9299999999999999,['adriana león']
+apple podcast,0.9299999999999999,['apple']
+cártel,0.9299999999999999,['cartel']
+puente piedra,0.9199999999999999,['piedra']
+día mundial del turismo,0.91,['turismo']
+esterilizaciones,0.9,['esterilización']
+open covid,0.8999999999999999,['open']
+ariana lira delcore   suscríbete,0.8999999999999999,['ariana lira delcore']
+de humo,0.8999999999999999,['humo']
+reactor,0.8900000000000001,['rector']
+andina,0.89,['foto andina/ andrés valle']
+masacre,0.89,['la masacre']
+la academia,0.89,['academia']
+diccionario,0.8899999999999999,"[""pluriverso' un diccionario del posdesarrollo""]"
+financiera confianza,0.8899999999999999,['confianza']
+centro penitenciario de guayas,0.87,['guayas']
+lucy bacigalupo,0.87,['lucy']
+lituania,0.87,['mundial de futsal lituania']
+ps5 ps4 pc xbox ios,0.8600000000000001,['ios']
+mente,0.86,['saludable mente']
+bonucci,0.86,['leonardo bonucci']
+hae soo de squid game,0.86,['squid game']
+galán,0.8500000000000001,['eden galán rodas']
+sentenció,0.85,['sentencia']
+no time to die,0.85,['tío']
+autor,0.84,['autora']
+mundial de voleibol sub 18 los aztecas,0.84,['mundial de voleibol sub 18 las']
+oliverio,0.8300000000000001,['oliverio mayta']
+rey león,0.8300000000000001,['rey']
+lewandowski,0.8300000000000001,['robert lewandowski']
+mega,0.8300000000000001,['mega plaza real plaza jockey plaza']
+exembajador,0.83,['embajador']
+lineamientos,0.83,['lineamiento']
+el conocimiento debe quedar en las organizaciones sociales,0.8200000000000001,['organizaciones']
+lote 64 buscará,0.8200000000000001,['lote']
+protección,0.8200000000000001,['protección de la propiedad intelectual']
+bienvenido,0.8200000000000001,['bienvenida']
+narrativas,0.82,['narrativa']
+el caso queda en manos del,0.81,['queda']
+global plywood and lumber trading,0.8,['global plywood and lumber trading llc']
+comerciantes,0.8,['comerciante']
+karem barboza quiroz,0.8,['barboza']
+alicia cox de larco,0.8,['alicia']
+once,0.79,['el once']
+periodo,0.78,['período']
+cristo moreno,0.77,['cristo moreno en las nazarenas']
+rakitic,0.77,['ivan rakitic']
+temor,0.77,['sin ningún temor']
+estadísticas,0.77,['estadística']
+principios,0.76,['principio']
+montevideo,0.76,['montevideo miami']
+aníbal torres,0.76,['aníbal torres vásquez']
+chiesa,0.76,['federico chiesa']
+factura,0.73,['fractura']
+maría mercedes mamani humpiri,0.73,['maría mamani humpiri']
+borges,0.72,['jorge luis borges']
+dios,0.72,['san juan de dios']
+ad hoc,0.72,['procuraduría ad hoc']
+talla,0.71,['toalla']
+xii salón de cacao,0.71,['cacao']
+russia today,0.71,['today']
+la soberanía alimentaria,0.7,['soberanía']
+isabel díaz ayuso,0.7,['isabel díaz']
+selva,0.7,['la selva']
+sindicato,0.7,['sindicato unitario de trabajadores']
+señora,0.69,['vieja señora']
+ministerio de cultura,0.69,['cultura']
+zuckerberg,0.69,['mark zuckerberg']
+pico de marfil,0.69,['pico']
+luna,0.69,['nil luna']
+armas,0.69,['ana de armas']
+declaraciones se,0.69,['por un lado están las declaraciones']
+liolaemus,0.68,['liolaemus warjantay']
+josé ricapa,0.6799999999999999,['josé ricapa de']
+gooooooooool,0.6799999999999999,['goooooooool']
+1200 pm,0.66,['200 pm']
+monumento,0.6599999999999999,['sechín el monumento arqueológico sechín']
+danièle obono,0.62,['obono']
+jara,0.58,['víctor jara']

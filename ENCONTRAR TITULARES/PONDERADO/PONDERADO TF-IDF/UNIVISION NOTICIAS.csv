@@ -1,0 +1,324 @@
+,Word,Ponderado
+0,año,2.24
+1,florida,2.06
+2,niño,2.04
+3,informa,1.87
+4,hombre,1.8
+5,miya marcano,1.74
+6,eeuu,1.67
+7,policía,1.34
+8,información,1.26
+9,día,1.25
+10,joven,1.22
+11,sangre,1.14
+12,texas,1.07
+13,caso,1.04
+14,detalle,1.04
+15,familia,1.04
+16,habitación,1.04
+17,gobierno,1.03
+18,día nacional del café,1.02
+19,miércoles,1.02
+20,murciélago,1.01
+21,rabia,1.01
+22,septiembre,1.01
+23,imagen,1.0
+24,migrant,1.0
+25,autoridad,0.95
+26,vida,0.94
+27,vacuna,0.92
+28,plomo,0.91
+29,vez,0.87
+30,estudio,0.85
+31,persona,0.85
+32,cámara,0.83
+33,pandemia,0.83
+34,inmigrante,0.81
+35,mes,0.81
+36,minuto,0.8
+37,california,0.79
+38,ayuda,0.76
+39,especie,0.76
+40,padre,0.76
+41,auto,0.75
+42,aumento,0.74
+43,cita,0.74
+44,coronavirus,0.74
+45,familiar,0.74
+46,tacita,0.74
+47,pareja,0.72
+48,salud,0.71
+49,sospechoso,0.71
+50,aire,0.7
+51,lucha,0.7
+52,senado,0.7
+53,fda,0.69
+54,pfizer,0.69
+55,causa,0.66
+56,$,0.65
+57,mano,0.63
+58,mascarilla,0.63
+59,trabajadora,0.63
+60,viernes,0.62
+61,albergue,0.61
+62,video,0.61
+63,youtube,0.61
+64,cuello,0.56
+65,lava,0.56
+66,situación,0.56
+67,leucemia,0.54
+68,médula,0.54
+69,nivel,0.54
+70,trasplante,0.54
+71,clave,0.53
+72,gobernador,0.53
+73,política,0.53
+74,apple podcast,0.52
+75,noticia,0.52
+76,spotify,0.52
+77,amor,0.51
+78,carpintero,0.51
+79,línea,0.51
+80,pájaro,0.51
+81,real,0.51
+82,restricción,0.51
+83,arresto,0.5
+84,ganador,0.5
+85,haití,0.5
+86,impulso,0.5
+87,lotería,0.5
+88,premio,0.5
+89,república dominicana,0.5
+90,seguridad,0.5
+91,suerte,0.5
+92,teléfono,0.5
+93,valla,0.5
+94,asilo,0.49
+95,méxico,0.49
+96,delito,0.48
+97,gabby petito,0.48
+98,juez,0.48
+99,parque,0.48
+100,acuerdo,0.47
+101,arma,0.47
+102,enfermero,0.47
+103,fabricante,0.47
+104,juicio,0.47
+105,paciente,0.47
+106,ancestro,0.46
+107,atención,0.46
+108,descendencia,0.46
+109,envenenamiento,0.46
+110,hallazgo,0.46
+111,móvil,0.46
+112,orlando florida,0.46
+113,parentesco,0.46
+114,red,0.46
+115,usas,0.46
+116,vajilla,0.46
+117,almohada,0.45
+118,llama,0.45
+119,punto,0.45
+120,vivo,0.45
+121,descarrilamiento,0.44
+122,matrimonio,0.44
+123,montana,0.44
+124,tren,0.44
+125,asesora,0.42
+126,britney spears,0.42
+127,crisis,0.42
+128,del río,0.42
+129,dificultad,0.42
+130,frontera,0.42
+131,indocumentado,0.42
+132,jueza,0.42
+133,julia de burgos,0.42
+134,millón,0.42
+135,obama,0.42
+136,patrimonio,0.42
+137,poema,0.42
+138,propuesta,0.42
+139,puerto rico,0.42
+140,sueño,0.42
+141,tutor,0.42
+142,agencia,0.41
+143,cartel,0.41
+144,demanda,0.41
+145,desantis,0.41
+146,economía,0.41
+147,elemento,0.41
+148,entidad,0.41
+149,escuela,0.41
+150,exposición,0.41
+151,grado,0.41
+152,incremento,0.41
+153,indignación,0.41
+154,jardinero,0.41
+155,límite,0.41
+156,marca,0.41
+157,niñera,0.41
+158,orden,0.41
+159,papá,0.41
+160,precio,0.41
+161,problema,0.41
+162,repunte,0.41
+163,reubicación,0.41
+164,suma,0.41
+165,tocineta,0.41
+166,vigilancia,0.41
+167,2004,0.4
+168,búsqueda,0.4
+169,covid-19,0.4
+170,decenas,0.4
+171,definición,0.4
+172,empresario,0.4
+173,falso,0.4
+174,voluntario,0.4
+175,agente,0.38
+176,arte,0.38
+177,bebida,0.38
+178,cocaína,0.38
+179,droga,0.38
+180,dólares,0.38
+181,envío,0.38
+182,fecha,0.38
+183,informante,0.38
+184,oferta,0.38
+185,soborno,0.38
+186,tienda,0.38
+187,y a ti cómo te gusta el café  informa,0.38
+188,arco,0.37
+189,arlington,0.37
+190,carro,0.37
+191,dallas,0.37
+192,embargo,0.37
+193,enfermedad,0.37
+194,estado,0.37
+195,flecha,0.37
+196,fort worth,0.37
+197,fuente,0.37
+198,funcionario,0.37
+199,localidad,0.37
+200,promedio,0.37
+201,puente,0.37
+202,tensión,0.37
+203,vives,0.37
+204,accidente,0.36
+205,afganistán,0.36
+206,aniversario,0.36
+207,bala,0.36
+208,cabeza,0.36
+209,casados,0.36
+210,cecilia bernal,0.36
+211,colegio,0.36
+212,distrito,0.36
+213,esposa,0.36
+214,georgia,0.36
+215,hija,0.36
+216,la tercera víctima,0.36
+217,long beach california,0.36
+218,madre,0.36
+219,manuela rodríguez,0.36
+220,oficial,0.36
+221,parte,0.36
+222,temor,0.36
+223,apoyo,0.35
+224,asunto,0.35
+225,bebé,0.35
+226,collar,0.35
+227,conferencia,0.35
+228,contrarreloj,0.35
+229,demócratas,0.35
+230,desaparición,0.35
+231,desempleado,0.35
+232,deuda,0.35
+233,empleada,0.35
+234,escasez,0.35
+235,esfuerzo,0.35
+236,fondo,0.35
+237,fractura,0.35
+238,guardería,0.35
+239,maltrato,0.35
+240,medida,0.35
+241,nueva york,0.35
+242,obra,0.35
+243,petito,0.35
+244,pierna,0.35
+245,plan,0.35
+246,prensa,0.35
+247,programa en nueva jersey,0.35
+248,regresa,0.35
+249,signo,0.35
+250,víctima,0.35
+251,anciano,0.34
+252,animal,0.34
+253,en estados unidos,0.34
+254,encuentro,0.34
+255,hogar,0.34
+256,kate middleton,0.34
+257,kentucky,0.34
+258,marzo,0.34
+259,príncipe,0.34
+260,r1,0.34
+261,serpiente,0.34
+262,sin ningún temor,0.34
+263,tarántula,0.34
+264,variante,0.34
+265,william,0.34
+266,6pm,0.33
+267,banda,0.33
+268,centro,0.33
+269,control,0.33
+270,disputa,0.33
+271,efecto,0.33
+272,el enfrentamiento,0.33
+273,experto,0.33
+274,facebook live  envíanos,0.33
+275,hora,0.33
+276,inmediación,0.33
+277,jueves,0.33
+278,motín,0.33
+279,operativo,0.33
+280,pregunta,0.33
+281,ataque,0.32
+282,autora,0.32
+283,basura,0.32
+284,caimán,0.32
+285,casa blanca,0.32
+286,contenedor,0.32
+287,el aumento de la temperatura del agua,0.32
+288,expresidente,0.32
+289,gestión,0.32
+290,grisham,0.32
+291,hazaña,0.32
+292,hijo,0.32
+293,idaho,0.32
+294,internet,0.32
+295,la palma españa,0.32
+296,libro,0.32
+297,mar,0.32
+298,nieve,0.32
+299,principio,0.32
+300,pronostican lluvia,0.32
+301,sensación,0.32
+302,stephanie,0.32
+303,tengo,0.32
+304,trump,0.32
+305,volcán cumbre vieja,0.32
+306,agua,0.3
+307,calidad,0.3
+308,canarias españa,0.3
+309,colada,0.3
+310,contacto,0.3
+311,formación,0.3
+312,isla,0.3
+313,la palma,0.3
+314,nube,0.3
+315,dato,0.29
+316,efectividad,0.29
+317,el condado los ángeles,0.29
+318,lugar,0.29
+319,mandato,0.29
+320,restaurante,0.29
+321,teatro,0.29
+322,vacunación,0.29
