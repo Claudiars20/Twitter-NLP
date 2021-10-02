@@ -1,6 +1,6 @@
-# Encontrar titulares - Twitter
+# Find Headlines - Twitter
 
-## Orden de Ejecución
+## Execution order
 1. `CORPUS CREATOR.py`
 2. `PREPROCESADO.py`
 3. `BOW - WORDCLOUD.py`
@@ -8,16 +8,16 @@
 5. `LDA.py`
 6. `FIND TITULAR.py`
 
-## Descripción de Archivos .py
+## File Description .py
 
-- 📎 `CORPUS CREATOR.py`: Crea Corpus de tweets de un determinado día(hora peruana) a partir de las cuentas de twitter de noticiarios peruanos y mundiales, se encuentra en: 📁`CUENTAS DE TWITTER/CUENTAS.csv`. El Corpus creado se almacena en la carpeta 📁`CORPUS` en archivos .json.
+- 📎 `CORPUS CREATOR.py`: Creates a Corpus of tweets of a certain day (Peruvian time) from the twitter accounts of Peruvian and world newscasts, it is located in: 📁`CUENTAS DE TWITTER/CUENTAS.csv`. The created Corpus is stored in the folder 📁`CORPUS` in files .json.
 
-- 📎 `PREPROCESADO.py`: Realiza el preprocesado de los tweets ubicados en 📁`CORPUS`, limpiando ruido e identificando keywords. El resultado de los keywords se encuentra en: 📁`CORPUS-PREPROCESADO`, en estos se almacenan las keywords, n° de retweets, n° de likes, url de la noticia de cada tweet en archivo .json.
+- 📎 `PREPROCESADO.py`: Performs the preprocessing of the tweets located in 📁`CORPUS`, cleaning noise and identifying keywords. The result of the keywords is in: 📁`CORPUS-PREPROCESADO`, In these are stored the keywords, number of retweets, number of likes, url of the news of each tweet in files .json.
 
-- 📎 `BOW - WORDCLOUD.py`: Realiza el ponderado de los keywords ubicados en 📁`CORPUS-PREPROCESADO` usando TF-IDF, este resultado se encuentra en: 📁`MATRICES` en archivos .csv, y el resumen de este se encuentra en 📁`PONDERADO/PONDERADO TF-IDF`. Con el resultado de TF-IDF obtenemos nubes de palabras, el resultado se encuentra en: 📁`NUBE DE PALABRAS`.
+- 📎 `BOW - WORDCLOUD.py`: Performs the weighted of the keywords located in 📁`CORPUS-PREPROCESADO` using TF-IDF, this result is found in: 📁`MATRICES` in files .csv, and the summary of this is in 📁`PONDERADO/PONDERADO TF-IDF`. With the result of TF-IDF we obtain word clouds, the result is in: 📁`NUBE DE PALABRAS`.
 
-- 📎 `PONDERADO +.py`: Este archivo es una mejora del ponderado obtenido en 📁`PONDERADO/PONDERADO TF-IDF` y se además se generaliza en tópicos (GENERAL, POLITICA, DEPORTE, FARANDULA, MUNDIAL). Esta mejora se realizó con la aplicación de Fuzzy-Matching con un umbral de >= 90% de similitud y eliminación de stopwords 📎`StopWordsTW.txt`. El resultado del ponderado mejorado se encuentra en: 📁`PONDERADO/PONDERADO +`.
+- 📎 `PONDERADO +.py`: This file is an improvement of the weighted obtained in 📁`PONDERADO/PONDERADO TF-IDF` and it is also generalized in topics (GENERAL, POLITICS, SPORTS, FARANDULA, WORLDWIDE). This improvement was made with the Fuzzy-Matching application with a threshold of >= 90% similarity and elimination of stopwords 📎`StopWordsTW.txt`. The result of the improved weighted is in: 📁`PONDERADO/PONDERADO +`.
 
-- 📎 `LDA.py`: Realiza el Topic Modeling de los keywords ponderados que se encuentra en: 📁`PONDERADO/PONDERADO +`. Para aplicar de manera correcta primeramente se obtiene el contexto de cada keyword 📁`PONDERADO/PONDERADO CON CONTEXTO`, luego se realiza la división de tópicos por LDA 📁`PONDERADO/PONDERADO CON LDA`. Como resultado final se tiene las keywords con arreglos de su tópico al que pertenece, el resultado se encuentra en: 📁`PONDERADO/PONDERADO KEYS + LDA`.
+- 📎 `LDA.py`: Carry out the Topic Modeling of the weighted keywords found in: 📁`PONDERADO/PONDERADO +`. To apply correctly, the context of each keyword is first obtained 📁`PONDERADO/PONDERADO CON CONTEXTO`, then the topics are divided by LDA 📁`PONDERADO/PONDERADO CON LDA`. As a final result you have the keywords with arrangements of the topic to which it belongs, the result is in: 📁`PONDERADO/PONDERADO KEYS + LDA`.
 
-- 📎 `FIND TITULAR.py`: Encuentra titulares a partir de los tweets preprocesados ubicados en: 📁`CORPUS-PREPROCESADO`. Para la obtención óptima: se restringe las keywords con topic modeling en: 📁`PONDERADO/PONDERADO KEYS + LDA` para evitar la repetición de estos, se aplica wordnet para realizar búsquedas con palabras del contexto pertenecientes a las keywords. Para encontrar el tweet mas relevante se aplica la heurística: 👍*1 + 🔁*3. La obtenión de estos titulares se encuentra en: `TITULARES_TF-IDF.csv`.
+- 📎 `FIND TITULAR.py`: Find headlines from pre-processed tweets located in: 📁`CORPUS-PREPROCESADO`. For optimal obtaining: keywords are restricted with topic modeling in: 📁`PONDERADO/PONDERADO KEYS + LDA` To avoid the repetition of these, wordnet is applied to search with words from the context belonging to the keywords. To find the most relevant tweet, the heuristic is applied: 👍*1 + 🔁*3. Obtaining these headlines is in: `TITULARES_TF-IDF.csv`.
