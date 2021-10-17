@@ -1,0 +1,55 @@
+Keyword,Words Topico
+covid-19,"['covid-19', 'muerte']"
+presidente,"['presidente', 'pedro castillo', 'mediodía']"
+gobierno,['gobierno']
+pedro castillo,"['presidente', 'pedro castillo', 'mediodía']"
+miércoles,"['miércoles', 'sol']"
+congreso,"['congreso', 'gabinete']"
+iber maraví,"['iber maraví', 'mira en vivo']"
+gustavo dulanto,"['gustavo dulanto', 'sheriff tiraspol']"
+congresista,['congresista']
+mujer,['mujer']
+policía,"['policía', 'empresa']"
+partido,"['partido', 'equipo', 'cristiano ronaldo']"
+fm,['fm']
+equipo,"['partido', 'equipo', 'cristiano ronaldo']"
+barcelona,"['barcelona', 'benfica']"
+muerte,"['covid-19', 'muerte']"
+información,['información']
+defensa,['defensa']
+fiscalía,"['fiscalía', 'dinámicos del centro']"
+mediodía,"['presidente', 'pedro castillo', 'mediodía']"
+vida,"['vida', 'niño', 'edición']"
+lava,"['lava', 'mar', 'volcán', 'la palma']"
+corpus,"['corpus', 'justicia']"
+red,['red']
+justicia,"['corpus', 'justicia']"
+sheriff tiraspol,"['gustavo dulanto', 'sheriff tiraspol']"
+fase 2,"['fase 2', 'cambio', 'joven', 'balón de oro']"
+verónika mendoza,"['verónika mendoza', 'elección', 'álvaro paz de la barra']"
+américa,"['américa', 'méxico']"
+empresa,"['policía', 'empresa']"
+méxico,"['américa', 'méxico']"
+benfica,"['barcelona', 'benfica']"
+niño,"['vida', 'niño', 'edición']"
+mar,"['lava', 'mar', 'volcán', 'la palma']"
+tema,"['tema', 'mundo', 'informe']"
+elección,"['verónika mendoza', 'elección', 'álvaro paz de la barra']"
+cambio,"['fase 2', 'cambio', 'joven', 'balón de oro']"
+señor de los milagros,['señor de los milagros']
+mundo,"['tema', 'mundo', 'informe']"
+día mundial del corazón,['día mundial del corazón']
+joven,"['fase 2', 'cambio', 'joven', 'balón de oro']"
+gabinete,"['congreso', 'gabinete']"
+volcán,"['lava', 'mar', 'volcán', 'la palma']"
+edición,"['vida', 'niño', 'edición']"
+mira en vivo,"['iber maraví', 'mira en vivo']"
+la palma,"['lava', 'mar', 'volcán', 'la palma']"
+proceso,['proceso']
+canciller,['canciller']
+dinámicos del centro,"['fiscalía', 'dinámicos del centro']"
+informe,"['tema', 'mundo', 'informe']"
+balón de oro,"['fase 2', 'cambio', 'joven', 'balón de oro']"
+sol,"['miércoles', 'sol']"
+álvaro paz de la barra,"['verónika mendoza', 'elección', 'álvaro paz de la barra']"
+cristiano ronaldo,"['partido', 'equipo', 'cristiano ronaldo']"
